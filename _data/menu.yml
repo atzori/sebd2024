@@ -3,46 +3,26 @@ toc:
     submenu:
       - page: Call for Papers
         url: ./#cfp
-      - page: Call for Workshops
-        url: ./workshops#call
-      - page: Doctoral Consortium
-        url: ./doctoral-consortium
-      - page: TELA workshop
-        url: ./tela
-      - page: Topics
-        url: ./#topics
       - page: Important Dates
         url: ./#dates
       - page: Submission Instructions
         url: ./#submission
-  - title: Awards and Grants
-    submenu:
-      - page: C.V. Ramamoorthy Award
-        url: ./award
-      - page: Young researchers Travel Awards
-        url: ./doctoral-consortium
   - title: Attending
     submenu:
       - page: Registration
-        url: http://www.cvent.com/d/m6qfg7
       - page: Venue 
-        url: https://www.hotelreginamargherita.com/en/
+        url: https://www.voitankaresort.com/
       - page: Accomodation Options
-        url: ./accomodation
       - page: Travel info
         url: http://www.cagliariturismo.it/en/get-to-cagliari
-      - page: About Cagliari
-        url: https://www.lonelyplanet.com/italy/sardinia/cagliari
+      - page: About Villasimius
+        url: https://www.sardegnaturismo.it/en/places/sud/villasimius
       - page: Visa Application
         url: ./#contacts
   - title: Program
     submenu:
-      - page: Detailed Conference Program (preliminary)
-        url: https://docs.google.com/document/d/e/2PACX-1vSlXTcg7M_rVCkqCSEgUi526jUc6CEfP_AwlSrGgSHmNWkUZVjDsPUyLyWmio-2Wv8dWJJb6dUax6vX/pub
+      - page: Conference Program
       - page: Keynote Speakers
-        url: ./#keynotes
-      - page: TELA Workshop
-        url: ./tela
       #- page: Accepted Papers (tba)
       #- page: Timetable (tba)
       #- page: Special Events (tba)
@@ -51,8 +31,7 @@ toc:
       - page: Organization Committee
         url: ./#committees
       - page: Program Committee
-        url: ./pc
       - page: Contacts
         url: ./#contacts
-  - title: Previous Edition
-    url: http://www.ieee-aike.org/2018/
+  - title: Previous Editions
+    url: http://sebd.org/pastSymposiums.htm
