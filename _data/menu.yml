@@ -23,6 +23,7 @@ toc:
     submenu:
       - page: Conference Program
       - page: Keynote Speakers
+        url: ./#keynotes
       #- page: Accepted Papers (tba)
       #- page: Timetable (tba)
       #- page: Special Events (tba)
