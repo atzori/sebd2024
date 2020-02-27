@@ -1,50 +1,58 @@
 ---
-title: Program Committee
+title: SEBD 2020 Program Committee
 ---
 
- - *Maurizio Lenzerini*, Sapienza University of Rome (Chair)
- - *Shi Gao*, Google (Chair)
- - *Yunmook Nah*, Dankook University (Chair)
- - *Abhijin Adiga*, University of Virginia
- - *Amparo Alonso-Betanzos*, University of A Coruña
- - *Martin Atzmueller*, Tilburg University
+ - *Maristella Agosti*, University of Padua
+ - *Annalisa Appice*, University Aldo Moro of Bari
+ - *Mattia Atzeni*, University of Cagliari
  - *Maurizio Atzori*, University of Cagliari
- - *Elena Baralis*, Politecnico di Torino
- - *Stefano Ceri*, Politecnico di Milano
- - *Muhao Chen*, University of California, Los Angeles
- - *Seong-Je Cho*, Department of Computer Science & Engineering, Dankook University
- - *Lynn Choi*, Korea University
- - *Claudia d'Amato*, University of Bari
- - *Ernesto Damiani*, University of Milan
- - *Beniamino Di Martino*, University of Campania "Luigi Vanvitelli"
- - *Enrico Franconi*, Free University of Bozen-Bolzano
- - *Kyu-Baek Hwang*, Soongsil University
- - *Matteo Interlandi*, Microsoft
- - *Franz Kurfess*, Cal Poly SLO
- - *Anne Laurent*, LIRMM - UM
- - *Sangjun Lee*, Soongsil University
+ - *Ilaria Bartolini*, University of Bologna
+ - *Alberto Belussi*, Dept. of Computer Science, University of Verona
+ - *Devis Bianchini*, University of Brescia
+ - *Francesco Buccafurri*, UNIRC
+ - *Luca Cabibbo*, Università Roma Tre
+ - *Cinzia Cappiello*, Politecnico di Milano
+ - *Loredana Caruccio*, University of Salerno
+ - *Barbara Catania*, DIBRIS-University of Genoa, Italy
+ - *Michelangelo Ceci*, Universita degli Studi di Bari
+ - *Silvia Chiusano*, Politecnico di Torino
+ - *Paolo Ciaccia*, University of Bologna
+ - *Tommaso Di Noia*, Politecnico di Bari
+ - *Fabrizio Falchi*, ISTI-CNR
+ - *Bettina Fazzinga*, ICAR-CNR, Rende(CS), Italy
+ - *Alfio Ferrara*, University of Milan
+ - *Elena Ferrari*, University of Insubria
+ - *Nicola Ferro*, University of Padova
+ - *Donatella Firmani*, Roma Tre University
+ - *Paolo Garza*, Politecnico di Torino
+ - *Claudio Gennaro*, ISTI - CNR
+ - *Matteo Golfarelli*, University of Bologna
+ - *Sergio Greco*, University of Calabria
+ - *Francesco Guerra*, Università di Modena e Reggio Emilia
+ - *Antonella Guzzo*, University of Calabria
  - *Domenico Lembo*, Sapienza University of Rome
- - *Shuai Li*, University of Cambridge
- - *Simone Ludwig*, North Dakota State University
- - *Brad Malin*, Vanderbilt University
- - *Elio Masciari*, ICAR-CNR
- - *Florent Masseglia*, INRIA
- - *Mirjana Mazuran*, INRIA
- - *Giuseppe M. Mazzeo*, Facebook
+ - *Federica Mandreoli*, DII - University of Modena
+ - *Davide Martinenghi*, Politecnico di Milano
+ - *Elio Masciari*, Federico II University
+ - *Andrea Maurino*, università degli studi di Milano - Bicocca
+ - *Massimo Mecella*, Sapienza University of Rome
+ - *Fabio Mercorio*, University of Milano Bicocca
+ - *Anna Monreale*, Computer Science Dep., University of Pisa
+ - *Stefano Montanelli*, University of Milan
  - *Mirco Nanni*, KDD-Lab ISTI-CNR Pisa
- - *Adina M. Panchea*, LIX, Cosynus team, Ecole Polytechnique
- - *Ki-Woong Park*, Sejong University
- - *Fabio Persia*, Free University of Bozen-Bolzano
- - *Barbara Pes*, Università degli Studi di Cagliari
- - *Gianvito Pio*, University of Bari "Aldo Moro"
+ - *Francesco Nocera*, Polytechnic University of Bari
+ - *Paolo Papotti*, Eurecom
+ - *Stefano Paraboschi*, Universita di Bergamo
+ - *Ruggero G. Pensa*, University of Torino, Italy
+ - *Barbara Pes*, Università degli Studi di Cagliari, Dipartimento di Matematica e Informatica
+ - *Domenico Potena*, Università Politecnica delle Marche
+ - *Elisa Quintarelli*, Università di Verona
+ - *Carlo Sartiani*, Universita della Basilicata
  - *Domenico Fabio Savo*, University of Bergamo
- - *Stefan Schwab*, FZI Research Center for Information Technology
- - *Ucl Dept. Of Science*, University College London
- - *Phillip Sheu*, University of California, Irvine
- - *Le Hoang Son*, VNU University of Science, Vietnam National University
- - *Dongjin Song*, NEC Labs America
- - *Hwang Soochan*, Korea Aerospace University
- - *Lubomir Stanchev*, Cal Poly
- - *Lini Thomas*, IIIT Hyderabad
- - *Benjamin W. Wah*, The Chinese University of Hong Kong
- - *Carlo Zaniolo*, University of California, Los Angeles
+ - *Monica Scannapieco*, ISTAT
+ - *Gianmaria Silvello*, University of Padua
+ - *Emanuele Storti*, Università Politecnica delle Marche
+ - *Letizia Tanca*, Politecnico di Milano
+ - *Irina Trubitsyna*, University of Calabria, DIMES
+ - *Pierangelo Veltri*, Laboratory of Bioinformatics, University of Catanzaro
+
