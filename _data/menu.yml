@@ -10,21 +10,22 @@ toc:
   - title: Attending
     submenu:
       - page: Registration
-      - page: Venue 
-        url: https://www.voitankaresort.com/
-      - page: Accomodation Options
-      - page: Travel info
-        url: http://www.cagliariturismo.it/en/get-to-cagliari
+      - page: Online Participation
+      #- page: Venue 
+      #  url: https://www.voitankaresort.com/
+      #- page: Accomodation Options
+      #- page: Travel info
+      #  url: http://www.cagliariturismo.it/en/get-to-cagliari
       - page: About Villasimius
         url: https://www.sardegnaturismo.it/en/places/sud/villasimius
-      - page: Visa Application
-        url: ./#contacts
+      #- page: Visa Application
+      #  url: ./#contacts
   - title: Program
     submenu:
       - page: Conference Program
       - page: Keynote Speakers
         url: ./#keynotes
-      #- page: Accepted Papers (tba)
+      - page: Accepted Papers (tba)
       #- page: Timetable (tba)
       #- page: Special Events (tba)
   - title: Organization
