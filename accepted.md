@@ -2,7 +2,7 @@
 title: SEBD 2020 Accepted Papers
 ---
 
- - &num;1 *Fabio A. Schreiber and Maria Elena Valcher* Formal Verification of Context Aware Systems (Discussion paper)
+ - #1 *Fabio A. Schreiber and Maria Elena Valcher* Formal Verification of Context Aware Systems (Discussion paper)
  - &num;2 *Paolo Ciaccia, Davide Martinenghi and Riccardo Torlone* Where Porceddu is better than Pasta (Discussion Paper) 
  - &num;3 *Eugenio Vocaturo and Ester Zumpano* Automatic Detection of Dysplastic Nevi: a Multiple Instance Learning Solution (Discussion paper)
  - &num;5 *Mario Zupan, Svjetlana Letinic and Verica Budimir* Accounting journal reconstruction with Variational autoencoders and Long short-term memory architecture (Regular paper)
