@@ -2,9 +2,8 @@
 title: SEBD 2020 Accepted Papers
 ---
 
-
  - &num;1 *Fabio A. Schreiber and Maria Elena Valcher* Formal Verification of Context Aware Systems (Discussion paper)
- - &num;2 *Paolo Ciaccia, Davide Martinenghi and Riccardo Torlone* Where Porceddu is better than Pasta (Discussion Paper) ()
+ - &num;2 *Paolo Ciaccia, Davide Martinenghi and Riccardo Torlone* Where Porceddu is better than Pasta (Discussion Paper) 
  - &num;3 *Eugenio Vocaturo and Ester Zumpano* Automatic Detection of Dysplastic Nevi: a Multiple Instance Learning Solution (Discussion paper)
  - &num;5 *Mario Zupan, Svjetlana Letinic and Verica Budimir* Accounting journal reconstruction with Variational autoencoders and Long short-term memory architecture (Regular paper)
  - &num;6 *Amos Brocco, Patrick Ceppi and Lorenzo Sinigaglia* libJoTS: JSON That Syncs! (Regular paper)
@@ -33,7 +32,7 @@ title: SEBD 2020 Accepted Papers
  - &num;32 *Antonio Caliò and Andrea Tagarelli* A framework for complex influence propagation based on the F2DLT class of diffusion models (Discussion paper)
  - &num;33 *Angelo Chianese, Elio Masciari, Vincenzo Moscato, Antonio Picariello and Giancarlo Sperlì* Some experiments on Deep Learning for Fake News Detection (Discussion paper)
  - &num;34 *Alfredo Cuzzocrea, Giovanni Pilato and Edoardo Fadda* User Emotion Detection via Taxonomy Management: An Innovative System (Discussion paper)
- - &num;37 *Emanuele Barracchia, Gianvito Pio, Domenica D'Elia and Michelangelo Ceci* Prediction of new associations between ncRNAs and diseases exploiting Multi-Type Hierarchical Clustering (Discussion paper) ()
+ - &num;37 *Emanuele Barracchia, Gianvito Pio, Domenica D'Elia and Michelangelo Ceci* Prediction of new associations between ncRNAs and diseases exploiting Multi-Type Hierarchical Clustering (Discussion paper) 
  - &num;38 *Angelo Impedovo, Corrado Loglisci, Michelangelo Ceci and Donato Malerba* jKarma: a highly-modular framework for pattern-based change detection on evolving data (Discussion paper)
  - &num;39 *Virginia Morini, Laura Pollacci and Giulio Rossetti* Capturing political polarization of Reddit submissions in the Trump Era (Discussion paper)
  - &num;40 *Sergio Greco, Michele Ianni, Elio Masciari, Domenico Sacca and Irina Trubitsyna* Smart Data Exchange (Discussion paper)
