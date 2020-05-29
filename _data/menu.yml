@@ -25,7 +25,8 @@ toc:
       - page: Conference Program
         url: ./program
       - page: Keynote Speakers
-        url: ./#keynotes
+        url: ./invited
+      - page: Tutorial and Panel
       - page: Accepted Papers
         url: ./accepted
       #- page: Timetable (tba)
