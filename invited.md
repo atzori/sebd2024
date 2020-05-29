@@ -1,5 +1,5 @@
 ---
-title: Keynotes Talks
+title: SEBD 2020 Keynotes Talks
 ---
 
  
@@ -8,7 +8,6 @@ title: Keynotes Talks
 <div class="row justify-content-center">
           <div class="col-lg-4 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-
              <img class="mx-auto rounded" src="img/sebd2020-weikum.jpg" style="width:59%;"/>
             </div>
           </div>
