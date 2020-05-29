@@ -23,6 +23,7 @@ toc:
   - title: Program
     submenu:
       - page: Conference Program
+        url: ./program
       - page: Keynote Speakers
         url: ./#keynotes
       - page: Accepted Papers
