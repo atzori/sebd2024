@@ -65,7 +65,7 @@ title: SEBD 2020 Conference Program
 #### Text analysis and search 
 - #16	Tobias Groth, Sven Groppe, Martin Koppehel and Thilo Pionteck. **Parallelizing Approximate Search on Adaptive Radix Trees**.
 - #19	Dennis Dosso and Gianmaria Silvello. **A Document-based RDF Keyword Search System: Query-by-Query Analysis**.
-- #39	Virginia Morini, Laura Pollacci and Giulio Rossetti. **Capturing political polarization of Reddit submissions in the Trump Era
+- #39	Virginia Morini, Laura Pollacci and Giulio Rossetti. **Capturing political polarization of Reddit submissions in the Trump Era**.
 
 #### Deep learning
 - #5	Mario Zupan, Svjetlana Letinic and Verica Budimir. **Accounting journal reconstruction with Variational autoencoders and Long short-term memory architecture**.
