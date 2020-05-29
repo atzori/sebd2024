@@ -39,10 +39,10 @@ title: SEBD 2020 Conference Program
 | Time          | Session       |
 | ------------- | ------------- |
 | 9.15-9.30    | Opening       |
-| 09:30 - 10.30 | 	Social and knowledge graphs (4 papers) |
-| 10:45 - 11.45 | 	Invited talk: Prof. Tova Milo	11:45 | 
-| 12:00 - 13.00 | 	Multimedia content analysis (4 papers) |
-| 15:00 - 16.00 | 	Security issues (4) |
-| 16:15 - 17.15 | 	Data mining (4) |
+| 09.30 - 10.30 | 	Social and knowledge graphs (4 papers) |
+| 10.45 - 11.45 | 	Invited talk: Prof. Tova Milo	11:45 | 
+| 12.00 - 13.00 | 	Multimedia content analysis (4 papers) |
+| 15.00 - 16.00 | 	Security issues (4) |
+| 16.15 - 17.15 | 	Data mining (4) |
 
 
