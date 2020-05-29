@@ -45,6 +45,10 @@ title: SEBD 2020 Conference Program
 | 15.00 - 16.00 | 	Security issues (4) |
 | 16.15 - 17.15 | 	Data mining (4) |
 
+
+---
+
+
 ## Sessions
 
 #### Ontologies and data integration
