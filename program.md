@@ -2,13 +2,13 @@
 title: SEBD 2020 Conference Program
 ---
 
-## Sunday June 21, 2020
+### Sunday June 21, 2020
 
 | Time   | Session                 |
 | ------ | ----------------------- |
 | 17.30- | Welcome cocktail (BYO)  |
 
-## Monday June 22, 2020
+### Monday June 22, 2020
 
 | Time          | Session       |
 | ------------- | ------------- |
@@ -19,7 +19,7 @@ title: SEBD 2020 Conference Program
 | 16.00-18.00	  | Tutorial + Panel on Open Access	|
 
 
-## Tuesday June 23, 2020
+### Tuesday June 23, 2020
 
 | Time          | Session       |
 | ------------- | ------------- |
@@ -28,11 +28,21 @@ title: SEBD 2020 Conference Program
 | 10.30	-	11.15 |Deep learning (3 papers) |
 | 11.30	- 12.00 |NoSQL data (2 papers) |
 | 12.15	- 12.45 |Trajectories and diffusion (2 papers)	|
-| 15:00 - 16:00 | Health and medicine (4 papers)	|
-| 16:15 - 17:15 | 	Context and ranking (4 papers)	|
-| 17:45 - 18:45 | 	Invited talk: Prof. Carlo Zaniolo	|
-| 19:30 -  | 	Cena sociale (BYO) |
+| 15.00 - 16.00 | Health and medicine (4 papers)	|
+| 16.15 - 17.15 | 	Context and ranking (4 papers)	|
+| 17.45 - 18.45 | 	Invited talk: Prof. Carlo Zaniolo	|
+| 19.30 -  | 	Cena sociale (BYO) |
 
 
+### Wednesday June 24, 2020
+
+| Time          | Session       |
+| ------------- | ------------- |
+| 9.15-9.30    | Opening       |
+| 09:30 - 10.30 | 	Social and knowledge graphs (4 papers) |
+| 10:45 - 11.45 | 	Invited talk: Prof. Tova Milo	11:45 | 
+| 12:00 - 13.00 | 	Multimedia content analysis (4 papers) |
+| 15:00 - 16.00 | 	Security issues (4) |
+| 16:15 - 17.15 | 	Data mining (4) |
 
 
