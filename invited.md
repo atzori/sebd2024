@@ -42,8 +42,7 @@ Weikum received the ACM SIGMOD Contributions Award in 2011, a Google Focused Res
 <div class="row justify-content-center">
           <div class="col-lg-4 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-              <img class="mx-auto rounded" 
-                  src="img/sebd2020-tova11.jpg" style="width:70%;"/>
+              <img class="mx-auto rounded" src="img/sebd2020-tova11.jpg" style="width:70%;"/>
             </div>
           </div>
 </div>
@@ -63,8 +62,7 @@ Weikum received the ACM SIGMOD Contributions Award in 2011, a Google Focused Res
 <div class="row justify-content-center">
           <div class="col-lg-4 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-              <img class="mx-auto rounded" 
-                  <img src="img/sebd2020-zaniolo_scai.jpg" style="width:63%;"/>
+              <img class="mx-auto rounded" src="img/sebd2020-zaniolo_scai.jpg" style="width:63%;"/>
             </div>
           </div>
 </div>
