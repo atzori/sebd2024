@@ -52,24 +52,16 @@ Weikum received the ACM SIGMOD Contributions Award in 2011, a Google Focused Res
 #### Tova Milo - Tel Aviv University, Israel
 
 **Abstract:** We are experiencing an amazing data-centered revolution.
-Incredible amounts of data are collected, integrated and analyzed, lead-
-ing to key breakthroughs in science and society. This well of knowledge,
+Incredible amounts of data are collected, integrated and analyzed, leading to key breakthroughs in science and society. This well of knowledge,
 however, is at a great risk if we do not dispense with some of the data
-flood. First, the amount of generated data grows exponentially and al-
-ready at 2025 is expected to be more than five times the available storage.
-Second, even disregarding storage constraints, uncontrolled data reten-
-tion risks privacy and security, as recognized, e.g., by the recent EU Data
-Protection reform. Data disposal policies must be developed to benefit
-and protect organizations and individuals.
-Retaining the knowledge hidden in the data while respecting storage,
-processing and regulatory constraints is a great challenge. The difficulty
-stems from the distinct, intricate requirements entailed by each type of
+flood. First, the amount of generated data grows exponentially and already at 2025 is expected to be more than five times the available storage.
+Second, even disregarding storage constraints, uncontrolled data retention risks privacy and security, as recognized, e.g., by the recent EU Data
+Protection reform. Data disposal policies must be developed to benefit and protect organizations and individuals.
+Retaining the knowledge hidden in the data while respecting storage, processing and regulatory constraints is a great challenge. The difficulty stems from the distinct, intricate requirements entailed by each type of
 constraint, the scale and velocity of data and the constantly evolving
-needs. While multiple data sketching, summarization and deletion tech-
-niques were developed to address specific aspects of the problem, we are
+needs. While multiple data sketching, summarization and deletion techniques were developed to address specific aspects of the problem, we are
 still very far from a comprehensive solution. Every organization has to
-battle the same tough challenges, with ad hoc solutions that are appli-
-cation specific and rarely sharable.
+battle the same tough challenges, with ad hoc solutions that are application specific and rarely sharable.
 In this talk I will discuss the logical, algorithmic, and methodological
 foundations required for the systematic disposal of large-scale data, for
 constraints enforcement and for the development of applications over the
@@ -101,26 +93,20 @@ group.
 
 
 **Abstract:** In theory, the combined use of recursion and negation allows the
-declarative expression of very powerful algorithms in languages such as Data-
-log or SQL. However, the diffculty of writing such programs and proving that
+declarative expression of very powerful algorithms in languages such as Datalog or SQL. However, the diffculty of writing such programs and proving that
 they satisfy formal non-monotonic semantics makes such an approach totally
 impractical for software developers. Thus, we propose a new general solution to
 the problem of developing advanced applications in logic-based languages. Our
 approach is based on the combined use of recursion and aggregates endowed
 with a unified definition of their semantics based on cardinality. In fact, we show
-that this entails the expression on a wide range of algorithms used in ML, data-
-mining and graph applications, which can be very appealing for practitioners
-because of (i) the compactness of their code, (ii) a simplified proof or verifica-
-tion for their stable-model semantics, (iii) their effcient implementations via a
+that this entails the expression on a wide range of algorithms used in ML, data-mining and graph applications, which can be very appealing for practitioners
+because of (i) the compactness of their code, (ii) a simplified proof or verification for their stable-model semantics, (iii) their effcient implementations via a
 max-optimized semi-naive fixpoint algorithm, and (iv) their superior scalability
-via Stale-Synchronous Parallelism. To demonstrate and further enhance the us-
-ability of our proposed framework, including the several efficient and scalable
+via Stale-Synchronous Parallelism. To demonstrate and further enhance the usability of our proposed framework, including the several efficient and scalable
 applications we developed, we provide a Logical Algorithm Library (Llib) and a
 Logical Data-Frame System (LFrame). By integrating access to Llib libray with
-other Apache Spark libraries, and supporting the interoperability of our BigDat-
-alog, RaSQL, and Datalog-ML systems with Scala, Java and Python, LFrame
-turns Datalog into a powerful and attractive tool for advanced application de-
-velopment in the Spark ecosystem.
+other Apache Spark libraries, and supporting the interoperability of our BigDatalog, RaSQL, and Datalog-ML systems with Scala, Java and Python, LFrame
+turns Datalog into a powerful and attractive tool for advanced application development in the Spark ecosystem.
 
 **About the Speaker:** 	Carlo Zaniolo was born in Vicenza, Italy. He received an E.E. Engineer degree at Padua University in 1968, and M.S. and Ph.D. degrees in Computer Science at UCLA in 1970 and 1976, respectively. After working at Bell Laboratories, Murray Hill, NJ, and MCC in Austin Texas, Dr. Zaniolo joined the UCLA CS Department in 1991, and was awarded the N.E. Friedmann Chair in Knowledge Science. He received the 2012 SIGMOD Best Paper award, and a Google Research Faculty Award in 2015.
 Dr. Zaniolo's interests include big data and knowledge based systems, non-monotonic and temporal reasoning,  internet information systems, answering questions, queries and searches in knowledge bases.
