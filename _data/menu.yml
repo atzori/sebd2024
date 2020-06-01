@@ -10,6 +10,7 @@ toc:
   - title: Attending
     submenu:
       - page: Registration
+        url: ./registration
       - page: Online Participation
       #- page: Venue 
       #  url: https://www.voitankaresort.com/
