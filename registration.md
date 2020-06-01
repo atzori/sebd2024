@@ -46,8 +46,8 @@ In the following the details to make the wire transfer:
 | Author  | June 10, 2020 | €100 + VAT  | Yes | Yes | At least one author per paper need to register | 
 | Regular participant (SEBD supporter) - early  | June 10, 2020 | €50 + VAT  | Yes | Yes | |
 | Student participant (SEBD supporter) - early  | June 10, 2020 | €20 + VAT  | Yes | Yes | |
-| Regular participant (SEBD supporter) - late  |  after June 10, 2020 | €50 + VAT  | Yes | No | |
-| Student participant (SEBD supporter) - late  |  after June 10, 2020 | €20 + VAT  | Yes | No | |
+| Regular participant (SEBD supporter) - late  |  June 21, 2020 | €50 + VAT  | Yes | No | |
+| Student participant (SEBD supporter) - late  |  June 21, 2020 | €20 + VAT  | Yes | No | |
 
 
 
