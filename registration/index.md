@@ -25,7 +25,7 @@ In the following the details to register.
 
 ### How to register to SEBD2020
 
-![](ict-sud-logo.jpg)
+![](./ict-sud-logo.jpg)
 
 As an author or SEBD supporter, you need to register by wire transfer to [Centro di Competenza ICT SUD (CC-ICT-SUD S.C.R.L.)](https://www.cc-ict-sud.it/).
 In the following the details to make the wire transfer:
@@ -34,13 +34,14 @@ In the following the details to make the wire transfer:
  - owner (intestatario): Centro di Competenza ICT SUD
  - bank: MPS
  - bank agency (filiale): Rende (CS), Italy
- - purpose of the payment (causale) need to have the following format: **SEBD2020, *participant name*, *participant institution* **
+ - purpose of the payment (causale) need to have the following format: <b>SEBD2020, *participant name*, *participant institution* </b>
 
 #### VAT (IVA)
 
 Some registrants are eligible to skip invoicing and avoid VAT payment.
-This will be possible for public employees that fill in and sign the [VAT exemption module](vat-exemption.docx). This must be sent
+This will be possible for public employees that fill in and sign the [VAT exemption module](./vat-exemption.docx). This must be sent
 by email to: Mrs. Concetta De Paola (ICT-SUD) at *concetta.depaola@cc-ict-sud.it*
+
 Others (non public employees) will need to include VAT (22%) in the payment (e.g., for authors: €100+22% = €122) and will receive an invoice including VAT.
 
 For further assistant you can contact Mrs. Concetta De Paola (ICT-SUD) at the email address above.
