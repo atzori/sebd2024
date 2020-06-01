@@ -28,15 +28,6 @@ In the following the details to register.
 ![](https://sebd2020.unica.it/registration/ict-sud-logo.jpg)
 
 
-| Registration Type | Deadline | Amount    | Includes Certificate of Attendance | Includes Gadget | Notes |
-| ----------------- | -------- |---------- |----------------------------------- | --------------- | ----- | 
-| Author  | June 10, 2020 | €100 + VAT  | Yes | Yes | At least one author per paper need to register | 
-| Regular participant (SEBD supporter) - early  | June 10, 2020 | €50 + VAT  | Yes | Yes | |
-| Student participant (SEBD supporter) - early  | June 10, 2020 | €20 + VAT  | Yes | Yes | |
-| Regular participant (SEBD supporter) - late  |  June 10, 2020 | €50 + VAT  | Yes | No | |
-| Student participant (SEBD supporter) - late  |  June 10, 2020 | €20 + VAT  | Yes | No | |
-
-
  
 
 As an author or SEBD supporter, you need to register by wire transfer to [Centro di Competenza ICT SUD (CC-ICT-SUD S.C.R.L.)](https://www.cc-ict-sud.it/).
@@ -48,7 +39,19 @@ In the following the details to make the wire transfer:
  - bank agency (filiale): Rende (CS), Italy
  - purpose of the payment (causale) need to have the following format: <b>SEBD2020, *participant name*, *participant institution* </b>
 
-#### VAT (IVA)
+#### Type of registration
+
+| Registration Type | Deadline | Amount    | Includes Certificate of Attendance | Includes Gadget | Notes |
+| ----------------- | -------- |---------- |----------------------------------- | --------------- | ----- | 
+| Author  | June 10, 2020 | €100 + VAT  | Yes | Yes | At least one author per paper need to register | 
+| Regular participant (SEBD supporter) - early  | June 10, 2020 | €50 + VAT  | Yes | Yes | |
+| Student participant (SEBD supporter) - early  | June 10, 2020 | €20 + VAT  | Yes | Yes | |
+| Regular participant (SEBD supporter) - late  |  after June 10, 2020 | €50 + VAT  | Yes | No | |
+| Student participant (SEBD supporter) - late  |  after June 10, 2020 | €20 + VAT  | Yes | No | |
+
+
+
+##### VAT (IVA) Exemption
 
 Some registrants are eligible to skip invoicing and avoid VAT payment.
 This will be possible for public employees that fill in and sign the [VAT exemption module](https://sebd2020.unica.it/registration/vat-exemption.docx). This must be sent
