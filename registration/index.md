@@ -1,5 +1,5 @@
 ---
-title: SEBD 2020 Registration Details
+title: SEBD 2020 Registration Details and Deadlines
 ---
 
 
@@ -42,6 +42,6 @@ Some registrants are eligible to skip invoicing and avoid VAT payment.
 This will be possible for public employees that fill in and sign the [VAT exemption module](./vat-exemption.docx). This must be sent
 by email to: Mrs. Concetta De Paola (ICT-SUD) at *concetta.depaola@cc-ict-sud.it*
 
-Others (non public employees) will need to include VAT (22%) in the payment (e.g., for authors: €100+22% = €122) and will receive an invoice including VAT.
+Others (non public employees) will need to include VAT (22%) in the payment (e.g., for authors: €100+22% = €122 total payment) and will receive an invoice including VAT.
 
 For further assistant you can contact Mrs. Concetta De Paola (ICT-SUD) at the email address above.
