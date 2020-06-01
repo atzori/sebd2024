@@ -34,7 +34,7 @@ In the following the details to make the wire transfer:
  - owner (intestatario): Centro di Competenza ICT SUD
  - bank: MPS
  - bank agency (filiale): Rende (CS), Italy
- - purpose of the payment (causale) need to have the following format: *SEBD2020, <participant name>, <participant institution>*
+ - purpose of the payment (causale) need to have the following format: **SEBD2020, *participant name*, *participant institution* **
 
 #### VAT (IVA)
 
