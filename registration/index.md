@@ -45,3 +45,10 @@ by email to: Mrs. Concetta De Paola (ICT-SUD) at *concetta.depaola@cc-ict-sud.it
 Others (non public employees) will need to include VAT (22%) in the payment (e.g., for authors: €100+22% = €122 total payment) and will receive an invoice including VAT.
 
 For further assistant you can contact Mrs. Concetta De Paola (ICT-SUD) at the email address above.
+
+
+<script>
+ $(function() {
+   $('#mainNav').first().addClass('d-none');
+ });
+</script>
