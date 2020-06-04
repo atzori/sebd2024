@@ -32,8 +32,8 @@ In the following the details to register.
 As an author or SEBD supporter, you need to register by wire transfer to [Centro di Competenza ICT SUD (CC-ICT-SUD S.C.R.L.)](https://www.cc-ict-sud.it/).
 In the following the details to make the wire transfer (please note it differs depending who make the payment):
 
- - bank account for payments made by privates (IBAN): `IT21H0103080881000061760672`
- - bank account for payments made directly by Public Administrations such as Universities and Departments (IBAN): `IT82H0103080881000061763842`
+ - bank account for payments **made by privates** (IBAN): `IT21H0103080881000061760672`
+ - bank account for payments **made directly by Public Administrations** such as Universities and Departments (IBAN): `IT82H0103080881000061763842`
  - owner (intestatario): Centro di Competenza ICT SUD
  - bank: MPS
  - bank agency (filiale): Rende (CS), Italy
