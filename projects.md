@@ -8,7 +8,7 @@ title: Research Projects dissemination related to SEBD 2020
 <div class="row justify-content-center">
           <div class="col-lg-4 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-             <img class="mx-auto rounded" src="https://www.examode.eu/wp-content/uploads/2018/11/cropped-ExaModeLogo_blacklines_TranspBackGround1.png" style="width:59%;"/>
+             <img class="mx-auto rounded" src="https://www.examode.eu/wp-content/uploads/2018/11/cropped-ExaModeLogo_blacklines_TranspBackGround1.png" style="width:100%;"/>
             </div>
           </div>
 </div>
@@ -31,6 +31,4 @@ The main objectives:
 Duration: 1/1/2019-31/12/2022
 
 
-**[Project Website](https://www.examode.eu/)**
-
-[Project leaflet](img/project-examode-flyer.pdf)
+**[Project Website](https://www.examode.eu/)** - [Project Flyer](img/project-examode-flyer.pdf)
