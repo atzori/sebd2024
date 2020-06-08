@@ -15,7 +15,7 @@ title: Research Projects dissemination related to SEBD 2020
 <br/>
 
 ## ExaMode: Extreme-scale Analytics via Multimodal Ontology Discovery & Enhancement
-#### Reference: Prof. Maristella Agosti - University of Padua, Italy
+#### Reference: Dr. Gianmaria Silvello - University of Padua, Italy
 
 
 The ExaMode project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement no. 825292.
