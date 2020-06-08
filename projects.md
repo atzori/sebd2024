@@ -21,6 +21,7 @@ title: Research Projects dissemination related to SEBD 2020
 The ExaMode project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement no. 825292.
 
 *ExaMode: Driven by data, developed for patients.* Exascale volumes of diverse data from distributed sources are continuously produced. Healthcare data stand out in the size produced (production is expected to be over 2000 exabytes in 2020), heterogeneity (many media, acquisition methods), included knowledge (e.g. diagnosis) and commercial value. The supervised nature of deep learning models requires large labeled, annotated data, which precludes models to extract knowledge and value. Examode solves this by allowing easy and fast, weakly supervised knowledge discovery of exascale heterogeneous data, limiting human interaction.
+
 The main objectives:
 
  1. Weakly-supervised knowledge discovery for exascale medical data;
@@ -31,3 +32,7 @@ Duration: 1/1/2019-31/12/2022
 
 
 **[Project Website](https://www.examode.eu/)** - [Project Flyer](img/project-examode-flyer.pdf)
+
+
+---
+
