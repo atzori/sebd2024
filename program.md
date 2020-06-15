@@ -16,7 +16,7 @@ title: SEBD 2020 Conference Program
 | 10.15-11.15   | Ontologies and data integration (4 papers)     |
 | 11.30-12.30   | Invited talk: Prof. Gerhard Weikum   |
 | 15.00-15.45	  | Anomaly detection and dependencies (3 papers) |
-| 16.00-18.00	  | Tutorial + Panel on Open Access	|
+| 16.00-18.00	  | Open Access: Tutorial (Emma Lazzeri, Paolo Manghi) + Panel  (Stefano Bianco, Emma Lazzeri, Paolo Manghi, Shalini Kurapati)	|
 
 
 ### Tuesday June 23, 2020
