@@ -14,7 +14,7 @@ title: SEBD 2020 Conference Program
 | ------------- | ------------- |
 | 9.30-10.00    | Opening       |
 | 10.15-11.15   | Ontologies and data integration (4 papers)     |
-| 11.30-12.30   | [Invited talk: Prof. Gerhard Weikum](https://sebd2020.unica.it/invited#15-years-of-knowledge-graphs-lessons-challenges-opportunities)   |
+| 11.30-12.30   | [Invited talk: Prof. Gerhard Weikum](https://sebd2020.unica.it/invited#weikum)   |
 | 15.00-15.45	  | Anomaly detection and dependencies (3 papers) |
 | 16.00-18.00	  | Open Access: Tutorial (Emma Lazzeri, Paolo Manghi) + Panel  (Stefano Bianco, Emma Lazzeri, Paolo Manghi, Shalini Kurapati)	|
 
@@ -30,7 +30,7 @@ title: SEBD 2020 Conference Program
 | 12.15	- 12.45 |Trajectories and diffusion (2 papers)	|
 | 15.00 - 16.00 | Health and medicine (4 papers)	|
 | 16.15 - 17.15 | 	Context and ranking (4 papers)	|
-| 17.45 - 18.45 | 	Invited talk: Prof. Carlo Zaniolo	|
+| 17.45 - 18.45 | 	[Invited talk: Prof. Carlo Zaniolo](https://sebd2020.unica.it/invited#zaniolo)	|
 | 19.30 -  | 	Cena sociale (BYO) |
 
 
@@ -40,7 +40,7 @@ title: SEBD 2020 Conference Program
 | ------------- | ------------- |
 | 9.15-9.30    | Opening       |
 | 09.30 - 10.30 | 	Social and knowledge graphs (4 papers) |
-| 10.45 - 11.45 | 	Invited talk: Prof. Tova Milo | 
+| 10.45 - 11.45 | 	[Invited talk: Prof. Tova Milo](https://sebd2020.unica.it/invited#milo) | 
 | 12.00 - 13.00 | 	Multimedia content analysis (4 papers) |
 | 15.00 - 16.00 | 	Security issues (4) |
 | 16.15 - 17.15 | 	Data mining (4) |
