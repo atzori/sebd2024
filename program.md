@@ -28,7 +28,7 @@ title: SEBD 2020 Conference Program
 | ------------- | ------------- |
 | 15.00-15.45	  | [Anomaly detection and dependencies](#anomaly-detection-and-dependencies) (3 papers) |
 |     | <small class="text-muted">break</small>   |
-| 16.00-18.00	  | Open Access: <small class="text-muted">Tutorial (Emma Lazzeri, Paolo Manghi) + Panel  (Stefano Bianco, Emma Lazzeri, Paolo Manghi, Shalini Kurapati)</small>	|
+| 16.00-18.00	  | Open Access: <small class="text-muted"><ul><li>Tutorial (Emma Lazzeri, Paolo Manghi)</li><li> Panel  (Stefano Bianco, Emma Lazzeri, Paolo Manghi, Shalini Kurapati)</li><ul></small>	|
 
 
 <!--### Tuesday June 23, 2020 -->
