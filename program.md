@@ -4,65 +4,83 @@ title: SEBD 2020 Conference Program
 
 <!--### Sunday June 21, 2020 -->
 
-| Time   | Sunday June 21, 2020 - Special Session                 |
+<div></div>
+
+|    | Sunday June 21, 2020 - Special Session                 |
 | ------ | ----------------------- |
 | 17.30- | Welcome cocktail (BYO)  |
 
 <!--### Monday June 22, 2020 -->
 
-| Time          | Monday June 22, 2020 - Morning Sessions       |
+<div></div>
+
+|           | Monday June 22, 2020 - Morning Sessions       |
 | ------------- | ------------- |
 | 9.30-10.00    | Opening       |
 | 10.15-11.15   | [Ontologies and data integration](#ontologies-and-data-integration) (4 papers)     |
-|     | break    |
+|     | <small class="text-muted">break</small>   |
 | 11.30-12.30   | [Invited talk: Prof. Gerhard Weikum](https://sebd2020.unica.it/invited#weikum)   |
 
-|  Time   |   Monday June 22, 2020 - Afternoon Sessions |
+
+<div></div>
+
+|     |   Monday June 22, 2020 - Afternoon Sessions |
 | ------------- | ------------- |
 | 15.00-15.45	  | [Anomaly detection and dependencies](#anomaly-detection-and-dependencies) (3 papers) |
-|     | break    |
+|     | <small class="text-muted">break</small>   |
 | 16.00-18.00	  | Open Access: <small class="text-muted">Tutorial (Emma Lazzeri, Paolo Manghi) + Panel  (Stefano Bianco, Emma Lazzeri, Paolo Manghi, Shalini Kurapati)</small>	|
 
 
 <!--### Tuesday June 23, 2020 -->
 
-| Time          | Tuesday June 23, 2020 - Morning Sessions       |
+<div></div>
+
+|           | Tuesday June 23, 2020 - Morning Sessions       |
 | ------------- | ------------- |
 | 9.15-9.30    | Opening       |
 | 09.30 - 10.15	| [Text analysis and search](#text-analysis-and-search) (3 papers)	|
-|     | break    |
+|     | <small class="text-muted">break</small>   |
 | 10.30	-	11.15 | [Deep learning](#deep-learning) (3 papers) |
-|     | break    |
+|     | <small class="text-muted">break</small>   |
 | 11.30	- 12.00 | [NoSQL data](#nosql-data) (2 papers) |
-|     | break    |
+|     | <small class="text-muted">break</small>   |
 | 12.15	- 12.45 | [Trajectories and diffusion](#trajectories-and-diffusion) (2 papers)	|
 
-| Time          | Tuesday June 23, 2020 - Afternoon Sessions       |
+
+<div></div>
+
+|           | Tuesday June 23, 2020 - Afternoon Sessions       |
 | ------------- | ------------- |
 | 15.00 - 16.00 | [Health and medicine](#health-and-medicine) (4 papers)	|
-|     | break    |
+|     | <small class="text-muted">break</small>   |
 | 16.15 - 17.15 | [Context and ranking](#context-and-ranking) (4 papers)	|
-|     | break    |
+|     | <small class="text-muted">break</small>   |
 | 17.45 - 18.45 | [Invited talk: Prof. Carlo Zaniolo](https://sebd2020.unica.it/invited#zaniolo)	|
 |     |     |
 | 19.30 -  | 	Cena sociale (BYO) |
 
 
+<div></div>
+
+
 <!--### Wednesday June 24, 2020 -->
 
-| Time          | Wednesday June 24, 2020 - Morning Sessions       |
+|           | Wednesday June 24, 2020 - Morning Sessions       |
 | ------------- | ------------- |
 | 9.15-9.30    | Opening       |
 | 09.30 - 10.30 | 	[Social and knowledge graphs](#social-and-knowledge-graphs) (4 papers) |
-|     | break    |
+|     | <small class="text-muted">break</small>   |
 | 10.45 - 11.45 | 	[Invited talk: Prof. Tova Milo](https://sebd2020.unica.it/invited#milo) | 
-|     | break    |
+|     | <small class="text-muted">break</small>   |
 | 12.00 - 13.00 | 	[Multimedia content analysis](#multimedia-content-analysis) (4 papers) |
 
-| Time          | Wednesday June 24, 2020 - Morning Sessions       |
+
+<div></div>
+
+|           | Wednesday June 24, 2020 - Morning Sessions       |
 | ------------- | ------------- |
 | 15.00 - 16.00 | 	[Security issues](#security-issues) (4 papers) |
-|     | break    |
+|     | <small class="text-muted">break</small>   |
 | 16.15 - 17.15 | 	[Data mining](#data-mining) (4 papers) |
 | 17.15 - 17.30 | 	Closing SEBD 2020 |
 
