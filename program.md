@@ -24,13 +24,13 @@ title: SEBD 2020 Conference Program
 | Time          | Session       |
 | ------------- | ------------- |
 | 9.15-9.30    | Opening       |
-| 09.30 - 10.15	|[Text analysis and search](./#text-analysis-and-search) (3 papers)	|
-| 10.30	-	11.15 |[Deep learning](./deep-learning) (3 papers) |
-| 11.30	- 12.00 |NoSQL data (2 papers) |
-| 12.15	- 12.45 |Trajectories and diffusion (2 papers)	|
-| 15.00 - 16.00 | Health and medicine (4 papers)	|
-| 16.15 - 17.15 | 	Context and ranking (4 papers)	|
-| 17.45 - 18.45 | 	[Invited talk: Prof. Carlo Zaniolo](https://sebd2020.unica.it/invited#zaniolo)	|
+| 09.30 - 10.15	| [Text analysis and search](#text-analysis-and-search) (3 papers)	|
+| 10.30	-	11.15 | [Deep learning](#deep-learning) (3 papers) |
+| 11.30	- 12.00 | [NoSQL data](#nosql-data) (2 papers) |
+| 12.15	- 12.45 | [Trajectories and diffusion](#trajectories-and-diffusion) (2 papers)	|
+| 15.00 - 16.00 | [Health and medicine](#health-and-medicine) (4 papers)	|
+| 16.15 - 17.15 | [Context and ranking](#context-and-ranking) (4 papers)	|
+| 17.45 - 18.45 | [Invited talk: Prof. Carlo Zaniolo](https://sebd2020.unica.it/invited#zaniolo)	|
 | 19.30 -  | 	Cena sociale (BYO) |
 
 
@@ -39,11 +39,12 @@ title: SEBD 2020 Conference Program
 | Time          | Session       |
 | ------------- | ------------- |
 | 9.15-9.30    | Opening       |
-| 09.30 - 10.30 | 	Social and knowledge graphs (4 papers) |
+| 09.30 - 10.30 | 	[Social and knowledge graphs](#social-and-knowledge-graphs) (4 papers) |
 | 10.45 - 11.45 | 	[Invited talk: Prof. Tova Milo](https://sebd2020.unica.it/invited#milo) | 
-| 12.00 - 13.00 | 	Multimedia content analysis (4 papers) |
-| 15.00 - 16.00 | 	Security issues (4) |
-| 16.15 - 17.15 | 	Data mining (4) |
+| 12.00 - 13.00 | 	[Multimedia content analysis](#multimedia-content-analysis) (4 papers) |
+| 15.00 - 16.00 | 	[Security issues](#security-issues) (4 papers) |
+| 16.15 - 17.15 | 	[Data mining](#data-mining) (4 papers) |
+| 17.15 - 17.30 | 	Closing SEBD 2020 |
 
 
 ---
