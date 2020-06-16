@@ -157,4 +157,6 @@ title: SEBD 2020 Conference Program
 
 
 
-
+<script>
+  $('table').addClass('table').addClass('table-bordered')
+</script>
