@@ -14,8 +14,11 @@ title: SEBD 2020 Conference Program
 | ------------- | ------------- |
 | 9.30-10.00    | Opening       |
 | 10.15-11.15   | [Ontologies and data integration](#ontologies-and-data-integration) (4 papers)     |
+|     | break    |
 | 11.30-12.30   | [Invited talk: Prof. Gerhard Weikum](https://sebd2020.unica.it/invited#weikum)   |
+|     |    |
 | 15.00-15.45	  | [Anomaly detection and dependencies](#anomaly-detection-and-dependencies) (3 papers) |
+|     | break    |
 | 16.00-18.00	  | Open Access: Tutorial (Emma Lazzeri, Paolo Manghi) + Panel  (Stefano Bianco, Emma Lazzeri, Paolo Manghi, Shalini Kurapati)	|
 
 
@@ -25,12 +28,19 @@ title: SEBD 2020 Conference Program
 | ------------- | ------------- |
 | 9.15-9.30    | Opening       |
 | 09.30 - 10.15	| [Text analysis and search](#text-analysis-and-search) (3 papers)	|
+|     | break    |
 | 10.30	-	11.15 | [Deep learning](#deep-learning) (3 papers) |
+|     | break    |
 | 11.30	- 12.00 | [NoSQL data](#nosql-data) (2 papers) |
+|     | break    |
 | 12.15	- 12.45 | [Trajectories and diffusion](#trajectories-and-diffusion) (2 papers)	|
+|     |   |
 | 15.00 - 16.00 | [Health and medicine](#health-and-medicine) (4 papers)	|
+|     | break    |
 | 16.15 - 17.15 | [Context and ranking](#context-and-ranking) (4 papers)	|
+|     | break    |
 | 17.45 - 18.45 | [Invited talk: Prof. Carlo Zaniolo](https://sebd2020.unica.it/invited#zaniolo)	|
+|     |     |
 | 19.30 -  | 	Cena sociale (BYO) |
 
 
@@ -40,9 +50,13 @@ title: SEBD 2020 Conference Program
 | ------------- | ------------- |
 | 9.15-9.30    | Opening       |
 | 09.30 - 10.30 | 	[Social and knowledge graphs](#social-and-knowledge-graphs) (4 papers) |
+|     | break    |
 | 10.45 - 11.45 | 	[Invited talk: Prof. Tova Milo](https://sebd2020.unica.it/invited#milo) | 
+|     | break    |
 | 12.00 - 13.00 | 	[Multimedia content analysis](#multimedia-content-analysis) (4 papers) |
+|     |    |
 | 15.00 - 16.00 | 	[Security issues](#security-issues) (4 papers) |
+|     | break    |
 | 16.15 - 17.15 | 	[Data mining](#data-mining) (4 papers) |
 | 17.15 - 17.30 | 	Closing SEBD 2020 |
 
