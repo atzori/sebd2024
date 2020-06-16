@@ -5,7 +5,7 @@ title: SEBD 2020 Keynotes Talks
  
  
 
-<div class="row justify-content-center">
+<div id="weikum" class="row justify-content-center">
           <div class="col-lg-4 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
              <img class="mx-auto rounded" src="img/sebd2020-weikum.jpg" style="width:59%;"/>
@@ -39,7 +39,7 @@ Weikum received the ACM SIGMOD Contributions Award in 2011, a Google Focused Res
 <hr> <!-- ------------------------------- -->
 
 
-<div class="row justify-content-center">
+<div id="milo" class="row justify-content-center">
           <div class="col-lg-4 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
               <img class="mx-auto rounded" src="img/sebd2020-tova11.jpg" style="width:70%;"/>
@@ -77,7 +77,7 @@ group.
 
 <hr> <!-- ------------------------------- -->
 
-<div class="row justify-content-center">
+<div id="zaniolo" class="row justify-content-center">
           <div class="col-lg-4 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
               <img class="mx-auto rounded" src="img/sebd2020-zaniolo_scai.jpg" style="width:63%;"/>
