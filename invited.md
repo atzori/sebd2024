@@ -36,43 +36,6 @@ Weikum received the ACM SIGMOD Contributions Award in 2011, a Google Focused Res
 
 [Gerhard Weikum website](http://people.mpi-inf.mpg.de/~weikum/)
 
-<hr id="milo"> <!-- ------------------------------- -->
-
-
-<div class="row justify-content-center">
-          <div class="col-lg-4 col-md-6 text-center">
-            <div class="service-box mt-5 mx-auto">
-              <img class="mx-auto rounded" src="img/sebd2020-tova11.jpg" style="width:70%;"/>
-            </div>
-          </div>
-</div>
-<br/>
-
-## Getting Rid of Data
-#### Tova Milo - Tel Aviv University, Israel
-
-**Abstract:** We are experiencing an amazing data-centered revolution.
-Incredible amounts of data are collected, integrated and analyzed, leading to key breakthroughs in science and society. This well of knowledge,
-however, is at a great risk if we do not dispense with some of the data
-flood. First, the amount of generated data grows exponentially and already at 2025 is expected to be more than five times the available storage.
-Second, even disregarding storage constraints, uncontrolled data retention risks privacy and security, as recognized, e.g., by the recent EU Data
-Protection reform. Data disposal policies must be developed to benefit and protect organizations and individuals.
-Retaining the knowledge hidden in the data while respecting storage, processing and regulatory constraints is a great challenge. The difficulty stems from the distinct, intricate requirements entailed by each type of
-constraint, the scale and velocity of data and the constantly evolving
-needs. While multiple data sketching, summarization and deletion techniques were developed to address specific aspects of the problem, we are
-still very far from a comprehensive solution. Every organization has to
-battle the same tough challenges, with ad hoc solutions that are application specific and rarely sharable.
-In this talk I will discuss the logical, algorithmic, and methodological
-foundations required for the systematic disposal of large-scale data, for
-constraints enforcement and for the development of applications over the
-retained information. I will overview relevant related work, highlighting
-new research challenges and potential reuse of existing techniques, as
-well as the research performed in this direction in the Tel Aviv Databases
-group.
-
-**About the Speaker:** Tova Milo received her Ph.D. degree in Computer Science from the Hebrew University, Jerusalem, in 1992. After graduating she worked at the INRIA research institute in Paris and at University of Toronto and returned to Israel in 1995, joining the School of Computer Science at Tel Aviv university, where she is now a full Professor and holds the Chair of Information Management. She served as the Head of the Computer Science Department from 2011-2014. Her research focuses on large-scale data management applications such as data integration, semi-structured information, Data-centered Business Processes and Crowd-sourcing, studying both theoretical and practical aspects. Tova served as the Program Chair of multiple international conferences, including PODS, VLDB, ICDT, XSym, and WebDB, and as the chair of the PODS Executive Committee. She served as a member of the VLDB Endowment and the PODS and ICDT executive boards and as an editor of TODS, IEEE Data Eng. Bull, and the Logical Methods in Computer Science Journal. Tova has received grants from the Israel Science Foundation, the US-Israel Binational Science Foundation, the Israeli and French Ministry of Science and the European Union. She is an ACM Fellow, a member of Academia Europaea, a recipient of the 2010 ACM PODS Alberto O. Mendelzon Test-of-Time Award, the 2017 VLDB Women in Database Research award, the 2017 Weizmann award for Exact Sciences Research, and of the prestigious EU ERC Advanced Investigators grant.
-
-[Tova Milo website](https://www.cs.tau.ac.il/~milo/)
 
 
 <hr id="zaniolo"> <!-- ------------------------------- -->
@@ -113,4 +76,49 @@ Dr. Zaniolo's interests include big data and knowledge based systems, non-monoto
 
 [Carlo Zaniolo website](http://web.cs.ucla.edu/~zaniolo/)
 
+
+<hr id="milo"> <!-- ------------------------------- -->
+
+
+<div class="row justify-content-center">
+          <div class="col-lg-4 col-md-6 text-center">
+            <div class="service-box mt-5 mx-auto">
+              <img class="mx-auto rounded" src="img/sebd2020-tova11.jpg" style="width:70%;"/>
+            </div>
+          </div>
+</div>
+<br/>
+
+## Getting Rid of Data
+#### Tova Milo - Tel Aviv University, Israel
+
+**Abstract:** We are experiencing an amazing data-centered revolution.
+Incredible amounts of data are collected, integrated and analyzed, leading to key breakthroughs in science and society. This well of knowledge,
+however, is at a great risk if we do not dispense with some of the data
+flood. First, the amount of generated data grows exponentially and already at 2025 is expected to be more than five times the available storage.
+Second, even disregarding storage constraints, uncontrolled data retention risks privacy and security, as recognized, e.g., by the recent EU Data
+Protection reform. Data disposal policies must be developed to benefit and protect organizations and individuals.
+Retaining the knowledge hidden in the data while respecting storage, processing and regulatory constraints is a great challenge. The difficulty stems from the distinct, intricate requirements entailed by each type of
+constraint, the scale and velocity of data and the constantly evolving
+needs. While multiple data sketching, summarization and deletion techniques were developed to address specific aspects of the problem, we are
+still very far from a comprehensive solution. Every organization has to
+battle the same tough challenges, with ad hoc solutions that are application specific and rarely sharable.
+In this talk I will discuss the logical, algorithmic, and methodological
+foundations required for the systematic disposal of large-scale data, for
+constraints enforcement and for the development of applications over the
+retained information. I will overview relevant related work, highlighting
+new research challenges and potential reuse of existing techniques, as
+well as the research performed in this direction in the Tel Aviv Databases
+group.
+
+**About the Speaker:** Tova Milo received her Ph.D. degree in Computer Science from the Hebrew University, Jerusalem, in 1992. After graduating she worked at the INRIA research institute in Paris and at University of Toronto and returned to Israel in 1995, joining the School of Computer Science at Tel Aviv university, where she is now a full Professor and holds the Chair of Information Management. She served as the Head of the Computer Science Department from 2011-2014. Her research focuses on large-scale data management applications such as data integration, semi-structured information, Data-centered Business Processes and Crowd-sourcing, studying both theoretical and practical aspects. Tova served as the Program Chair of multiple international conferences, including PODS, VLDB, ICDT, XSym, and WebDB, and as the chair of the PODS Executive Committee. She served as a member of the VLDB Endowment and the PODS and ICDT executive boards and as an editor of TODS, IEEE Data Eng. Bull, and the Logical Methods in Computer Science Journal. Tova has received grants from the Israel Science Foundation, the US-Israel Binational Science Foundation, the Israeli and French Ministry of Science and the European Union. She is an ACM Fellow, a member of Academia Europaea, a recipient of the 2010 ACM PODS Alberto O. Mendelzon Test-of-Time Award, the 2017 VLDB Women in Database Research award, the 2017 Weizmann award for Exact Sciences Research, and of the prestigious EU ERC Advanced Investigators grant.
+
+[Tova Milo website](https://www.cs.tau.ac.il/~milo/)
+
+
+
 <hr> <!-- ------------------------------- -->
+
+
+
+
