@@ -17,7 +17,7 @@ title: SEBD 2020 Conference Program
 |           | Monday June 22, 2020 - Morning Sessions       |
 | ------------- | ------------- |
 | 9.30-10.00    | Opening       |
-| 10.15-11.15   | [Ontologies and data integration](#ontologies) (4 papers)     |
+| 10.15-11.15   | [Ontologies and data integration](#ontologies-and-data-integration) (4 papers)     |
 |     | <small class="text-muted">break</small>   |
 | 11.30-12.30   | [Invited talk: Prof. Gerhard Weikum](https://sebd2020.unica.it/invited#weikum)   |
 
@@ -26,7 +26,7 @@ title: SEBD 2020 Conference Program
 
 |     |   Monday June 22, 2020 - Afternoon Sessions |
 | ------------- | ------------- |
-| 15.00-15.45	  | [Anomaly detection and dependencies](#anomaly) (3 papers) |
+| 15.00-15.45	  | [Anomaly detection and dependencies](#anomaly-detection-and-dependencies) (3 papers) |
 |     | <small class="text-muted">break</small>   |
 | 16.00-18.00	  | Open Access:<br/> <small class="text-muted"> - Tutorial (Emma Lazzeri, Paolo Manghi) <br/> - Panel  (Stefano Bianco, Emma Lazzeri, Paolo Manghi, Shalini Kurapati)</small>	|
 
@@ -38,7 +38,7 @@ title: SEBD 2020 Conference Program
 |           | Tuesday June 23, 2020 - Morning Sessions       |
 | ------------- | ------------- |
 | 9.15-9.30    | Opening       |
-| 09.30 - 10.15	| [Text analysis and search](#text) (3 papers)	|
+| 09.30 - 10.15	| [Text analysis and search](#text-analysis-and-search) (3 papers)	|
 |     | <small class="text-muted">break</small>   |
 | 10.30	-	11.15 | [Deep learning](#deep-learning) (3 papers) |
 |     | <small class="text-muted">break</small>   |
@@ -215,6 +215,11 @@ title: SEBD 2020 Conference Program
 
 <a onclick="goBack()">back to program</a>
 
+<style>
+.anchor {
+    top: -250px;
+}
+</style>
 
 <script type="text/javascript">
 function goBack() {
@@ -222,6 +227,7 @@ function goBack() {
 }
   window.addEventListener('load', function () {
      $('table').addClass('table').addClass('table-bordered')
+     $('a').addClass('anchor')
   })
 </script>
 
