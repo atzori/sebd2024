@@ -38,22 +38,22 @@ title: SEBD 2020 Conference Program
 |           | Tuesday June 23, 2020 - Morning Sessions       |
 | ------------- | ------------- |
 | 9.15-9.30    | Opening       |
-| 09.30 - 10.15	| [Text analysis and search](#text-analysis-and-search) (3 papers)	|
+| 09.30 - 10.15	| [Text analysis and search](#text) (3 papers)	|
 |     | <small class="text-muted">break</small>   |
-| 10.30	-	11.15 | [Deep learning](#deep-learning) (3 papers) |
+| 10.30	-	11.15 | [Deep learning](#deep) (3 papers) |
 |     | <small class="text-muted">break</small>   |
-| 11.30	- 12.00 | [NoSQL data](#nosql-data) (2 papers) |
+| 11.30	- 12.00 | [NoSQL data](#nosql) (2 papers) |
 |     | <small class="text-muted">break</small>   |
-| 12.15	- 12.45 | [Trajectories and diffusion](#trajectories-and-diffusion) (2 papers)	|
+| 12.15	- 12.45 | [Trajectories and diffusion](#trajectories) (2 papers)	|
 
 
 <div></div>
 
 |           | Tuesday June 23, 2020 - Afternoon Sessions       |
 | ------------- | ------------- |
-| 15.00 - 16.00 | [Health and medicine](#health-and-medicine) (4 papers)	|
+| 15.00 - 16.00 | [Health and medicine](#health) (4 papers)	|
 |     | <small class="text-muted">break</small>   |
-| 16.15 - 17.15 | [Context and ranking](#context-and-ranking) (4 papers)	|
+| 16.15 - 17.15 | [Context and ranking](#context) (4 papers)	|
 |     | <small class="text-muted">break</small>   |
 | 17.45 - 18.45 | [Invited talk: Prof. Carlo Zaniolo](https://sebd2020.unica.it/invited#zaniolo)	|
 |     |     |
@@ -68,20 +68,20 @@ title: SEBD 2020 Conference Program
 |           | Wednesday June 24, 2020 - Morning Sessions       |
 | ------------- | ------------- |
 | 9.15-9.30    | Opening       |
-| 09.30 - 10.30 | 	[Social and knowledge graphs](#social-and-knowledge-graphs) (4 papers) |
+| 09.30 - 10.30 | 	[Social and knowledge graphs](#social) (4 papers) |
 |     | <small class="text-muted">break</small>   |
 | 10.45 - 11.45 | 	[Invited talk: Prof. Tova Milo](https://sebd2020.unica.it/invited#milo) | 
 |     | <small class="text-muted">break</small>   |
-| 12.00 - 13.00 | 	[Multimedia content analysis](#multimedia-content-analysis) (4 papers) |
+| 12.00 - 13.00 | 	[Multimedia content analysis](#multimedia) (4 papers) |
 
 
 <div></div>
 
 |           | Wednesday June 24, 2020 - Morning Sessions       |
 | ------------- | ------------- |
-| 15.00 - 16.00 | 	[Security issues](#security-issues) (4 papers) |
+| 15.00 - 16.00 | 	[Security issues](#security) (4 papers) |
 |     | <small class="text-muted">break</small>   |
-| 16.15 - 17.15 | 	[Data mining](#data-mining) (4 papers) |
+| 16.15 - 17.15 | 	[Data mining](#mining) (4 papers) |
 | 17.15 - 17.30 | 	Closing SEBD 2020 |
 
 
@@ -219,7 +219,7 @@ title: SEBD 2020 Conference Program
 .anchor {
     display: block;
     position: relative;
-    top: -250px;
+    top: -100px;
     visibility: hidden;
 }
 </style>
