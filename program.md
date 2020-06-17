@@ -219,7 +219,7 @@ title: SEBD 2020 Conference Program
 .anchor {
     display: block;
     position: relative;
-    top: -100px;
+    top: -50px;
     visibility: hidden;
 }
 </style>
