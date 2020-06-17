@@ -17,7 +17,7 @@ title: SEBD 2020 Conference Program
 |           | Monday June 22, 2020 - Morning Sessions       |
 | ------------- | ------------- |
 | 9.30-10.00    | Opening       |
-| 10.15-11.15   | [Ontologies and data integration](#ontologies-and-data-integration) (4 papers)     |
+| 10.15-11.15   | [Ontologies and data integration](#ontologies) (4 papers)     |
 |     | <small class="text-muted">break</small>   |
 | 11.30-12.30   | [Invited talk: Prof. Gerhard Weikum](https://sebd2020.unica.it/invited#weikum)   |
 
@@ -26,7 +26,7 @@ title: SEBD 2020 Conference Program
 
 |     |   Monday June 22, 2020 - Afternoon Sessions |
 | ------------- | ------------- |
-| 15.00-15.45	  | [Anomaly detection and dependencies](#anomaly-detection-and-dependencies) (3 papers) |
+| 15.00-15.45	  | [Anomaly detection and dependencies](#anomaly) (3 papers) |
 |     | <small class="text-muted">break</small>   |
 | 16.00-18.00	  | Open Access:<br/> <small class="text-muted"> - Tutorial (Emma Lazzeri, Paolo Manghi) <br/> - Panel  (Stefano Bianco, Emma Lazzeri, Paolo Manghi, Shalini Kurapati)</small>	|
 
@@ -90,7 +90,7 @@ title: SEBD 2020 Conference Program
 
 ## Sessions
 
-<div id="ontologies"></div>
+<div id="ontologies" class="anchor"></div>
 
 #### Ontologies and data integration
 - #26	Silvana Castano, Mattia Falduti, Alfio Ferrara and Stefano Montanelli. **A Bootstrapping Approach for Semi-Automated Legal Knowledge Extraction and Enrichment**.
@@ -100,7 +100,7 @@ title: SEBD 2020 Conference Program
 
 <a onclick="goBack()">back to program</a>
 
-<div id="anomaly"></div>
+<div id="anomaly" class="anchor"></div>
 
 
 #### Anomaly detection and dependencies
@@ -110,7 +110,7 @@ title: SEBD 2020 Conference Program
 
 <a onclick="goBack()">back to program</a>
 
-<div id="text"></div>
+<div id="text" class="anchor"></div>
 
 
 #### Text analysis and search 
@@ -120,7 +120,7 @@ title: SEBD 2020 Conference Program
 
 <a onclick="goBack()">back to program</a>
 
-<div id="deep"></div>
+<div id="deep" class="anchor"></div>
 
 
 #### Deep learning
@@ -130,7 +130,7 @@ title: SEBD 2020 Conference Program
 
 <a onclick="goBack()">back to program</a>
 
-<div id="nosql"></div>
+<div id="nosql" class="anchor"></div>
 
 
 #### NoSQL data
@@ -139,7 +139,7 @@ title: SEBD 2020 Conference Program
 
 <a onclick="goBack()">back to program</a>
 
-<div id="trajectories"></div>
+<div id="trajectories" class="anchor"></div>
 
 
 #### Trajectories and diffusion
@@ -149,7 +149,7 @@ title: SEBD 2020 Conference Program
 <a onclick="goBack()">back to program</a>
 
 
-<div id="health"></div>
+<div id="health" class="anchor"></div>
 
 
 #### Health and medicine 
@@ -160,7 +160,7 @@ title: SEBD 2020 Conference Program
 
 <a onclick="goBack()">back to program</a>
 
-<div id="context"></div>
+<div id="context" class="anchor"></div>
 
 
 #### Context and ranking 
@@ -171,7 +171,7 @@ title: SEBD 2020 Conference Program
 
 <a onclick="goBack()">back to program</a>
 
-<div id="social"></div>
+<div id="social" class="anchor"></div>
 
 
 #### Social and knowledge graphs 
@@ -182,7 +182,7 @@ title: SEBD 2020 Conference Program
 
 <a onclick="goBack()">back to program</a>
 
-<div id="multimedia"></div>
+<div id="multimedia" class="anchor"></div>
 
 
 #### Multimedia content analysis 
@@ -193,7 +193,7 @@ title: SEBD 2020 Conference Program
 
 <a onclick="goBack()">back to program</a>
 
-<div id="security"></div>
+<div id="security" class="anchor"></div>
 
 
 #### Security issues 
@@ -204,7 +204,7 @@ title: SEBD 2020 Conference Program
 
 <a onclick="goBack()">back to program</a>
 
-<div id="mining"></div>
+<div id="mining" class="anchor"></div>
 
 
 #### Data mining 
@@ -217,7 +217,10 @@ title: SEBD 2020 Conference Program
 
 <style>
 .anchor {
+    display: block;
+    position: relative;
     top: -250px;
+    visibility: hidden;
 }
 </style>
 
@@ -227,7 +230,6 @@ function goBack() {
 }
   window.addEventListener('load', function () {
      $('table').addClass('table').addClass('table-bordered')
-     $('a').addClass('anchor')
   })
 </script>
 
