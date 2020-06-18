@@ -27,7 +27,8 @@ toc:
         url: ./program
       - page: Keynote Speakers
         url: ./invited
-      - page: Tutorial and Panel
+      - page: Tutorial and Panel on Open Science
+        url: ./openscience
       - page: Accepted Papers
         url: ./accepted
       - page: Research Project Dissemination
