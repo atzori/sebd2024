@@ -1,5 +1,5 @@
 ---
-title: SEBD 2020 Special Session on *Open Science*
+title: SEBD 2020 Special Session on <i>Open Science</i>
 ---
 <div id="panel"></div>
 
