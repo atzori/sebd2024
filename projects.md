@@ -2,10 +2,13 @@
 title: Research Projects dissemination related to SEBD 2020
 ---
 
+ - [ExaMode: Extreme-scale Analytics via Multimodal Ontology Discovery & Enhancement](#examode) 
+ - [MASTER: Multiple ASpects TrajEctoRy management and analysis](#master)
  
  
+<div id="examode"></div>
 
-<div class="row justify-content-center">
+<div  class="row justify-content-center">
           <div class="col-lg-4 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
              <img class="mx-auto rounded" src="https://www.examode.eu/wp-content/uploads/2018/11/cropped-ExaModeLogo_blacklines_TranspBackGround1.png" style="width:100%;"/>
@@ -36,6 +39,8 @@ Duration: 1/1/2019-31/12/2022
 
 ---
 
+<div id="master"></div>
+
 <div class="row justify-content-center">
           <div class="col-lg-4 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
@@ -48,7 +53,7 @@ Duration: 1/1/2019-31/12/2022
 ## MASTER: Multiple ASpects TrajEctoRy management and analysis
 #### Reference: Dr. Chiara Renso - HPC Lab, ISTI-CNR
 
-*Co-funded by Horizon 2020 call H2020-MSCA-RISE-2017 and GA n.777695*
+*Funded by Horizon 2020 call H2020-MSCA-RISE-2017 and GA n.777695*
 
 MASTER (Multiple ASpects TrajEctoRy management and analysis)  is a project coordinated
 by ISTI-CNR and funded under the call H2020-MSCA-RISE-2017. The project started on
