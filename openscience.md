@@ -34,11 +34,13 @@ Tutorial contents:
 Expert panel and discussion
 
   - **Paolo Manghi**, CNR-ISTI, CTO of the European OpenAIRE e-infrastructure
+  
     Theme: OpenScience discovery and monitoring, the OpenAIRE graph
+ 
     Paolo Manghi is a researcher at ISTI (CNR, Pisa), head of an international and very active research group on issues concerning services for the support of Open Science scientific communication.
 
-  - **Shalini Kurapati**, Polytechnic of Turin
-    Theme: Data Stewardship
+  - **Shalini Kurapati**, Polytechnic of Turin<br/>
+    Theme: Data Stewardship<br/>
     Shalini Kurapati is an expert in research data management and Data Management Plan. She is a former data steward at TU-Delft and she currently works on the same issues at the Polytechnic of Turin.
 
   - **Stefano Bianco**, INFN
