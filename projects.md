@@ -39,7 +39,7 @@ Duration: 1/1/2019-31/12/2022
 <div class="row justify-content-center">
           <div class="col-lg-4 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-             <img class="mx-auto rounded" src="http://www.master-project-h2020.eu/" style="width:100%;"/>
+             <img class="mx-auto rounded" src="http://www.master-project-h2020.eu/wp-content/uploads/2018/02/cropped-Master-logo-1.png" style="width:100%;"/>
             </div>
           </div>
 </div>
