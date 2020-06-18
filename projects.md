@@ -36,3 +36,54 @@ Duration: 1/1/2019-31/12/2022
 
 ---
 
+<div class="row justify-content-center">
+          <div class="col-lg-4 col-md-6 text-center">
+            <div class="service-box mt-5 mx-auto">
+             <img class="mx-auto rounded" src="http://www.master-project-h2020.eu/" style="width:100%;"/>
+            </div>
+          </div>
+</div>
+<br/>
+
+## MASTER: Multiple ASpects TrajEctoRy management and analysis
+#### Reference: Dr. Chiara Renso - HPC Lab, ISTI-CNR
+
+*Co-funded by Horizon 2020 call H2020-MSCA-RISE-2017 and GA n.777695*
+
+MASTER (Multiple ASpects TrajEctoRy management and analysis)  is a project coordinated
+by ISTI-CNR and funded under the call H2020-MSCA-RISE-2017. The project started on
+March 1 st , 2018 and lasts 48 months. The objective of MASTER is forming an international
+and inter-sectoral network of organisations working on a joint research programme to
+define new methods to build, manage and analyse multiple aspects semantic trajectories.
+
+The Consortium counts ten partners, including academic and non-academic institutions. The
+European academic partners are the National Research Council (Italy), the University of
+Venice Ca’ Foscari (Italy), the University of Piraeus Research Center (Greece), the University
+of Versailles Saint Quentin (France) and the Harokopio University (Greece). The European
+non-academic partner is Thira Municipality (Greece). The International academic partners
+are Federal University of Santa Catarina (Brazil), Federal University of Ceara’ (Brazil),
+Dalhousie University (Canada).
+
+We convey the idea that pure movement data can be enriched with multiple heterogeneous
+contextual aspects. These aspects are intimately interconnected and should be referenced
+as a whole as holistic trajectories.
+
+The scientific concept of MASTER is driven by research challenges around the definition,
+management and analysis of holistic trajectories and potential market opportunities
+benefitting the European society in the field of tourism, sea monitoring and public
+transportation. We propose methods to analyze and infer knowledge from holistic
+trajectories, considering as vital issues the privacy and Big Data dimensions. The privacy
+issue is particularly critical for analysing trajectory semantic rich data, therefore MASTER
+consortium is assisted by the Independent Ethics Advisor Prof. Bettina Berendt and an
+Ethical Committee.
+
+
+
+
+**[Project Website](http://www.master-project-h2020.eu/)** - [Facebook](https://www.facebook.com/MasterH2020/) - [Twitter](https://twitter.com/MasterH2020)
+
+
+
+
+---
+
