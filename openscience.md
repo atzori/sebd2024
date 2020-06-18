@@ -35,20 +35,26 @@ Expert panel and discussion
 
   - **Paolo Manghi**, CNR-ISTI, CTO of the European OpenAIRE e-infrastructure
   
-    Theme: OpenScience discovery and monitoring, the OpenAIRE graph
+    Theme: *OpenScience discovery and monitoring, the OpenAIRE graph*
  
     Paolo Manghi is a researcher at ISTI (CNR, Pisa), head of an international and very active research group on issues concerning services for the support of Open Science scientific communication.
 
-  - **Shalini Kurapati**, Polytechnic of Turin<br/>
-    Theme: Data Stewardship<br/>
+  - **Shalini Kurapati**, Polytechnic of Turin
+  
+    Theme: *Data Stewardship*
+    
     Shalini Kurapati is an expert in research data management and Data Management Plan. She is a former data steward at TU-Delft and she currently works on the same issues at the Polytechnic of Turin.
 
   - **Stefano Bianco**, INFN
-    Theme: The Plan-S
+
+    Theme: *The Plan-S*
+    
     Stefano Bianco is a researcher at the National Institute of Nuclear Physics and is one of the ambassadors of Plan-S, the plan launched at the end of 2018 by Coalition-S, a group of research funding bodies that aim to obtain full OA at all publications produced with public funds since 2021.
 
   - **Emma Lazzeri**, CNR-ISTI, OpenAIRE National Open Access Desk
-    Topic: Projects funded by the EC and Open Access
+  
+    Theme: *Projects funded by the EC and Open Access*
+    
     Emma Lazzeri is a researcher at the CNR and an expert in Open Science policies and strategies, she coordinates the National Open Access Desk of OpenAIRE in Italy.
 
 ---
