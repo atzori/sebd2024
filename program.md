@@ -93,6 +93,8 @@ title: SEBD 2020 Conference Program
 <div id="ontologies" class="anchor"></div>
 
 #### Ontologies and data integration
+**Session Chair:** *Gianmaria Silvello*, University of Padua
+
 - #26	Silvana Castano, Mattia Falduti, Alfio Ferrara and Stefano Montanelli. **A Bootstrapping Approach for Semi-Automated Legal Knowledge Extraction and Enrichment**.
 - #27	Luca Gagliardelli, Giovanni Simonini and Sonia Bergamaschi. **Scaling Up Record-level Matching Rules**.
 - #28	Cima Gianluca, Domenico Lembo, Lorenzo Marconi, Riccardo Rosati and Domenico Fabio Savo. **Enforcing data privacy through Description Logic ontologies**.
@@ -104,6 +106,8 @@ title: SEBD 2020 Conference Program
 
 
 #### Anomaly detection and dependencies
+**Session Chair:** TBA
+
 - #24	Loredana Caruccio, Vincenzo Deufemia and Giuseppe Polese. **Lattice-based discovery of hybrid relaxed functional dependencies**.
 - #29	Fabrizio Angiulli, Fabio Fassetti, Luigi Palopoli and Cristina Serrao. **Detecting and explaining exceptional values in categorical data**.
 - #43	Marco Calautti, Nicola Fiorentino, Sergio Greco, Cristian Molinaro and Irina Trubitsyna. **Probabilistic Answers over Inconsistent Knowledge Bases**.
@@ -114,6 +118,8 @@ title: SEBD 2020 Conference Program
 
 
 #### Text analysis and search 
+**Session Chairs:** *Flora Amato* and *Giovanni Cozzolino*, University of Naples Federico II
+
 - #16	Tobias Groth, Sven Groppe, Martin Koppehel and Thilo Pionteck. **Parallelizing Approximate Search on Adaptive Radix Trees**.
 - #19	Dennis Dosso and Gianmaria Silvello. **A Document-based RDF Keyword Search System: Query-by-Query Analysis**.
 - #39	Virginia Morini, Laura Pollacci and Giulio Rossetti. **Capturing political polarization of Reddit submissions in the Trump Era**.
@@ -124,6 +130,8 @@ title: SEBD 2020 Conference Program
 
 
 #### Deep learning
+**Session Chair:** *Alfio Ferrara*, University of Milan
+
 - #5	Mario Zupan, Svjetlana Letinic and Verica Budimir. **Accounting journal reconstruction with Variational autoencoders and Long short-term memory architecture**.
 - #18	Francesco Bodria, André Panisson, Alan Perotti and Simone Piaggesi. **Explainability Methods for Natural Language Processing: Applications to Sentiment Analysis**.
 - #33	Angelo Chianese, Elio Masciari, Vincenzo Moscato, Antonio Picariello and Giancarlo Sperlì. **Some experiments on Deep Learning for Fake News Detection**.
@@ -134,6 +142,8 @@ title: SEBD 2020 Conference Program
 
 
 #### NoSQL data
+**Session Chair:** *Devis Bianchini*, University of Brescia
+
 - #6	Amos Brocco, Patrick Ceppi and Lorenzo Sinigaglia. **libJoTS: JSON That Syncs!**.
 - #7	Matteo Francia, Enrico Gallinucci, Matteo Golfarelli and Stefano Rizzi. **OLAP Querying of Document Stores in Presence of Schema Variety**.
 
@@ -143,6 +153,8 @@ title: SEBD 2020 Conference Program
 
 
 #### Trajectories and diffusion
+**Session Chair:** TBA
+
 - #17	Ronaldo Mello, Vania Bogorny, Chiara Renso, Luis Otávio Alvares, Luiz Henrique Zambom Santana, Carlos Andres Ferrero, Angelo Augusto Frozza and Geomar Schreiner. **A conceptual model for multiple aspects trajectories**.
 - #32	Antonio Caliò and Andrea Tagarelli. **A framework for complex influence propagation based on the F2DLT class of diffusion models**.
 
@@ -153,6 +165,8 @@ title: SEBD 2020 Conference Program
 
 
 #### Health and medicine 
+**Session Chair:** *Tommaso Di Noia*, Politecnico di Bari
+
 - #13	Maristella Agosti, Giorgiomaria Dinunzio and Stefano Marchesin. **A Post-Analysis of Query Reformulation Methods for Clinical Trials Retrieval**.
 - #37	Emanuele Barracchia, Gianvito Pio, Domenica D'Elia and Michelangelo Ceci. **Prediction of new associations between ncRNAs and diseases exploiting Multi-Type Hierarchical Clustering (Discussion paper)**.
 - #45	Giuseppe Tradigo, Patrizia Vizza, Pietro Hiram Guzzi and Pierangelo Veltri. **On the use of GIS for health and epidemiology control**.
@@ -164,6 +178,8 @@ title: SEBD 2020 Conference Program
 
 
 #### Context and ranking 
+**Session Chair:** *Claudia Diamantini*, Università Politecnica delle Marche
+
 - #1	Fabio A. Schreiber and Maria Elena Valcher. **Formal Verification of Context Aware Systems**.
 - #2	Paolo Ciaccia, Davide Martinenghi and Riccardo Torlone. **Where Porceddu is better than Pasta (Discussion Paper)**.
 - #15	Alireza Javadian Sabet, Matteo Rossi, Fabio Alberto Schreiber and Letizia Tanca. **Context Awareness in the Travel Companion of the Shift2Rail Initiative**.
@@ -175,6 +191,8 @@ title: SEBD 2020 Conference Program
 
 
 #### Social and knowledge graphs 
+**Session Chair:** *Nicola Ferro*, University of Padua
+
 - #9	Andrea Rossi. **Interpreting Link Prediction on Knowledge Graphs**.
 - #14	Francesco Cauteruccio, Enrico Corradini, Giorgio Terracina, Domenico Ursino and Luca Virgili. **Co-posting Author Assortativity in Reddit**.
 - #31	Andrea Chiorrini, Claudia Diamantini, Domenico Potena and Emanuele Storti. **How to cope with personnel unavailability? Process Mining may help!**.
@@ -186,6 +204,8 @@ title: SEBD 2020 Conference Program
 
 
 #### Multimedia content analysis 
+**Session Chair:** *Ilaria Bartolini*, University of Bologna
+
 - #3	Eugenio Vocaturo and Ester Zumpano. **Automatic Detection of Dysplastic Nevi: a Multiple Instance Learning Solution**.
 - #10	Giuseppe Amato, Fabio Carrara, Fabrizio Falchi, Claudio Gennaro, Fausto Rabitti and Lucia Vadicamo. **Scalar Quantization-Based Text Encoding for Large Scale Image Retrieval**.
 - #22	Giuseppe De Pasquale, Blerina Spahiu, Andrea Maurino and Pietro Ducange. **Towards Automatic Classification of Sheet Music**.
@@ -197,6 +217,8 @@ title: SEBD 2020 Conference Program
 
 
 #### Security issues 
+**Session Chair:** TBA
+
 - #8	Angelo Furfaro, Francesco Lupia and Domenico Saccà. **Gathering Malware Data through High-Interaction Honeypots**.
 - #23	Ada Bagozi, Devis Bianchini, Valeria De Antonellis, Massimiliano Garda and Michele Melchiori. **Towards reusable Smart Contracts for trustworthy Collaborative Processes**.
 - #47	Fabio Valerio Massoli, Fabrizio Falchi and Giuseppe Amato. **kNN-guided Adversarial Attacks**.
@@ -208,6 +230,8 @@ title: SEBD 2020 Conference Program
 
 
 #### Data mining 
+**Session Chair:** *Donatella Firmani*, Roma Tre University
+
 - #11	Elena Battaglia and Ruggero G. Pensa. **Tensor Co-clustering: a Parameter-less Approach**.
 - #12	Elena Battaglia, Livio Bioglio and Ruggero G. Pensa. **Classification-based Content Sensitivity Analysis**.
 - #34	Alfredo Cuzzocrea, Giovanni Pilato and Edoardo Fadda. **User Emotion Detection via Taxonomy Management: An Innovative System**.
