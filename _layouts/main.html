@@ -69,6 +69,16 @@
 	    box-shadow: 0px 0.8em 0.8em rgba(0,0,0,0.2);
 	}
 	
+.blink_me {
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}		
+		
 	</style>
   </head>
 
@@ -105,7 +115,7 @@
 Details on <a href="registration">registration</a> and <a href="program">program</a> are available, details on participation will follow shortly.</h5>
 -->		  
 		  	<h5 class="mb-5" style="color:white;text-shadow: black 0.1em 0.1em 0.1em;">Due to COVID-19 pandemia, as many other conferences worldwide, SEBD 2020 will take place as a virtual (online) conference on the original dates, June 21-24, 2020.<br/> 
-<b>To participate, please use Zoom Meeting links available in the <a href="program">Conference Program</a> page.</b></h5>
+<b class="blink_me">To participate, please use Zoom Meeting links available in the <a href="program">Conference Program</a> page.</b></h5>
 		  
    		  <a class="btn btn-primary btn-xl js-scroll-trigger" href="registration">Registration</a>
 		  	<a class="btn btn-warning btn-xl js-scroll-trigger" href="program">Conference Program</a>
