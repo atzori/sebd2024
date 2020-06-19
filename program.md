@@ -4,11 +4,16 @@ title: SEBD 2020 Conference Program
 
 <!--### Sunday June 21, 2020 -->
 
+The conference will take place using **Zoom Meeting** (please use a recent version of [Zoom Client](https://zoom.us/download)), you can find links to each session in the program below.
+
+Please note that you will be on mute when joining a session. To ask questions during research sessions, please click on Participants and then click *raise your hand* so that the Session Chair will know about your will.
+
+
 <div></div>
 
 |    | Sunday June 21, 2020 - Special Session  [**(Zoom link)**](/session/sunday-afternoon)               |
 | ------ | ----------------------- |
-| 17.30- | Welcome cocktail (BYO)  |
+| 17.30- | Welcome cocktail (BYO Ichnusa and Filleferru)  |
 
 <!--### Monday June 22, 2020 -->
 
