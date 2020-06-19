@@ -18,6 +18,12 @@ The session will be highly interactive, and the participation of the audience wi
 ([mentimeter](https://www.mentimeter.com/)).
 
 
+#### Tutorial
+
+Speakers:
+  - **Paolo Manghi**, CNR-ISTI, CTO of the European OpenAIRE e-infrastructure
+  - **Emma Lazzeri**, CNR-ISTI, OpenAIRE National Open Access Desk
+
 Tutorial contents:
 
   - How does science work today?
@@ -30,6 +36,8 @@ Tutorial contents:
     - Open Data: why and how to manage research data
     - FAIRness of research products
   - Reproducibility of science and state of the art in Computer Science
+
+#### Panel
 
 Expert panel and discussion
 
