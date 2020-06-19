@@ -35,7 +35,7 @@ title: SEBD 2020 Conference Program
 
 <div></div>
 
-|           | Tuesday June 23, 2020 - Morning Sessions       |
+|           | Tuesday June 23, 2020 - Morning Sessions  [**(Zoom link)**](/session/tuesday-morning)             |
 | ------------- | ------------- |
 | 9.15-9.30    | Opening       |
 | 09.30 - 10.15	| [Text analysis and search](#text) (3 papers)	|
@@ -49,7 +49,7 @@ title: SEBD 2020 Conference Program
 
 <div></div>
 
-|           | Tuesday June 23, 2020 - Afternoon Sessions       |
+|           | Tuesday June 23, 2020 - Afternoon Sessions  [**(Zoom link)**](/session/tuesday-afternoon)             |
 | ------------- | ------------- |
 | 15.00 - 16.00 | [Health and medicine](#health) (4 papers)	|
 |     | <small class="text-muted">break</small>   |
@@ -65,7 +65,7 @@ title: SEBD 2020 Conference Program
 
 <!--### Wednesday June 24, 2020 -->
 
-|           | Wednesday June 24, 2020 - Morning Sessions       |
+|           | Wednesday June 24, 2020 - Morning Sessions  [**(Zoom link)**](/session/wednesday-morning)             |
 | ------------- | ------------- |
 | 9.15-9.30    | Opening       |
 | 09.30 - 10.30 | 	[Social and knowledge graphs](#social) (4 papers) |
@@ -77,7 +77,7 @@ title: SEBD 2020 Conference Program
 
 <div></div>
 
-|           | Wednesday June 24, 2020 - Morning Sessions       |
+|           | Wednesday June 24, 2020 - Morning Sessions  [**(Zoom link)**](/session/wednesday-afternoon)            |
 | ------------- | ------------- |
 | 15.00 - 16.00 | 	[Security issues](#security) (4 papers) |
 |     | <small class="text-muted">break</small>   |
