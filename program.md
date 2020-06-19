@@ -6,7 +6,7 @@ title: SEBD 2020 Conference Program
 
 <div></div>
 
-|    | Sunday June 21, 2020 - Special Session                 |
+|    | Sunday June 21, 2020 - Special Session  [**Zoom link**](/session/sunday-afternoon)               |
 | ------ | ----------------------- |
 | 17.30- | Welcome cocktail (BYO)  |
 
@@ -14,7 +14,7 @@ title: SEBD 2020 Conference Program
 
 <div></div>
 
-|           | Monday June 22, 2020 - Morning Sessions       |
+|           | Monday June 22, 2020 - Morning Sessions  [**Zoom link**](/session/monday-morning)           |
 | ------------- | ------------- |
 | 9.30-10.00    | Opening       |
 | 10.15-11.15   | [Ontologies and data integration](#ontologies) (4 papers)     |
