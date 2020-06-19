@@ -6,8 +6,9 @@ title: SEBD 2020 Conference Program
 
 The conference will take place using **Zoom Meeting** (please use a recent version of [Zoom Client](https://zoom.us/download)), you can find links to each session in the program below.
 
-Please note that you will be on mute when joining a session. To ask questions during research sessions, please click on Participants and then click *raise your hand* so that the Session Chair will know about your will.
+**NOTE:** You will be on mute when joining a session. To ask questions and interact during research sessions, please click on Participants and then click *raise your hand* so that the Session Chair will know about your will. There is also a chat and a breakout room for offline discussions. 
 
+**PROCEEDINGS:** [pre-print version of conference proceedings are available online](/proceedings).
 
 <div></div>
 
