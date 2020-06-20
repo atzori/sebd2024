@@ -166,7 +166,7 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 
 #### Trajectories and diffusion
 **Schedule:** Tuesday June 23, 2020 at 12.15-12.45 <br/>
-**Session Chair:** TBA
+**Session Chair:** *Francesco Buccafurri*, Università Mediterranea di Reggio Calabria
 
 - #17	Ronaldo Mello, Vania Bogorny, Chiara Renso, Luis Otávio Alvares, Luiz Henrique Zambom Santana, Carlos Andres Ferrero, Angelo Augusto Frozza and Geomar Schreiner. **A conceptual model for multiple aspects trajectories**.
 - #32	Antonio Caliò and Andrea Tagarelli. **A framework for complex influence propagation based on the F2DLT class of diffusion models**.
@@ -234,7 +234,7 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 
 #### Security issues 
 **Schedule:** Wednesday June 24, 2020 at 15.00-16.00 <br/>
-**Session Chair:** TBA
+**Session Chair:** *Francesco Leotta*, Sapienza University of Rome
 
 - #8	Angelo Furfaro, Francesco Lupia and Domenico Saccà. **Gathering Malware Data through High-Interaction Honeypots**.
 - #23	Ada Bagozi, Devis Bianchini, Valeria De Antonellis, Massimiliano Garda and Michele Melchiori. **Towards reusable Smart Contracts for trustworthy Collaborative Processes**.
