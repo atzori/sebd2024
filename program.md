@@ -100,6 +100,7 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 
 #### Ontologies and data integration
 **Schedule:** Monday June 22, 2020 at 10.15-11.15
+
 **Session Chair:** *Gianmaria Silvello*, University of Padua
 
 - #26	Silvana Castano, Mattia Falduti, Alfio Ferrara and Stefano Montanelli. **A Bootstrapping Approach for Semi-Automated Legal Knowledge Extraction and Enrichment**.
@@ -113,8 +114,8 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 
 
 #### Anomaly detection and dependencies
-**Schedule:** Monday June 22, 2020 at 15.00-15.45
-**Session Chair:** TBA
+**Schedule:** Monday June 22, 2020 at 15.00-15.45 <br/>
+**Session Chair:** *Annalisa Appice*, University of Bari
 
 - #24	Loredana Caruccio, Vincenzo Deufemia and Giuseppe Polese. **Lattice-based discovery of hybrid relaxed functional dependencies**.
 - #29	Fabrizio Angiulli, Fabio Fassetti, Luigi Palopoli and Cristina Serrao. **Detecting and explaining exceptional values in categorical data**.
@@ -126,7 +127,7 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 
 
 #### Text analysis and search 
-**Schedule:** Tuesday June 23, 2020 at 9.30-10.15
+**Schedule:** Tuesday June 23, 2020 at 9.30-10.15 <br/>
 **Session Chairs:** *Flora Amato* and *Giovanni Cozzolino*, University of Naples Federico II
 
 - #16	Tobias Groth, Sven Groppe, Martin Koppehel and Thilo Pionteck. **Parallelizing Approximate Search on Adaptive Radix Trees**.
@@ -139,7 +140,7 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 
 
 #### Deep learning
-**Schedule:** Tuesday June 23, 2020 at 10.30-11.15
+**Schedule:** Tuesday June 23, 2020 at 10.30-11.15 <br/>
 **Session Chair:** *Alfio Ferrara*, University of Milan
 
 - #5	Mario Zupan, Svjetlana Letinic and Verica Budimir. **Accounting journal reconstruction with Variational autoencoders and Long short-term memory architecture**.
@@ -152,7 +153,7 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 
 
 #### NoSQL data
-**Schedule:** Tuesday June 23, 2020 at 11.30-12.00
+**Schedule:** Tuesday June 23, 2020 at 11.30-12.00 <br/>
 **Session Chair:** *Devis Bianchini*, University of Brescia
 
 - #6	Amos Brocco, Patrick Ceppi and Lorenzo Sinigaglia. **libJoTS: JSON That Syncs!**.
@@ -164,7 +165,7 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 
 
 #### Trajectories and diffusion
-**Schedule:** Tuesday June 23, 2020 at 12.15-12.45
+**Schedule:** Tuesday June 23, 2020 at 12.15-12.45 <br/>
 **Session Chair:** TBA
 
 - #17	Ronaldo Mello, Vania Bogorny, Chiara Renso, Luis Otávio Alvares, Luiz Henrique Zambom Santana, Carlos Andres Ferrero, Angelo Augusto Frozza and Geomar Schreiner. **A conceptual model for multiple aspects trajectories**.
@@ -176,7 +177,7 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 
 
 #### Health and medicine 
-**Schedule:** Tuesday June 23, 2020 at 15.00-16.00
+**Schedule:** Tuesday June 23, 2020 at 15.00-16.00 <br/>
 **Session Chair:** *Tommaso Di Noia*, Politecnico di Bari
 
 - #13	Maristella Agosti, Giorgiomaria Dinunzio and Stefano Marchesin. **A Post-Analysis of Query Reformulation Methods for Clinical Trials Retrieval**.
@@ -190,7 +191,7 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 
 
 #### Context and ranking 
-**Schedule:** Tuesday June 23, 2020 at 16.15-17.15
+**Schedule:** Tuesday June 23, 2020 at 16.15-17.15 <br/>
 **Session Chair:** *Claudia Diamantini*, Università Politecnica delle Marche
 
 - #1	Fabio A. Schreiber and Maria Elena Valcher. **Formal Verification of Context Aware Systems**.
@@ -204,7 +205,7 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 
 
 #### Social and knowledge graphs 
-**Schedule:** Wednesday June 24, 2020 at 9.30-10.30
+**Schedule:** Wednesday June 24, 2020 at 9.30-10.30 <br/>
 **Session Chair:** *Nicola Ferro*, University of Padua
 
 - #9	Andrea Rossi. **Interpreting Link Prediction on Knowledge Graphs**.
@@ -218,7 +219,7 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 
 
 #### Multimedia content analysis 
-**Schedule:** Wednesday June 24, 2020 at 12.00-13.00
+**Schedule:** Wednesday June 24, 2020 at 12.00-13.00 <br/>
 **Session Chair:** *Ilaria Bartolini*, University of Bologna
 
 - #3	Eugenio Vocaturo and Ester Zumpano. **Automatic Detection of Dysplastic Nevi: a Multiple Instance Learning Solution**.
@@ -232,7 +233,7 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 
 
 #### Security issues 
-**Schedule:** Wednesday June 24, 2020 at 15.00-16.00
+**Schedule:** Wednesday June 24, 2020 at 15.00-16.00 <br/>
 **Session Chair:** TBA
 
 - #8	Angelo Furfaro, Francesco Lupia and Domenico Saccà. **Gathering Malware Data through High-Interaction Honeypots**.
@@ -246,7 +247,7 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 
 
 #### Data mining 
-**Schedule:** Wednesday June 24, 2020 at 16.15-17.15
+**Schedule:** Wednesday June 24, 2020 at 16.15-17.15 <br/>
 **Session Chair:** *Donatella Firmani*, Roma Tre University
 
 - #11	Elena Battaglia and Ruggero G. Pensa. **Tensor Co-clustering: a Parameter-less Approach**.
