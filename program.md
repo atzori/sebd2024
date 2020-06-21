@@ -20,7 +20,7 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 
 <div></div>
 
-|           | Monday June 22, 2020 - Morning Sessions  <span disabled="true" style="pointer-events:none">[**(Zoom link)**](/session/monday-morning)</span>           |
+|           | Monday June 22, 2020 - Morning Sessions  [**(Zoom link)**](/session/monday-morning)           |
 | ------------- | ------------- |
 | 9.30-10.00    | Opening       |
 | 10.15-11.15   | [Ontologies and data integration](#ontologies) (4 papers)     |
