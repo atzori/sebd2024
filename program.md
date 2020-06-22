@@ -119,7 +119,7 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 
 - #24	*Loredana Caruccio*, Vincenzo Deufemia and Giuseppe Polese. **Lattice-based discovery of hybrid relaxed functional dependencies**.
 - #29	Fabrizio Angiulli, Fabio Fassetti, Luigi Palopoli and *Cristina Serrao*. **Detecting and explaining exceptional values in categorical data**.
-- #43	Marco Calautti, Nicola Fiorentino, Sergio Greco, Cristian Molinaro and Irina Trubitsyna. **Probabilistic Answers over Inconsistent Knowledge Bases**.
+- #43	*Marco Calautti*, Nicola Fiorentino, Sergio Greco, Cristian Molinaro and Irina Trubitsyna. **Probabilistic Answers over Inconsistent Knowledge Bases**.
 
 <a href="" onclick="goBack()">back to program</a>
 
