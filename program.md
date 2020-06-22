@@ -34,7 +34,7 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 | ------------- | ------------- |
 | 15.00-15.45	  | [Anomaly detection and dependencies](#anomaly) (3 papers) |
 |     | <small class="text-muted">break</small>   |
-| 16.00-18.00	  | <a href="./openscience">Open Science:<br/> <small class="text-muted"> - Tutorial (Emma Lazzeri, Paolo Manghi) <br/> - Panel  (Stefano Bianco, Emma Lazzeri, Paolo Manghi, Shalini Kurapati)</small></a>	|
+| 16.00-18.00	  | <a href="./openscience">Open Science:<br/> <small class="text-muted"> - Tutorial (Emma Lazzeri, Paolo Manghi) <br/> - Panel  (Emma Lazzeri, Paolo Manghi, Shalini Kurapati, Stefano Bianco)</small></a>	|
 
 
 <!--### Tuesday June 23, 2020 -->
