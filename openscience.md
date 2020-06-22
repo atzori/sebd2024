@@ -57,7 +57,7 @@ Expert panel and discussion
 
     Theme: *The Plan-S*
     
-    Stefano Bianco is a researcher at the National Institute of Nuclear Physics and is one of the ambassadors of Plan-S, the plan launched at the end of 2018 by Coalition-S, a group of research funding bodies that aim to obtain full OA at all publications produced with public funds since 2021.
+    Stefano Bianco is a researcher at the National Institute of Nuclear Physics and is one of the Expert Group Member of Plan-S, the plan launched at the end of 2018 by Coalition-S, a group of research funding bodies that aim to obtain full OA at all publications produced with public funds since 2021.
 
   - **Emma Lazzeri**, CNR-ISTI, OpenAIRE National Open Access Desk
   
