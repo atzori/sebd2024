@@ -184,8 +184,8 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 **Session Chair:** *Tommaso Di Noia*, Politecnico di Bari
 
 - #13	Maristella Agosti, Giorgiomaria Dinunzio and *Stefano Marchesin*. **A Post-Analysis of Query Reformulation Methods for Clinical Trials Retrieval**.
-- #37	Emanuele Barracchia, Gianvito Pio, Domenica D'Elia and Michelangelo Ceci. **Prediction of new associations between ncRNAs and diseases exploiting Multi-Type Hierarchical Clustering (Discussion paper)**.
-- #45	Giuseppe Tradigo, Patrizia Vizza, Pietro Hiram Guzzi and Pierangelo Veltri. **On the use of GIS for health and epidemiology control**.
+- #37	*Emanuele Barracchia*, Gianvito Pio, Domenica D'Elia and Michelangelo Ceci. **Prediction of new associations between ncRNAs and diseases exploiting Multi-Type Hierarchical Clustering (Discussion paper)**.
+- #45	Giuseppe Tradigo, Patrizia Vizza, Pietro Hiram Guzzi and *Pierangelo Veltri*. **On the use of GIS for health and epidemiology control**.
 - #46	Amato Flora, Giovanni Cozzolino, Francesco Moscato, Vincenzo Moscato, Antonio Picariello and Giancarlo Sperlì. **Privacy-aware design for E-Health Information Systems**.
 
 <a href="" onclick="goBack()">back to program</a>
