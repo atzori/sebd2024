@@ -91,7 +91,7 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 | 15.00 - 16.00 | 	[Security issues](#security) (4 papers) |
 |     | <small class="text-muted">break</small>   |
 | 16.15 - 17.15 | 	[Data mining](#mining) (4 papers) |
-| 17.15 -  | 	Closing Drink SEBD 2020 |
+| 17.15 -  | 	Closing SEBD 2020 |
 
 
 ---
