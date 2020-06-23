@@ -62,9 +62,11 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 | 16.15 - 17.15 | [Context and ranking](#context) (4 papers)	|
 |     | <small class="text-muted">break</small>   |
 | 17.45 - 18.45 | [Invited talk: Prof. Carlo Zaniolo](https://sebd2020.unica.it/invited#zaniolo)	|
-| **18.45 -**  | 	**Social Dinner (BYO)** |
+| ***18.45 -***  | 	***Social Dinner (BYO)*** <br/> <small class="text-muted">it will start on Zoom just after the keynote talk, then instructions will be given to continue on another virtual social dining platform</small> |
 
 
+<div></div>
+<div></div>
 <div></div>
 
 
