@@ -18,7 +18,7 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 
 <!--### Monday June 22, 2020 -->
 
-<div></div>
+<div style="padding-top:50px"></div>
 
 |           | Monday June 22, 2020 - Morning Sessions  [**(Zoom link)**](/session/monday-morning)           |
 | ------------- | ------------- |
@@ -28,7 +28,8 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 | 11.30-12.30   | [Invited talk: Prof. Gerhard Weikum](https://sebd2020.unica.it/invited#weikum)   |
 
 
-<div></div>
+<div style="padding-top:50px"></div>
+
 
 |     |   Monday June 22, 2020 - Afternoon Sessions  [**(Zoom link)**](/session/monday-afternoon)        |
 | ------------- | ------------- |
@@ -39,7 +40,8 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 
 <!--### Tuesday June 23, 2020 -->
 
-<div></div>
+<div style="padding-top:50px"></div>
+
 
 |           | Tuesday June 23, 2020 - Morning Sessions  [**(Zoom link)**](/session/tuesday-morning)             |
 | ------------- | ------------- |
@@ -53,7 +55,8 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 | 12.15	- 12.45 | [Trajectories and diffusion](#trajectories) (2 papers)	|
 
 
-<div></div>
+<div style="padding-top:50px"></div>
+
 
 |           | Tuesday June 23, 2020 - Afternoon Sessions  [**(Zoom link)**](/session/tuesday-afternoon)             |
 | ------------- | ------------- |
@@ -65,9 +68,8 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 | ***18.45 -***  | 	***Social Dinner (BYO)*** <br/> <small class="text-muted">it will start on Zoom just after the keynote talk, then instructions will be given to continue on another virtual social dining platform</small> |
 
 
-<div></div>
-<div></div>
-<div></div>
+<div style="padding-top:50px"></div>
+
 
 
 <!--### Wednesday June 24, 2020 -->
