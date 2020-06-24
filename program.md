@@ -211,10 +211,10 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 **Schedule:** Wednesday June 24, 2020 at 9.30-10.30 <br/>
 **Session Chair:** *Nicola Ferro*, University of Padua
 
-- #9	Andrea Rossi. **Interpreting Link Prediction on Knowledge Graphs**.
+- #9	*Andrea Rossi*. **Interpreting Link Prediction on Knowledge Graphs**.
 - #14	Francesco Cauteruccio, Enrico Corradini, Giorgio Terracina, Domenico Ursino and *Luca Virgili*. **Co-posting Author Assortativity in Reddit**.
 - #31	Andrea Chiorrini, Claudia Diamantini, Domenico Potena and *Emanuele Storti*. **How to cope with personnel unavailability? Process Mining may help!**.
-- #41	Donatella Firmani, Paolo Merialdo, Elena Nieddu, Andrea Rossi and Riccardo Torlone. **Crowdsourcing for Building Knowledge Graphs at Scale from the Vatican Archives**.
+- #41	*Donatella Firmani*, Paolo Merialdo, Elena Nieddu, Andrea Rossi and Riccardo Torlone. **Crowdsourcing for Building Knowledge Graphs at Scale from the Vatican Archives**.
 
 <a href="" onclick="goBack()">back to program</a>
 
