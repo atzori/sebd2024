@@ -225,7 +225,7 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 **Schedule:** Wednesday June 24, 2020 at 12.00-13.00 <br/>
 **Session Chair:** *Ilaria Bartolini*, University of Bologna
 
-- #3	Eugenio Vocaturo and Ester Zumpano. **Automatic Detection of Dysplastic Nevi: a Multiple Instance Learning Solution**.
+- #3	*Eugenio Vocaturo* and Ester Zumpano. **Automatic Detection of Dysplastic Nevi: a Multiple Instance Learning Solution**.
 - #10	Giuseppe Amato, Fabio Carrara, Fabrizio Falchi, Claudio Gennaro, Fausto Rabitti and *Lucia Vadicamo*. **Scalar Quantization-Based Text Encoding for Large Scale Image Retrieval**.
 - #22	Giuseppe De Pasquale, *Blerina Spahiu*, Andrea Maurino and Pietro Ducange. **Towards Automatic Classification of Sheet Music**.
 - #25	Hanna Kavalionak, Claudio Gennaro, Giuseppe Amato, *Claudio Vairo*, Costantino Perciante, Carlo Meghini, Fabrizio Falchi and Fausto Rabitti. **Edge-Based Video Surveillance with Embedded Devices**.
