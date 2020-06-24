@@ -65,4 +65,11 @@ Expert panel and discussion
     
     Emma Lazzeri is a researcher at the CNR and an expert in Open Science policies and strategies, she coordinates the National Open Access Desk of OpenAIRE in Italy.
 
+#### Slides 
+
+ - [Tutorial Slides](https://zenodo.org/record/3904168#.XvHnJZMzbPY)
+ - [Panel Slides by Paolo Manghi](https://zenodo.org/record/3903646#.XvHnQpMzbPY)
+ - [Panel Slides by Shalini Kurapati](https://zenodo.org/record/3903722#.XvHnQ5MzbPY)
+ - [Panel Slides by Stefano Bianco](https://www.openaccessrepository.it/record/30450#.XvHndJMzbPY)
+
 ---
