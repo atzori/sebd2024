@@ -109,7 +109,7 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 - #26	Silvana Castano, Mattia Falduti, *Alfio Ferrara* and Stefano Montanelli. **A Bootstrapping Approach for Semi-Automated Legal Knowledge Extraction and Enrichment**.
 - #27	*Luca Gagliardelli*, Giovanni Simonini and Sonia Bergamaschi. **Scaling Up Record-level Matching Rules**.
 - #28	Cima Gianluca, *Domenico Lembo*, Lorenzo Marconi, Riccardo Rosati and Domenico Fabio Savo. **Enforcing data privacy through Description Logic ontologies**.
-- #40	Sergio Greco, Michele Ianni, Elio Masciari, Domenico Sacca and Irina Trubitsyna. **Smart Data Exchange**.
+- #40	Sergio Greco, Michele Ianni, Elio Masciari, Domenico Sacca and *Irina Trubitsyna*. **Smart Data Exchange**.
 
 <a href="" onclick="goBack()">back to program</a>
 
@@ -159,7 +159,7 @@ The conference will take place using **Zoom Meeting** (please use a recent versi
 **Schedule:** Tuesday June 23, 2020 at 11.30-12.00 <br/>
 **Session Chair:** *Devis Bianchini*, University of Brescia
 
-- #6	Amos Brocco, Patrick Ceppi and Lorenzo Sinigaglia. **libJoTS: JSON That Syncs!**.
+- #6	*Amos Brocco*, Patrick Ceppi and Lorenzo Sinigaglia. **libJoTS: JSON That Syncs!**.
 - #7	Matteo Francia, *Enrico Gallinucci*, Matteo Golfarelli and Stefano Rizzi. **OLAP Querying of Document Stores in Presence of Schema Variety**.
 
 <a href="" onclick="goBack()">back to program</a>
