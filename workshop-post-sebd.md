@@ -53,3 +53,8 @@ In the following some suggestions for the transfer from/to the closest airport (
  - *Rent a Car*. Many services available from the Cagliari Airport (book online in advance).
 
 
+<script>
+   $(".navbar-brand").text(" Post-SEBD2020 Villasimius");
+   $("#navbarResponsive").remove();
+</script>
+
