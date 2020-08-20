@@ -1,36 +1,37 @@
 ---
-title: Workshop *Post-SEBD* in memory of Prof. Antonio Picariello (Post-SEBD2020)
+title: Workshop Post-SEBD in memory of Prof. Antonio Picariello (<i>Post-SEBD2020</i>)
 ---
 
 The **Workshop *Post-SEBD* in memory of Prof. Antonio Picariello (Post-SEBD2020)** will be jointly organized by University of Cagliari and ICT-SUD Cosenza, with the participation of Politecnico di Milano, University of Padua and University of Bologna, as a forum 
-for the Italian database research community to meet in person to discuss cutting edge research and commemorate Antonio Picariello who passed away prematurely on June 23, 2020, while the SEBD 2020 conference was taking place.
+for the Italian database research community to meet in person to discuss cutting edge research and commemorate Antonio Picariello who passed away prematurely on June 23, 2020, while the [SEBD 2020 conference](https://sebd2020.unica.it/) was taking place.
 
 The Post-SEBD Workshop will take place in Villasimius (Sardinia), Italy, at [VOI Tanka Village Resort](https://www.voitankavillage.com/) from the 4th to the 7th of September 2020.
 
-
-<div></div>
-
-## Workshop Program (temptative)
-
-
-|    | Friday September 4, 2020 - Special Session on HOPE PRIN Project (PI Prof. Maurizio Lenzerini)   |
-|    | Local organization of PRIN Meeting by UniCA (co-PI Prof. Maurizio Atzori)   |
-| ------ | ----------------------- |
-| 15.00-16.30 | [PRIN Project HOPE](https://sites.google.com/diag.uniroma1.it/prin-hope2017) meeting (reserved to project members)   |
-| 16.30-17.00 | **Coffee Break (offered by PRIN project)**  |
-| 17.00-19.00 | [PRIN Project HOPE](https://sites.google.com/diag.uniroma1.it/prin-hope2017) meeting (reserved to project members)   |
-| 19.00-21.00 | **Dinner**   |
 
 
 <div style="padding-top:50px"></div>
 
 
-|    | Saturday September 5, 2020 - Special Session in Honor of Prof. Antonio Picariello "Picus"  |
+## Workshop Program (temptative)
+
+
+|    | Friday September 4, 2020 - Session on HOPE PRIN Project <br/> <small class="text-muted">Principal Investigator Prof. Maurizio Lenzerini </small> <br/> <small class="text-muted">Local organization of PRIN Meeting by UniCA (co-PI Prof. Maurizio Atzori)</small>   |
+| ------ | ----------------------- |
+| 15.00-16.30 | [PRIN Project HOPE](https://sites.google.com/diag.uniroma1.it/prin-hope2017) meeting (reserved to project members)   |
+| 16.30-17.00 | Coffee Break (offered by PRIN project)  |
+| 17.00-19.00 | [PRIN Project HOPE](https://sites.google.com/diag.uniroma1.it/prin-hope2017) meeting (reserved to project members)   |
+| 19.00-21.00 | Dinner   |
+
+
+<div style="padding-top:50px"></div>
+
+
+|    | Saturday September 5, 2020 - <br/> Session in Honor of Prof. Antonio Picariello "Picus"  |
 | ------ | ----------------------- |
 | | **Breakfast**   |
 | 9.30-9.45 | Opening   |
-| 9.45-12.00 | Talks about Prof. Antonio Picariello "Picus" and its work   |
-| 12.00-14.00 | **Lunch**   |
+| 9.45-12.00 | **Talks about Prof. Antonio Picariello "Picus" and its work**   |
+| 12.00-14.00 | Lunch   |
 | 14.00-19.30 | free time   |
 | 19.30- | ***Cena Sarda* Social Dinner**    |
 
@@ -40,10 +41,10 @@ The Post-SEBD Workshop will take place in Villasimius (Sardinia), Italy, at [VOI
 
 |     |   Monday September 7, 2020  -  *Give-me-a-Feedback* Session    |
 | ------------- | ------------- |
-| | **Breakfast**   |
-| 9.30-11.30 |  - Free Research Talks on ongoing work and cutting edge ideas <br/> - Opportunity for young researchers to share ideas and receive feedbacks and mentoring from senior professors  |
-| 11.30-12.00 |  Closing and Communications |
-| 12.00-14.00 | **Lunch**   |
+| | Breakfast   |
+| 9.30-11.30 | <b>  - Free Research Talks on ongoing work and cutting edge ideas <br/> - Opportunity for young researchers to share ideas and receive feedbacks and mentoring from senior professors </b>  |
+| 11.30-12.00 |  <b> Closing and Communications </b> |
+| 12.00-14.00 | Lunch   |
 
 
 Costs (**to be confirmed**)
