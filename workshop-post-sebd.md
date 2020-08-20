@@ -1,18 +1,30 @@
 ---
-title: Post-SEBD Workshop in memory of Prof. Antonio Picariello (Post-SEBD2020)
+title: Workshop *Post-SEBD* in memory of Prof. Antonio Picariello (Post-SEBD2020)
 ---
 
-The **Post-SEBD Workshop in memory of Prof. Antonio Picariello (Post-SEBD2020)** will be jointly organized by University of Cagliari and ICT-SUD Cosenza, with the participation of Politecnico di Milano, University of Padua and University of Bologna, as a forum 
-for the Italian database research community to meet and discuss cutting edge research and commemorate Antonio Picariello who passed away on June 23, 2020, while the SEBD 2020 conference was taking place.
+The **Workshop *Post-SEBD* in memory of Prof. Antonio Picariello (Post-SEBD2020)** will be jointly organized by University of Cagliari and ICT-SUD Cosenza, with the participation of Politecnico di Milano, University of Padua and University of Bologna, as a forum 
+for the Italian database research community to meet in person and discuss cutting edge research and commemorate Antonio Picariello who passed away prematurely on June 23, 2020, while the SEBD 2020 conference was taking place.
 
 The Post-SEBD Workshop will take place in Villasimius (Sardinia), Italy, at [VOI Tanka Village Resort](https://www.voitankavillage.com/) from the 4th to the 7th of September 2020.
 
 Workshop Program (temptative)
 -----------------------------
 
- TBA
+### Friday 4th September (afternoon)
+- [PRIN Project HOPE](https://sites.google.com/diag.uniroma1.it/prin-hope2017) meeting (reserved to project members) 
+- Coffee Break
 
+### Saturday 5th September (morning)
+*Special Session in honor of Prof. Antonio Picariello*
+- Talks about Prof. Antonio Picariello "Picus" and its work
 
+### Saturday 5th September (afternoon)
+- *Cena Sarda* Social Dinner
+
+### Monday 7th September (morning)
+*Give me a feedback* session:
+- Free Research Talks on ongoing work 
+- Opportunity for young researchers to share ideas and receive feedbacks and mentoring from senior professors.
 
 
 Costs (**to be confirmed**)
@@ -24,9 +36,9 @@ Costs (**to be confirmed**)
     * additional costs with special prices for kids and accompanying persons.
 
 Accomodation will include full board:
-   - dinner (on the day of arrival and following)
+   - buffet dinner (on the day of arrival and following)
    - breakfast (after first night and following)
-   - lunch (after first night and following)
+   - buffet lunch (after first night and following)
    - meals also include drinks on tap (natural and sparkling water, non-alcoholic drinks, beer, wine).
    
 
