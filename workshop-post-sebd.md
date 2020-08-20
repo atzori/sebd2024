@@ -65,6 +65,9 @@ Accomodation will include full board:
    - buffet lunch (after first night and following)
    - meals also include drinks on tap (natural and sparkling water, non-alcoholic drinks, beer, wine).
    
+All invoices will be sent by ICT-SUD in the next days. For any special requirement regarding the booking, participants should contact Maurizio Atzori (*atzori@unica.it*).
+For special administrative/fiscal needs regarding the invoice, administrative stuff from universities may contact Mrs. Concetta De Paola ([ICT-SUD](https://www.cc-ict-sud.it/)) by email at *concetta.depaola@cc-ict-sud.it*
+   
 
 
 <div style="padding-top:50px"></div>
