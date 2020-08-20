@@ -15,12 +15,14 @@ The Post-SEBD Workshop will take place in Villasimius (Sardinia), Italy, at [VOI
 ## Workshop Program (temptative)
 
 
-|    | Friday September 4, 2020 - Session on [PRIN Project HOPE](https://sites.google.com/diag.uniroma1.it/prin-hope2017) <br/> <small class="text-muted">Principal Investigator Prof. Maurizio Lenzerini </small> <br/> <small class="text-muted">Local organization of PRIN Meeting by UniCA (co-PI Prof. Maurizio Atzori)</small>   |
+|    | Friday September 4, 2020 - Open Session on [HOPE Project](https://sites.google.com/diag.uniroma1.it/prin-hope2017) <br/> <small class="text-muted">Chair: Prof. Maurizio Lenzerini </small> <br/> <small class="text-muted">Local organization by UniCA (Prof. Maurizio Atzori)</small>   |
 | ------ | ----------------------- |
-| 15.00-16.30 | PRIN Project HOPE meeting (reserved to project members)   |
-| 16.30-17.00 | Coffee Break (offered by PRIN project)  |
-| 17.00-19.00 | PRIN Project HOPE meeting (reserved to project members)   |
-| 19.00-21.00 | Dinner   |
+
+| 15.00-15.15 | Workshop Opening   |
+| 15.15-16.45 | HOPE project meeting: presentations and discussions   |
+| 16.45-17.15 | Coffee Break  |
+| 17.15-19.00 | HOPE project meeting: presentations and discussions  |
+| 19.00-21.00 | Opening Social Dinner   |
 
 
 <div style="padding-top:50px"></div>
@@ -30,7 +32,7 @@ The Post-SEBD Workshop will take place in Villasimius (Sardinia), Italy, at [VOI
 | ------ | ----------------------- |
 | | **Breakfast**   |
 | 9.30-9.45 | Opening   |
-| 9.45-12.00 | **Talks about Prof. Antonio Picariello "Picus" and its work**   |
+| 9.45-12.00 | **"Picus" and his work**   |
 | 12.00-14.00 | Lunch   |
 | 14.00-19.30 | free time   |
 | 19.30- | ***Cena Sarda* Social Dinner**    |
@@ -55,8 +57,8 @@ Costs (*to be confirmed*)
 -----------------------
  * Registration: 150 Euro + VAT
  * Accomodation and meals:
-    * 165 Euro + VAT per day for single registered participant
-    * 250 Euro + VAT per day for a double room (2 registered participants)
+    * 165 Euro + VAT per day per single registered participant
+    * 250 Euro + VAT per day per double room (2 registered participants)
     * additional costs with special prices for kids and accompanying persons.
 
 Accomodation will include full board:
