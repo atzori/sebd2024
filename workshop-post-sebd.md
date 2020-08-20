@@ -17,8 +17,7 @@ The Post-SEBD Workshop will take place in Villasimius (Sardinia), Italy, at [VOI
 
 |    | Friday September 4, 2020 - Open Session on [HOPE Project](https://sites.google.com/diag.uniroma1.it/prin-hope2017) <br/> <small class="text-muted">Chair: Prof. Maurizio Lenzerini </small> <br/> <small class="text-muted">Local organization by UniCA (Prof. Maurizio Atzori)</small>   |
 | ------ | ----------------------- |
-
-| 15.00-15.15 | Workshop Opening   |
+| 15.00-15.15 | **Workshop Opening**   |
 | 15.15-16.45 | HOPE project meeting: presentations and discussions   |
 | 16.45-17.15 | Coffee Break  |
 | 17.15-19.00 | HOPE project meeting: presentations and discussions  |
@@ -30,7 +29,7 @@ The Post-SEBD Workshop will take place in Villasimius (Sardinia), Italy, at [VOI
 
 |    | Saturday September 5, 2020 - <br/> Session in Honor of Prof. Antonio Picariello "Picus"  |
 | ------ | ----------------------- |
-| | **Breakfast**   |
+| | Breakfast   |
 | 9.30-9.45 | Opening   |
 | 9.45-12.00 | **"Picus" and his work**   |
 | 12.00-14.00 | Lunch   |
