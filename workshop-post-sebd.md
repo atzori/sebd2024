@@ -3,7 +3,7 @@ title: Workshop *Post-SEBD* in memory of Prof. Antonio Picariello (Post-SEBD2020
 ---
 
 The **Workshop *Post-SEBD* in memory of Prof. Antonio Picariello (Post-SEBD2020)** will be jointly organized by University of Cagliari and ICT-SUD Cosenza, with the participation of Politecnico di Milano, University of Padua and University of Bologna, as a forum 
-for the Italian database research community to meet in person and discuss cutting edge research and commemorate Antonio Picariello who passed away prematurely on June 23, 2020, while the SEBD 2020 conference was taking place.
+for the Italian database research community to meet in person to discuss cutting edge research and commemorate Antonio Picariello who passed away prematurely on June 23, 2020, while the SEBD 2020 conference was taking place.
 
 The Post-SEBD Workshop will take place in Villasimius (Sardinia), Italy, at [VOI Tanka Village Resort](https://www.voitankavillage.com/) from the 4th to the 7th of September 2020.
 
@@ -72,8 +72,26 @@ In the following some suggestions for the transfer from/to the closest airport (
  - *Rent a Car*. Many services available from the Cagliari Airport (book online in advance).
 
 
-<script>
-   $(".navbar-brand").text(" Post-SEBD2020 Villasimius");
-   $("#navbarResponsive").remove();
+
+<style>
+.anchor {
+    display: block;
+    position: relative;
+    top: -50px;
+    visibility: hidden;
+}
+</style>
+
+<script src="/vendor/jquery/jquery.min.js"></script>
+<script type="text/javascript">
+function goBack() {
+  window.history.back();
+}
+  window.addEventListener('load', function () {
+     $('table').addClass('table').addClass('table-bordered');
+     $(".navbar-brand").text(" Post-SEBD2020 Villasimius");
+     $("#navbarResponsive").remove();
+  })
 </script>
+
 
