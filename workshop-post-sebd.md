@@ -7,24 +7,43 @@ for the Italian database research community to meet in person and discuss cuttin
 
 The Post-SEBD Workshop will take place in Villasimius (Sardinia), Italy, at [VOI Tanka Village Resort](https://www.voitankavillage.com/) from the 4th to the 7th of September 2020.
 
-Workshop Program (temptative)
------------------------------
 
-### Friday 4th September (afternoon)
-- [PRIN Project HOPE](https://sites.google.com/diag.uniroma1.it/prin-hope2017) meeting (reserved to project members) 
-- Coffee Break
+<div></div>
 
-### Saturday 5th September (morning)
-*Special Session in honor of Prof. Antonio Picariello*
-- Talks about Prof. Antonio Picariello "Picus" and its work
+## Workshop Program (temptative)
 
-### Saturday 5th September (afternoon)
-- *Cena Sarda* Social Dinner
 
-### Monday 7th September (morning)
-*Give me a feedback* session:
-- Free Research Talks on ongoing work 
-- Opportunity for young researchers to share ideas and receive feedbacks and mentoring from senior professors.
+|    | Friday September 4, 2020 - Special Session on HOPE PRIN Project (PI Prof. Maurizio Lenzerini)   |
+|    | Local organization of PRIN Meeting by UniCA (co-PI Prof. Maurizio Atzori)   |
+| ------ | ----------------------- |
+| 15.00-16.30 | [PRIN Project HOPE](https://sites.google.com/diag.uniroma1.it/prin-hope2017) meeting (reserved to project members)   |
+| 16.30-17.00 | **Coffee Break (offered by PRIN project)**  |
+| 17.00-19.00 | [PRIN Project HOPE](https://sites.google.com/diag.uniroma1.it/prin-hope2017) meeting (reserved to project members)   |
+| 19.00-21.00 | **Dinner**   |
+
+
+<div style="padding-top:50px"></div>
+
+
+|    | Saturday September 5, 2020 - Special Session in Honor of Prof. Antonio Picariello "Picus"  |
+| ------ | ----------------------- |
+| | **Breakfast**   |
+| 9.30-9.45 | Opening   |
+| 9.45-12.00 | Talks about Prof. Antonio Picariello "Picus" and its work   |
+| 12.00-14.00 | **Lunch**   |
+| 14.00-19.30 | free time   |
+| 19.30- | ***Cena Sarda* Social Dinner**    |
+
+
+<div style="padding-top:50px"></div>
+
+
+|     |   Monday September 7, 2020  -  *Give-me-a-Feedback* Session    |
+| ------------- | ------------- |
+| | **Breakfast**   |
+| 9.30-11.30 |  - Free Research Talks on ongoing work and cutting edge ideas <br/> - Opportunity for young researchers to share ideas and receive feedbacks and mentoring from senior professors  |
+| 11.30-12.00 |  Closing and Communications |
+| 12.00-14.00 | **Lunch**   |
 
 
 Costs (**to be confirmed**)
