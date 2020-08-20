@@ -15,11 +15,11 @@ The Post-SEBD Workshop will take place in Villasimius (Sardinia), Italy, at [VOI
 ## Workshop Program (temptative)
 
 
-|    | Friday September 4, 2020 - Session on HOPE PRIN Project <br/> <small class="text-muted">Principal Investigator Prof. Maurizio Lenzerini </small> <br/> <small class="text-muted">Local organization of PRIN Meeting by UniCA (co-PI Prof. Maurizio Atzori)</small>   |
+|    | Friday September 4, 2020 - Session on [PRIN Project HOPE](https://sites.google.com/diag.uniroma1.it/prin-hope2017) <br/> <small class="text-muted">Principal Investigator Prof. Maurizio Lenzerini </small> <br/> <small class="text-muted">Local organization of PRIN Meeting by UniCA (co-PI Prof. Maurizio Atzori)</small>   |
 | ------ | ----------------------- |
-| 15.00-16.30 | [PRIN Project HOPE](https://sites.google.com/diag.uniroma1.it/prin-hope2017) meeting (reserved to project members)   |
+| 15.00-16.30 | PRIN Project HOPE meeting (reserved to project members)   |
 | 16.30-17.00 | Coffee Break (offered by PRIN project)  |
-| 17.00-19.00 | [PRIN Project HOPE](https://sites.google.com/diag.uniroma1.it/prin-hope2017) meeting (reserved to project members)   |
+| 17.00-19.00 | PRIN Project HOPE meeting (reserved to project members)   |
 | 19.00-21.00 | Dinner   |
 
 
@@ -42,12 +42,16 @@ The Post-SEBD Workshop will take place in Villasimius (Sardinia), Italy, at [VOI
 |     |   Monday September 7, 2020  -  *Give-me-a-Feedback* Session    |
 | ------------- | ------------- |
 | | Breakfast   |
-| 9.30-11.30 | <b>  - Free Research Talks on ongoing work and cutting edge ideas <br/> - Opportunity for young researchers to share ideas and receive feedbacks and mentoring from senior professors </b>  |
+| 9.30-11.30 | <b>  - Free Research Talks on ongoing work and cutting edge ideas <br/> - Opportunity for young researchers to share ideas and <br/>receive feedbacks and mentoring from senior professors </b>  |
 | 11.30-12.00 |  <b> Closing and Communications </b> |
 | 12.00-14.00 | Lunch   |
 
 
-Costs (**to be confirmed**)
+
+<div style="padding-top:50px"></div>
+
+
+Costs (*to be confirmed*)
 -----------------------
  * Registration: 150 Euro + VAT
  * Accomodation and meals:
@@ -61,6 +65,9 @@ Accomodation will include full board:
    - buffet lunch (after first night and following)
    - meals also include drinks on tap (natural and sparkling water, non-alcoholic drinks, beer, wine).
    
+
+
+<div style="padding-top:50px"></div>
 
 Transfer from/to Cagliari Airport
 ---------------------------------
