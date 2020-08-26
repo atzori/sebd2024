@@ -33,8 +33,8 @@ The Post-SEBD Workshop will take place in Villasimius (Sardinia), Italy, at [VOI
 | 9.30-9.45 | Opening   |
 | 9.45-12.00 | **"Picus" and his work**   |
 | 12.00-14.00 | Lunch   |
-| 14.00-19.30 | free time   |
-| 19.30- | ***Cena Sarda* Social Dinner**    |
+| 14.00-20.30 | free time   |
+| 20.30- | ***Cena Sarda* Social Dinner**    |
 
 
 <div style="padding-top:50px"></div>
@@ -77,6 +77,7 @@ Transfer from/to Cagliari Airport
 ---------------------------------
 In the following some suggestions for the transfer from/to the closest airport (*Cagliari-Elmas "Mario Mameli" Airport*):
 
+ - *Concierge by Tanka Village Resort*. Drop an email to `tanka@voiconcierge.com` for a request
  - *ARST (Regional Public Buses)*. Download the [dedicated mobile app](https://play.google.com/store/apps/details?id=com.sardegna.trasporti.arsttrasporti&hl=it) or check for [line 101](http://www.arstspa.info/101.pdf) and [line 135](http://www.arstspa.info/135.pdf).
  All ARST buses are also available for search on [Google Maps](http://www.arst.sardegna.it/orari_e_autolinee/Servizi_extraurbani.html)
  - *[Villasimius Express](http://www.villasimiusexpress.it/mobile/informazioni-utili/)*. Direct minivans from Cagliari Airport to Villasimius and Tanka Resort (book in advance)
