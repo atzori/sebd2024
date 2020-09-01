@@ -2,6 +2,7 @@
 title: Research Projects dissemination related to SEBD 2020
 ---
 
+ - [HOPE: High quality Open data Publishing and Enrichment](#hope) 
  - [ExaMode: Extreme-scale Analytics via Multimodal Ontology Discovery & Enhancement](#examode) 
  - [MASTER: Multiple ASpects TrajEctoRy management and analysis](#master)
  
@@ -16,6 +17,25 @@ title: Research Projects dissemination related to SEBD 2020
           </div>
 </div>
 <br/>
+
+
+## HOPE: High quality Open data Publishing and Enrichment
+#### Reference: Prof. Maurizio Lenzerini - Sapienza University of Rome, Italy
+
+
+*The HOPE project has received funding from the Italian Research Ministry through the PRIN 2017 call (project code: 2017MMJJRE)*
+
+While open data have a huge potential in the data-driven society, many barriers of different types exist in publishing and using open data. HOPE aims at overcoming the main technical problems that current open data solutions suffer from, by developing a methodology and associated tools for a new way of producing, publishing, maintaining, accessing and exploiting privacy-preserving open data. The envisioned result of the project is a complete web-based semantic open data manager that an organization can use for governing the whole lifecycle of its open data, and the final users can access for effectively consuming the information provided by the organization. The project puts together 5 partners including the strongest leaders of the Italian Knowledge Representation and Data Management communities. If successful, this effort will have a deep impact on society, as it will help unchaining all the potentiality of open data for citizens and policy makers. The practical value of our approach will be evaluated by real users. Three Italian PA institutions are already collaborating with the partners of the consortium, and have agreed to experiment the tools resulting from the research results, providing feedbacks from the very beginning of the project.
+
+
+Duration: 8/2019-8/2022
+
+
+**[Project Website](https://sites.google.com/diag.uniroma1.it/prin-hope2017)** 
+
+---
+
+
 
 ## ExaMode: Extreme-scale Analytics via Multimodal Ontology Discovery & Enhancement
 #### Reference: Dr. Gianmaria Silvello - University of Padua, Italy
