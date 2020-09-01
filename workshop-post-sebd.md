@@ -5,7 +5,7 @@ title: Workshop Post-SEBD in memory of Prof. Antonio Picariello (<i>Post-SEBD202
 <div  class="row justify-content-center">
           <div class="col-lg-4 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-             <img class="mx-auto rounded" src="img/post-sebd_banner.png" style="width:100%;"/>
+             <img class="mx-auto rounded" src="img/post-sebd_banner.png" />
             </div>
           </div>
 </div>
