@@ -6,17 +6,9 @@ title: Research Projects dissemination related to SEBD 2020
  - [ExaMode: Extreme-scale Analytics via Multimodal Ontology Discovery & Enhancement](#examode) 
  - [MASTER: Multiple ASpects TrajEctoRy management and analysis](#master)
  
- 
-<div id="examode"></div>
+---
 
-<div  class="row justify-content-center">
-          <div class="col-lg-4 col-md-6 text-center">
-            <div class="service-box mt-5 mx-auto">
-             <img class="mx-auto rounded" src="https://www.examode.eu/wp-content/uploads/2018/11/cropped-ExaModeLogo_blacklines_TranspBackGround1.png" style="width:100%;"/>
-            </div>
-          </div>
-</div>
-<br/>
+<div id="hope"></div>
 
 
 ## HOPE: High quality Open data Publishing and Enrichment
@@ -35,6 +27,17 @@ Duration: 8/2019-8/2022
 
 ---
 
+
+<div id="examode"></div>
+
+<div  class="row justify-content-center">
+          <div class="col-lg-4 col-md-6 text-center">
+            <div class="service-box mt-5 mx-auto">
+             <img class="mx-auto rounded" src="https://www.examode.eu/wp-content/uploads/2018/11/cropped-ExaModeLogo_blacklines_TranspBackGround1.png" style="width:100%;"/>
+            </div>
+          </div>
+</div>
+<br/>
 
 
 ## ExaMode: Extreme-scale Analytics via Multimodal Ontology Discovery & Enhancement
