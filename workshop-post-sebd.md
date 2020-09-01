@@ -2,14 +2,31 @@
 title: Workshop Post-SEBD in memory of Prof. Antonio Picariello (<i>Post-SEBD2020</i>)
 ---
 
-<div  class="row justify-content-center">
+
+
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+<div class="row justify-content-center">
           <div class="col-lg-12 col-md-12 text-center">
             <div class="service-box mt-5 mx-auto">
-             <img src="img/post-sebd_banner.png" style="width:80%" />
+              <img class="mx-auto rounded" src="img/post-sebd_banner.png" />
             </div>
           </div>
 </div>
-<br/>
+
+
+
+   <section id="ramamoorthy">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8 mx-auto">
+				<!--            <hr class="red my-4"> -->
+				
+
 
 The **Workshop *Post-SEBD* in memory of Prof. Antonio Picariello (Post-SEBD2020)** will be jointly organized by University of Cagliari and ICT-SUD Cosenza, with the participation of Politecnico di Milano, University of Padua and University of Bologna, as a forum 
 for the Italian database research community to meet in person to discuss cutting edge research and commemorate Antonio Picariello who passed away prematurely on June 23, 2020, while the [SEBD 2020 conference](https://sebd2020.unica.it/) was taking place.
