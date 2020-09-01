@@ -2,6 +2,15 @@
 title: Workshop Post-SEBD in memory of Prof. Antonio Picariello (<i>Post-SEBD2020</i>)
 ---
 
+<div  class="row justify-content-center">
+          <div class="col-lg-4 col-md-6 text-center">
+            <div class="service-box mt-5 mx-auto">
+             <img class="mx-auto rounded" src="img/post-sebd_banner.png" style="width:100%;"/>
+            </div>
+          </div>
+</div>
+<br/>
+
 The **Workshop *Post-SEBD* in memory of Prof. Antonio Picariello (Post-SEBD2020)** will be jointly organized by University of Cagliari and ICT-SUD Cosenza, with the participation of Politecnico di Milano, University of Padua and University of Bologna, as a forum 
 for the Italian database research community to meet in person to discuss cutting edge research and commemorate Antonio Picariello who passed away prematurely on June 23, 2020, while the [SEBD 2020 conference](https://sebd2020.unica.it/) was taking place.
 
@@ -66,7 +75,8 @@ Accomodation will include full board:
    - buffet lunch (after first night and following)
    - meals also include drinks on tap (natural and sparkling water, non-alcoholic drinks, beer, wine).
    
-All invoices will be sent by ICT-SUD in the next days. For any special requirement regarding the booking, participants should contact Maurizio Atzori (*atzori@unica.it*).
+All invoices will be sent by ICT-SUD in the next days, applied VAT is 22% for all costs including accomodation. 
+For any special requirement regarding the booking, participants should contact Maurizio Atzori (*atzori@unica.it*).
 For special administrative/fiscal needs regarding the invoice, administrative stuff from universities may contact Mrs. Concetta De Paola ([ICT-SUD](https://www.cc-ict-sud.it/)) by email at *concetta.depaola@cc-ict-sud.it*
    
 
