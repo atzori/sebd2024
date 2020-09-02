@@ -4,14 +4,15 @@ layout: workshop
 ---
 
 
+
+<span class="blink_me"><b>IMPORTANT!</b></span> Before travelling to Sardinia, please fill in the [online form required by Regione Sardegna](https://sus.regione.sardegna.it/sus/covid19/regimbarco/init?lang=it). You can specify as final destination: *Hotel VOI Tanka Village, Via degli Oleandri 7, 09049 – Villasimius (SU).*
+
+
+
 The **Workshop *Post-SEBD* in memory of Prof. Antonio Picariello (Post-SEBD2020)** will be jointly organized by University of Cagliari and ICT-SUD Cosenza, with the participation of Politecnico di Milano, University of Padua and University of Bologna, as a forum 
 for the Italian database research community to meet in person to discuss cutting edge research and commemorate Antonio Picariello who passed away prematurely on June 23, 2020, while the [SEBD 2020 conference](https://sebd2020.unica.it/) was taking place.
 
 The Post-SEBD Workshop will take place in Villasimius (Sardinia), Italy, at [VOI Tanka Village Resort](https://www.voitankavillage.com/) from the 4th to the 7th of September 2020.
-
-
-**IMPORTANT!** Before travelling to Sardinia, please fill in the [online form required by Regione Sardegna](https://sus.regione.sardegna.it/sus/covid19/regimbarco/init?lang=it). You can specify as final destination: *Hotel VOI Tanka Village, Via degli Oleandri 7, 09049 – Villasimius (SU).*
-
 
 
 
@@ -21,7 +22,7 @@ The Post-SEBD Workshop will take place in Villasimius (Sardinia), Italy, at [VOI
 ## Workshop Program (temptative)
 
 
-|    | Friday September 4, 2020 - Open Session on [HOPE Project](https://sites.google.com/diag.uniroma1.it/prin-hope2017) <br/> Centro Congressi (Sala Meeting Gardenia) <br/><small class="text-muted">Chair: Prof. Maurizio Lenzerini </small> <br/> <small class="text-muted">Local organization by UniCA (Prof. Maurizio Atzori)</small>   |
+|    | Friday September 4, 2020 - Open Session on [HOPE Project](https://sites.google.com/diag.uniroma1.it/prin-hope2017) <br/> <i>Centro Congressi (Sala Meeting Gardenia)</i> <br/><small class="text-muted">Chair: Prof. Maurizio Lenzerini </small> <br/> <small class="text-muted">Local organization by UniCA (Prof. Maurizio Atzori)</small>   |
 | ------ | ----------------------- |
 | 15.00-15.15 | **Workshop Opening**   |
 | 15.15-16.45 | HOPE project meeting: presentations and discussions   |
@@ -33,7 +34,7 @@ The Post-SEBD Workshop will take place in Villasimius (Sardinia), Italy, at [VOI
 <div style="padding-top:50px"></div>
 
 
-|    | Saturday September 5, 2020 - <br/> Session in Honor of Prof. Antonio Picariello "Picus"<br/> Centro Congressi (Sala Meeting Gardenia)   |
+|    | Saturday September 5, 2020 - <br/> Session in Honor of Prof. Antonio Picariello "Picus"<br/> <i>Centro Congressi (Sala Meeting Gardenia)</i>   |
 | ------ | ----------------------- |
 | | Breakfast ([Oasys](https://www.voitankavillage.com/ristorante/oasys/))   |
 | 9.30-9.45 | Opening   |
@@ -46,7 +47,7 @@ The Post-SEBD Workshop will take place in Villasimius (Sardinia), Italy, at [VOI
 <div style="padding-top:50px"></div>
 
 
-|     |   Monday September 7, 2020  -  *Give-me-a-Feedback* Session<br/> Centro Congressi (Sala Meeting Gardenia)     |
+|     |   Monday September 7, 2020  -  *Give-me-a-Feedback* Session<br/> <i>Centro Congressi (Sala Meeting Gardenia)</i>     |
 | ------------- | ------------- |
 | | Breakfast  ([Oasys](https://www.voitankavillage.com/ristorante/oasys/)) |
 | 9.30-11.30 | <b>  - Free Research Talks on ongoing work and cutting edge ideas <br/> - Opportunity for young researchers to share ideas and <br/>receive feedbacks and mentoring from senior professors </b>  |
@@ -66,7 +67,7 @@ Costs (*to be confirmed*)
     * 250 Euro + VAT per day per double room (2 registered participants)
     * additional costs with special prices for kids and accompanying persons.
 
-Accomodation will include full board:
+Accomodation will include full board at [Oasys Restaurant](https://www.voitankavillage.com/ristorante/oasys/):
    - buffet dinner 7.30pm-9.30pm (on the day of arrival and following)
    - breakfast 7.30am-9.45am (after first night and following)
    - buffet lunch 12.30pm-2.30pm (after first night and following)
