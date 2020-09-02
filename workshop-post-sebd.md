@@ -23,7 +23,7 @@ The Post-SEBD Workshop will take place in Villasimius (Sardinia), Italy, at [VOI
 | 15.15-16.45 | HOPE project meeting: presentations and discussions   |
 | 16.45-17.15 | Coffee Break  |
 | 17.15-19.00 | HOPE project meeting: presentations and discussions  |
-| 19.00-21.00 | Opening Social Dinner   |
+| 19.30-21.30 | Opening Social Dinner   |
 
 
 <div style="padding-top:50px"></div>
@@ -47,7 +47,7 @@ The Post-SEBD Workshop will take place in Villasimius (Sardinia), Italy, at [VOI
 | | Breakfast   |
 | 9.30-11.30 | <b>  - Free Research Talks on ongoing work and cutting edge ideas <br/> - Opportunity for young researchers to share ideas and <br/>receive feedbacks and mentoring from senior professors </b>  |
 | 11.30-12.00 |  <b> Closing and Communications </b> |
-| 12.00-14.00 | Lunch   |
+| 12.30-14.30 | Lunch   |
 
 
 
@@ -63,9 +63,9 @@ Costs (*to be confirmed*)
     * additional costs with special prices for kids and accompanying persons.
 
 Accomodation will include full board:
-   - buffet dinner (on the day of arrival and following)
-   - breakfast (after first night and following)
-   - buffet lunch (after first night and following)
+   - buffet dinner 7.30pm-9.30pm (on the day of arrival and following)
+   - breakfast 7.30am-9.45am (after first night and following)
+   - buffet lunch 12.30pm-2.30pm (after first night and following)
    - meals also include drinks on tap (natural and sparkling water, non-alcoholic drinks, beer, wine).
    
 All invoices will be sent by ICT-SUD in the next days, applied VAT is 22% for all costs including accomodation. 
