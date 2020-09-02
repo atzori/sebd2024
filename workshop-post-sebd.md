@@ -10,6 +10,10 @@ for the Italian database research community to meet in person to discuss cutting
 The Post-SEBD Workshop will take place in Villasimius (Sardinia), Italy, at [VOI Tanka Village Resort](https://www.voitankavillage.com/) from the 4th to the 7th of September 2020.
 
 
+**IMPORTANT!** Before travelling to Sardinia, please fill in the [online form required by Regione Sardegna](https://sus.regione.sardegna.it/sus/covid19/regimbarco/init?lang=it). You can specify as final destination: *Hotel VOI Tanka Village, Via degli Oleandri 7, 09049 – Villasimius (SU).*
+
+
+
 
 <div style="padding-top:50px"></div>
 
@@ -17,37 +21,37 @@ The Post-SEBD Workshop will take place in Villasimius (Sardinia), Italy, at [VOI
 ## Workshop Program (temptative)
 
 
-|    | Friday September 4, 2020 - Open Session on [HOPE Project](https://sites.google.com/diag.uniroma1.it/prin-hope2017) <br/> <small class="text-muted">Chair: Prof. Maurizio Lenzerini </small> <br/> <small class="text-muted">Local organization by UniCA (Prof. Maurizio Atzori)</small>   |
+|    | Friday September 4, 2020 - Open Session on [HOPE Project](https://sites.google.com/diag.uniroma1.it/prin-hope2017) <br/> Centro Congressi (Sala Meeting Gardenia) <br/><small class="text-muted">Chair: Prof. Maurizio Lenzerini </small> <br/> <small class="text-muted">Local organization by UniCA (Prof. Maurizio Atzori)</small>   |
 | ------ | ----------------------- |
 | 15.00-15.15 | **Workshop Opening**   |
 | 15.15-16.45 | HOPE project meeting: presentations and discussions   |
 | 16.45-17.15 | Coffee Break  |
 | 17.15-19.00 | HOPE project meeting: presentations and discussions  |
-| 19.30-21.30 | Opening Social Dinner   |
+| 19.30-21.30 | Opening Social Dinner ([Oasys](https://www.voitankavillage.com/ristorante/oasys/))   |
 
 
 <div style="padding-top:50px"></div>
 
 
-|    | Saturday September 5, 2020 - <br/> Session in Honor of Prof. Antonio Picariello "Picus"  |
+|    | Saturday September 5, 2020 - <br/> Session in Honor of Prof. Antonio Picariello "Picus"<br/> Centro Congressi (Sala Meeting Gardenia)   |
 | ------ | ----------------------- |
-| | Breakfast   |
+| | Breakfast ([Oasys](https://www.voitankavillage.com/ristorante/oasys/))   |
 | 9.30-9.45 | Opening   |
 | 9.45-12.00 | **"Picus" and his work**   |
 | 12.00-14.00 | Lunch   |
 | 14.00-20.30 | free time   |
-| 20.30- | ***Cena Sarda* Social Dinner**    |
+| 20.30- | ***Cena Sarda* Social Dinner** ([Giardino Dei Sapori](https://www.voitankavillage.com/ristorante/giardino-dei-sapori/))    |
 
 
 <div style="padding-top:50px"></div>
 
 
-|     |   Monday September 7, 2020  -  *Give-me-a-Feedback* Session    |
+|     |   Monday September 7, 2020  -  *Give-me-a-Feedback* Session<br/> Centro Congressi (Sala Meeting Gardenia)     |
 | ------------- | ------------- |
-| | Breakfast   |
+| | Breakfast  ([Oasys](https://www.voitankavillage.com/ristorante/oasys/)) |
 | 9.30-11.30 | <b>  - Free Research Talks on ongoing work and cutting edge ideas <br/> - Opportunity for young researchers to share ideas and <br/>receive feedbacks and mentoring from senior professors </b>  |
 | 11.30-12.00 |  <b> Closing and Communications </b> |
-| 12.30-14.30 | Lunch   |
+| 12.30-14.30 | Lunch ([Oasys](https://www.voitankavillage.com/ristorante/oasys/))   |
 
 
 
