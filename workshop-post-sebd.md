@@ -101,6 +101,16 @@ In the following some suggestions for the transfer from/to the closest airport (
     top: -50px;
     visibility: hidden;
 }
+   
+.blink_me {
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}   
 </style>
 
 <script src="/vendor/jquery/jquery.min.js"></script>
