@@ -11,12 +11,12 @@ toc:
     submenu:
       - page: Registration
         url: ./registration
-      - page: Online Participation
-      #- page: Venue 
-      #  url: https://www.voitankaresort.com/
-      #- page: Accomodation Options
-      #- page: Travel info
-      #  url: http://www.cagliariturismo.it/en/get-to-cagliari
+      #- page: Online Participation
+      - page: Venue 
+        url: https://www.voitankaresort.com/
+      - page: Accomodation Options
+      - page: Travel info
+        url: http://www.cagliariturismo.it/en/get-to-cagliari
       - page: About Villasimius
         url: https://www.sardegnaturismo.it/en/places/sud/villasimius
       #- page: Visa Application
@@ -24,13 +24,13 @@ toc:
   - title: Program
     submenu:
       - page: Conference Program
-        url: ./program
+      #  url: ./program
       - page: Keynote Speakers
         url: ./invited
-      - page: Tutorial and Panel on Open Science
-        url: ./openscience
-      - page: Accepted Papers
-        url: ./accepted
+      - page: Tutorial and Panels
+      #  url: ./openscience
+      #- page: Accepted Papers
+      #  url: ./accepted
       - page: Research Project Dissemination
         url: ./projects
       #- page: Timetable (tba)
