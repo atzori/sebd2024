@@ -1,7 +1,10 @@
 ---
-title: SEBD 2020 Program Committee
+title: SEBD 2024 Program Committee
 ---
 
+TBA
+
+<!--
  - *Maristella Agosti*, University of Padua
  - *Annalisa Appice*, University Aldo Moro of Bari
  - *Mattia Atzeni*, University of Cagliari
@@ -55,4 +58,4 @@ title: SEBD 2020 Program Committee
  - *Letizia Tanca*, Politecnico di Milano
  - *Irina Trubitsyna*, University of Calabria, DIMES
  - *Pierangelo Veltri*, Laboratory of Bioinformatics, University of Catanzaro
-
+-->
