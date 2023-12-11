@@ -6,17 +6,17 @@ toc:
       - page: Important Dates
         url: ./#dates
       - page: Submission Instructions
-        url: ./#submission
+      #  url: ./#submission
   - title: Attending
     submenu:
       - page: Registration
-        url: ./registration
+      #  url: ./registration
       #- page: Online Participation
       - page: Venue 
-        url: https://www.voitankaresort.com/
+        url: https://www.voitankavillage.com/
       - page: Accomodation Options
       - page: Travel info
-        url: http://www.cagliariturismo.it/en/get-to-cagliari
+      #  url: http://www.cagliariturismo.it/en/get-to-cagliari
       - page: About Villasimius
         url: https://www.sardegnaturismo.it/en/places/sud/villasimius
       #- page: Visa Application
@@ -26,13 +26,13 @@ toc:
       - page: Conference Program
       #  url: ./program
       - page: Keynote Speakers
-        url: ./invited
+      #  url: ./invited
       - page: Tutorial and Panels
       #  url: ./openscience
       #- page: Accepted Papers
       #  url: ./accepted
       - page: Research Project Dissemination
-        url: ./projects
+      #  url: ./projects
       #- page: Timetable (tba)
       #- page: Special Events (tba)
   - title: Organization
