@@ -1,4 +1,4 @@
 ---
 layout: main
-title: SEBD 2020
+title: SEBD 2024
 ---
