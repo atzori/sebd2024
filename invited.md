@@ -61,7 +61,7 @@ Georg received the Ada Lovelace Medal, the Wittgenstein Award, is an ACM Fellow,
 <div class="row justify-content-center">
           <div class="col-lg-4 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-              <img class="mx-auto rounded" src="img/sebd2020-tova11.jpg" style="width:70%;"/>
+                <img class="mx-auto rounded" src="https://helios2.mi.parisdescartes.fr/~themisp/themis.jpg" style="height:200px;"/>
             </div>
           </div>
 </div>
