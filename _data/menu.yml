@@ -6,7 +6,7 @@ toc:
       - page: Important Dates
         url: ./#dates
       - page: Submission Instructions
-      #  url: ./#submission
+        url: ./#submission
   - title: Attending
     submenu:
       - page: Registration
