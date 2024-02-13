@@ -1,49 +1,42 @@
 ---
-title: SEBD 2020 Keynotes Talks
+title: SEBD 2024 Keynotes Talks
 ---
 
  
-<span id="weikum"></span> 
+<span id="gottlob"></span> 
 
 <div  class="row justify-content-center">
           <div class="col-lg-4 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-             <img class="mx-auto rounded" src="img/sebd2020-weikum.jpg" style="width:59%;"/>
+             <img class="mx-auto rounded" src="https://www.unical.it/media/medias/2023/Gottlob2.webp" style="height:200px;"/>
             </div>
           </div>
 </div>
 <br/>
 
-## 15 Years of Knowledge Graphs: Lessons, Challenges, Opportunities
-#### Gerhard Weikum - Max Planck Institute for Informatics, Germany
+## TBA
+#### Georg Gottlob - University of Calabria, Italy
 
+**Abstract:** TBA
 
-**Abstract:** Machines with comprehensive knowledge of the world's entities
-and their relationships has been a long-standing vision and challenge
-of AI. Over the last 15 years, huge knowledge bases, also known as
-knowledge graphs, have been automatically constructed from web data
-and text sources, and have become a key asset for search, analytics,
-recommendations and data integration. This digital knowledge can be
-harnessed to semantically interpret textual phrases in news, social media
-and web tables, contributing to question answering, natural language
-processing and data analytics. This talk reviews these advances and discusses
-lessons learned. Moreover, it identifies open challenges and new
-research opportunities.
+**About the Speaker:**  Georg Gottlob is Professor at University of Calabria, Italy, that he joined in 2023. He has been Professor at the Oxford University Computer Science Department, a Fellow of St John's College, and Professor at TU Wien, Austria. He co-founded DeepReason.ai, a company providing software and services for reasoning on Big Data, and for building and maintaining enterprise knowledge graphs. In 2015 he co-founded Wrapidity Ltd, a company engaged in Web data extraction, which was recently acquired by Meltwater, a media intelligence company. Previously he co-founded Lixto, which was acquired in 2013 by McKinsey & Company.
 
-**About the Speaker:**  Gerhard Weikum is a Scientific Director at the Max Planck Institute for Informatics in Saarbruecken, Germany, and an Adjunct Professor at Saarland University. 
-He co-authored a comprehensive textbook on transactional systems, received the VLDB Test-of-Time Award 2002 for his work on automatic database tuning, and is one of the creators of the YAGO knowledge base which was recognized by the WWW Test-of-Time Award in 2018. 
-Weikum received the ACM SIGMOD Contributions Award in 2011, a Google Focused Research Award in 2011, an ERC Synergy Grant in 2014, and the ACM SIGMOD Edgar F. Codd Innovations Award in 2016.
+Georg's research interests are databases and query languages, web information processing, constraint satisfaction problems, AI and computational logic. 
 
-[Gerhard Weikum website](http://people.mpi-inf.mpg.de/~weikum/)
+Georg Gottlob got his Engineer and Ph.D. degrees in Computer Science from TU Vienna, Austria in 1979 and 1981, respectively. Before he moved to Oxford in 2006, he was a Full Professor of Computer Science at TU (since 1988). Before that, he was affiliated with the Italian National Research Council in Genoa, Italy, and with the Politecnico di Milano, Italy. During the spring semester 1999 he was invited McKay Professor at UC Berkeley.
+
+Georg received the Ada Lovelace Medal, the Wittgenstein Award, is an ACM Fellow, an ECCAI Fellow, a Fellow of the Royal Society, a member of the Austrian, German, and European Academies of Sciences. He chaired the Program Committees of IJCAI 2003 and ACM PODS 2000. He is a member of the editorial boards of several journals, e.g. JCSS and CACM. Gottlob is an ISI highly cited researcher.
+
+[Georg Gottlob website](https://demacs.unical.it/storage/addressbook/gAAAAABly4trzs80Fic4fgFmoEBDPSIrT7K5MFJHYavxyev7Ho6vH9zkRgCGNwM9NaMlFPpvknaaFy7eA_LC4EmnBPr_L3t1DA==/)
 
 
 
-<hr id="zaniolo"> <!-- ------------------------------- -->
+<hr id="jagadish"> <!-- ------------------------------- -->
 
 <div class="row justify-content-center">
           <div class="col-lg-4 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-              <img class="mx-auto rounded" src="img/sebd2020-zaniolo_scai.jpg" style="width:63%;"/>
+                <img class="mx-auto rounded" src="https://midas.umich.edu/wp-content/uploads/sites/3/2019/01/Jagadish-150x150.png" style="height:200px;"/>
             </div>
           </div>
 </div>
@@ -51,33 +44,18 @@ Weikum received the ACM SIGMOD Contributions Award in 2011, a Google Focused Res
 
 
 
-## Usability, Performance and Scalability for Expressive Data Languages via Cardinality-Based Aggregates
-#### Carlo Zaniolo - University of California, Los Angeles, USA
+## TBA
+#### H. V. Jagadish - University of Michigan, U.S.A.
 
 
-**Abstract:** In theory, the combined use of recursion and negation allows the
-declarative expression of very powerful algorithms in languages such as Datalog or SQL. However, the diffculty of writing such programs and proving that
-they satisfy formal non-monotonic semantics makes such an approach totally
-impractical for software developers. Thus, we propose a new general solution to
-the problem of developing advanced applications in logic-based languages. Our
-approach is based on the combined use of recursion and aggregates endowed
-with a unified definition of their semantics based on cardinality. In fact, we show
-that this entails the expression on a wide range of algorithms used in ML, data-mining and graph applications, which can be very appealing for practitioners
-because of (i) the compactness of their code, (ii) a simplified proof or verification for their stable-model semantics, (iii) their effcient implementations via a
-max-optimized semi-naive fixpoint algorithm, and (iv) their superior scalability
-via Stale-Synchronous Parallelism. To demonstrate and further enhance the usability of our proposed framework, including the several efficient and scalable
-applications we developed, we provide a Logical Algorithm Library (Llib) and a
-Logical Data-Frame System (LFrame). By integrating access to Llib libray with
-other Apache Spark libraries, and supporting the interoperability of our BigDatalog, RaSQL, and Datalog-ML systems with Scala, Java and Python, LFrame
-turns Datalog into a powerful and attractive tool for advanced application development in the Spark ecosystem.
+**Abstract:** TBA
 
-**About the Speaker:** 	Carlo Zaniolo was born in Vicenza, Italy. He received an E.E. Engineer degree at Padua University in 1968, and M.S. and Ph.D. degrees in Computer Science at UCLA in 1970 and 1976, respectively. After working at Bell Laboratories, Murray Hill, NJ, and MCC in Austin Texas, Dr. Zaniolo joined the UCLA CS Department in 1991, and was awarded the N.E. Friedmann Chair in Knowledge Science. He received the 2012 SIGMOD Best Paper award, and a Google Research Faculty Award in 2015.
-Dr. Zaniolo's interests include big data and knowledge based systems, non-monotonic and temporal reasoning,  internet information systems, answering questions, queries and searches in knowledge bases.
+**About the Speaker:** H. V. Jagadish	is Edgar F. Codd Distinguished University Professor and Bernard A Galler Collegiate Professor of Electrical Engineering and Computer Science at the University of Michigan in Ann Arbor, and Director of the Michigan Institute for Data Science. Prior to 1999, he was Head of the Database Research Department at AT&T Labs, Florham Park, NJ. Professor Jagadish is well known for his broad-ranging research on information management, and has over 200 major papers and 38 patents, with an H-index of 101. He is a fellow of the ACM since 2003 and of AAAS since 2018. He currently chairs the board of the Academic Data Science Alliance and previously served on the board of the Computing Research Association (2009-2018). He has been an Associate Editor for the ACM Transactions on Database Systems (1992-1995), Program Chair of the ACM SIGMOD annual conference (1996), Program Chair of the ISMB conference (2005), a trustee of the VLDB (Very Large DataBase) foundation (2004-2009), Founding Editor-in-Chief of the Proceedings of the VLDB Endowment (2008-2014), and Program Chair of the VLDB Conference (2014). Since 2016, he is Editor of the Springer (previously Morgan & Claypool) Synthesis Lecture Series on Data Management. Among his many awards, he won the David E Liddle Research Excellence Award (at the University of Michigan) in 2008, the ACM SIGMOD Contributions Award in 2013, and the Distinguished Faculty Achievement Award (at the University of Michigan) in 2019. His popular MOOC on Data Science Ethics is available on both EdX and Coursera.
 
-[Carlo Zaniolo website](http://web.cs.ucla.edu/~zaniolo/)
+[H V Jagadish website](https://web.eecs.umich.edu/~jag/)
 
 
-<hr id="milo"> <!-- ------------------------------- -->
+<hr id="palpanas"> <!-- ------------------------------- -->
 
 
 <div class="row justify-content-center">
@@ -89,31 +67,55 @@ Dr. Zaniolo's interests include big data and knowledge based systems, non-monoto
 </div>
 <br/>
 
-## Getting Rid of Data
-#### Tova Milo - Tel Aviv University, Israel
+## Scalable Vector Analytics: A Story of Twists and Turns
+#### Themis Palpanas - University Paris Cite, France
 
-**Abstract:** We are experiencing an amazing data-centered revolution.
-Incredible amounts of data are collected, integrated and analyzed, leading to key breakthroughs in science and society. This well of knowledge,
-however, is at a great risk if we do not dispense with some of the data
-flood. First, the amount of generated data grows exponentially and already at 2025 is expected to be more than five times the available storage.
-Second, even disregarding storage constraints, uncontrolled data retention risks privacy and security, as recognized, e.g., by the recent EU Data
-Protection reform. Data disposal policies must be developed to benefit and protect organizations and individuals.
-Retaining the knowledge hidden in the data while respecting storage, processing and regulatory constraints is a great challenge. The difficulty stems from the distinct, intricate requirements entailed by each type of
-constraint, the scale and velocity of data and the constantly evolving
-needs. While multiple data sketching, summarization and deletion techniques were developed to address specific aspects of the problem, we are
-still very far from a comprehensive solution. Every organization has to
-battle the same tough challenges, with ad hoc solutions that are application specific and rarely sharable.
-In this talk I will discuss the logical, algorithmic, and methodological
-foundations required for the systematic disposal of large-scale data, for
-constraints enforcement and for the development of applications over the
-retained information. I will overview relevant related work, highlighting
-new research challenges and potential reuse of existing techniques, as
-well as the research performed in this direction in the Tel Aviv Databases
-group.
+**Abstract:** Similarity search in high-dimensional data spaces was a relevant and
+challenging data management problem in the early 1970s, when the first
+solutions to this problem were proposed. Today, fifty years later, we
+can safely say that the exact same problem is more relevant (from Time
+Series Management Systems to Vector Databases) and challenging than
+ever. Very large amounts of high-dimensional data are now omnipresent
+(ranging from traditional multidimensional data to time series and deep
+embeddings), and the performance requirements (i.e., response-time and
+accuracy) of a variety of applications that need to process and analyze
+these data have become very stringent and demanding. In these past fifty
+years, high-dimensional similarity search has been studied in its many
+flavors. Similarity search algorithms for exact and approximate, one-off
+and progressive query answering. Approximate algorithms with and without
+(deterministic or probabilistic) quality guarantees. Solutions for
+on-disk and in-memory data, static and streaming data. Approaches based
+on multidimensional space-partitioning and metric trees, random
+projections and locality-sensitive hashing (LSH), product quantization
+(PQ) and inverted files, k-nearest neighbor graphs and optimized linear
+scans. Surprisingly, the work on data-series (or time-series) similarity
+search has recently been shown to achieve the state-of-the-art
+performance for several variations of the problem, on both time-series
+and general high-dimensional vector data. In this talk, we will touch
+upon the different aspects of this interesting story, present some of
+the state-of-the-art solutions, and discuss open research directions.
 
-**About the Speaker:** Tova Milo received her Ph.D. degree in Computer Science from the Hebrew University, Jerusalem, in 1992. After graduating she worked at the INRIA research institute in Paris and at University of Toronto and returned to Israel in 1995, joining the School of Computer Science at Tel Aviv university, where she is now a full Professor and holds the Chair of Information Management. She served as the Head of the Computer Science Department from 2011-2014. Her research focuses on large-scale data management applications such as data integration, semi-structured information, Data-centered Business Processes and Crowd-sourcing, studying both theoretical and practical aspects. Tova served as the Program Chair of multiple international conferences, including PODS, VLDB, ICDT, XSym, and WebDB, and as the chair of the PODS Executive Committee. She served as a member of the VLDB Endowment and the PODS and ICDT executive boards and as an editor of TODS, IEEE Data Eng. Bull, and the Logical Methods in Computer Science Journal. Tova has received grants from the Israel Science Foundation, the US-Israel Binational Science Foundation, the Israeli and French Ministry of Science and the European Union. She is an ACM Fellow, a member of Academia Europaea, a recipient of the 2010 ACM PODS Alberto O. Mendelzon Test-of-Time Award, the 2017 VLDB Women in Database Research award, the 2017 Weizmann award for Exact Sciences Research, and of the prestigious EU ERC Advanced Investigators grant.
+**About the Speaker:** Themis Palpanas is an elected Senior Member of the French University
+Institute (IUF), a distinction that recognizes excellence across all
+academic disciplines, and Distinguished Professor of computer science
+at the University Paris Cite (France), where he is director of the Data
+Intelligence Institute of Paris (diiP), and director of the data
+management group, diNo. He received the BS degree from the National
+Technical University of Athens, Greece, and the MSc and PhD degrees from
+the University of Toronto, Canada. He has previously held positions at
+the University of California at Riverside, University of Trento, and at
+IBM T.J. Watson Research Center, and visited Microsoft Research, and
+the IBM Almaden Research Center. His interests include problems related
+to data science (big data analytics and machine learning applications).
+He is the author of 14 patents. He is the recipient of 3 Best Paper
+awards, and the IBM Shared University Research (SUR) Award. His service
+includes the VLDB Endowment Board of Trustees (2018-2023),
+Editor-in-Chief for PVLDB Journal (2024-2025) and BDR Journal (2016-
+2021), PC Chair for IEEE BigData 2023 and ICDE 2023 Industry and
+Applications Track, General Chair for VLDB 2013, Associate Editor for
+the TKDE Journal (2014-2020), and Research PC Vice Chair for ICDE 2020.
 
-[Tova Milo website](https://www.cs.tau.ac.il/~milo/)
+[Themis Palpanas website](https://helios2.mi.parisdescartes.fr/~themisp/)
 
 
 
