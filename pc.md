@@ -2,60 +2,62 @@
 title: SEBD 2024 Program Committee
 ---
 
-TBA
-
-<!--
- - *Maristella Agosti*, University of Padua
- - *Annalisa Appice*, University Aldo Moro of Bari
- - *Mattia Atzeni*, University of Cagliari
+ - *Flora Amato*, University of Naples "Federico II"
+ - *Giuseppe Amato*, CNR-ISTI
+ - *Annalisa Appice*, Univesity of Bari
  - *Maurizio Atzori*, University of Cagliari
- - *Ilaria Bartolini*, University of Bologna
- - *Alberto Belussi*, Dept. of Computer Science, University of Verona
- - *Devis Bianchini*, University of Brescia
- - *Francesco Buccafurri*, UNIRC
+ - *Ada Bagozi*, University of Brescia
+ - *Ilaria Bartolini*, University of Bologna, Italy
+ - *Luigi Bellomarini*, Banca d'Italia
+ - *Francesco Buccafurri*, Università Mediterranea di Reggio Calabria
  - *Luca Cabibbo*, Università Roma Tre
+ - *Andrea Cali*, Birkbeck University of London
+ - *Diego Calvanese*, Free University of Bozen-Bolzano
  - *Cinzia Cappiello*, Politecnico di Milano
  - *Loredana Caruccio*, University of Salerno
- - *Barbara Catania*, DIBRIS-University of Genoa, Italy
- - *Michelangelo Ceci*, Universita degli Studi di Bari
+ - *Barbara Catania*, University of Genoa
  - *Silvia Chiusano*, Politecnico di Torino
- - *Paolo Ciaccia*, University of Bologna
+ - *Paolo Ciaccia*, Università di Bologna
+ - *Valter Crescenzi*, Roma Tre University
  - *Tommaso Di Noia*, Politecnico di Bari
- - *Fabrizio Falchi*, ISTI-CNR
- - *Bettina Fazzinga*, ICAR-CNR, Rende(CS), Italy
- - *Alfio Ferrara*, University of Milan
- - *Elena Ferrari*, University of Insubria
+ - *Guglielmo Faggioli*, University of Padova
+ - *Bettina Fazzinga*, University of Calabria, UNICAL
+ - *Alfio Ferrara*, Università degli Studi di Milano
+ - *Elena Ferrari*, University of Insubria, Varese
  - *Nicola Ferro*, University of Padova
- - *Donatella Firmani*, Roma Tre University
+ - *Donatella Firmani*, Sapienza University
+ - *Enrico Franconi*, Free University of Bozen-Bolzano
  - *Paolo Garza*, Politecnico di Torino
- - *Claudio Gennaro*, ISTI - CNR
- - *Matteo Golfarelli*, University of Bologna
- - *Sergio Greco*, University of Calabria
- - *Francesco Guerra*, Università di Modena e Reggio Emilia
- - *Antonella Guzzo*, University of Calabria
- - *Domenico Lembo*, Sapienza University of Rome
- - *Federica Mandreoli*, DII - University of Modena
- - *Davide Martinenghi*, Politecnico di Milano
- - *Elio Masciari*, Federico II University
- - *Andrea Maurino*, università degli studi di Milano - Bicocca
- - *Massimo Mecella*, Sapienza University of Rome
- - *Fabio Mercorio*, University of Milano Bicocca
- - *Anna Monreale*, Computer Science Dep., University of Pisa
- - *Stefano Montanelli*, University of Milan
- - *Mirco Nanni*, KDD-Lab ISTI-CNR Pisa
- - *Francesco Nocera*, Polytechnic University of Bari
- - *Paolo Papotti*, Eurecom
- - *Stefano Paraboschi*, Universita di Bergamo
- - *Ruggero G. Pensa*, University of Torino, Italy
- - *Barbara Pes*, Università degli Studi di Cagliari, Dipartimento di Matematica e Informatica
- - *Domenico Potena*, Università Politecnica delle Marche
- - *Elisa Quintarelli*, Università di Verona
- - *Carlo Sartiani*, Universita della Basilicata
- - *Domenico Fabio Savo*, University of Bergamo
- - *Monica Scannapieco*, ISTAT
- - *Gianmaria Silvello*, University of Padua
+ - *Matteo Golfarelli*, DISI - University of Bologna
+ - *Giovanna Guerrini*, University of Genoa
+ - *Veronica Guidetti*, University of Modena and Reggio Emilia
+ - *Ornella Irrera*, University of Padua
+ - *Davide Lanti*, Free University of Bozen-Bolzano
+ - *Francesco Leotta*, University of Rome "La Sapienza"
+ - *Giuseppe Manco*, ICAR-CNR, IT
+ - *Stefano Marchesin*, Università di Padova
+ - *Elio Masciari*, University of Naples, Italy
+ - *Andrea Maurino*, università degli studi di Milano Bicocca
+ - *Michele Melchiori*, Università degli Studi di Brescia, Italy
+ - *Laura Menotti*, University of Padua
+ - *Paolo Missier*, Newcastle University
+ - *Cristian Molinaro*, University of Calabria
+ - *Stefano Montanelli*, Università degli Studi di Milano
+ - *Vincenzo Moscato*, University of Naples "Federico II"
+ - *Barbara Oliboni*, University of Verona
+ - *Paolo Papotti*, EURECOM
+ - *Ruggero Pensa*, University of Torino, Italy
+ - *Davide Piantella*, Politecnico di Milano
+ - *Gianvito Pio*, University of Bari
+ - *Giuseppe Polese*, University of Salerno
+ - *Domenico Potena*, Universita' Poltiecnica delle Marche
+ - *Andrea Pugliese*, University of Calabria
+ - *Elisa Quintarelli*, University of Verona
+ - *Carlo Sartiani*, Universita della Basilica
+ - *Domenico Fabio Savo*, Università degli Studi di Bergamo
+ - *Gianmaria Silvello*, University of Padova
+ - *Giovanni Simonini*, University of Modena and Reggio Emilia
  - *Emanuele Storti*, Università Politecnica delle Marche
- - *Letizia Tanca*, Politecnico di Milano
- - *Irina Trubitsyna*, University of Calabria, DIMES
- - *Pierangelo Veltri*, Laboratory of Bioinformatics, University of Catanzaro
--->
+ - *Andrea Tagarelli*, DIMES, University of Calabria, IT
+
+
