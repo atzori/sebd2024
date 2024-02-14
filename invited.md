@@ -27,7 +27,8 @@ Georg Gottlob got his Engineer and Ph.D. degrees in Computer Science from TU Vie
 
 Georg received the Ada Lovelace Medal, the Wittgenstein Award, is an ACM Fellow, an ECCAI Fellow, a Fellow of the Royal Society, a member of the Austrian, German, and European Academies of Sciences. He chaired the Program Committees of IJCAI 2003 and ACM PODS 2000. He is a member of the editorial boards of several journals, e.g. JCSS and CACM. Gottlob is an ISI highly cited researcher.
 
-[Georg Gottlob website](https://demacs.unical.it/storage/addressbook/gAAAAABly4trzs80Fic4fgFmoEBDPSIrT7K5MFJHYavxyev7Ho6vH9zkRgCGNwM9NaMlFPpvknaaFy7eA_LC4EmnBPr_L3t1DA==/)
+ - [Georg Gottlob former webpage at University of Oxford](https://www.cs.ox.ac.uk/people/georg.gottlob/)
+ - [Georg Gottlob website](https://demacs.unical.it/storage/addressbook/gAAAAABly4trzs80Fic4fgFmoEBDPSIrT7K5MFJHYavxyev7Ho6vH9zkRgCGNwM9NaMlFPpvknaaFy7eA_LC4EmnBPr_L3t1DA==/)
 
 
 
