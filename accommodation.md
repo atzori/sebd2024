@@ -7,6 +7,8 @@ We suggest to book at your earliest convenience, in order to guarantee a reserve
 
 In order to book it, please send an email TO: **tanka.mice@voihotels.com** including in CC: **webfoldr+sebd2024@gmail.com** with subject **Room reservation SEBD 2024**, providing the following information:
 
+| |
+|-------|
 | Name  |
 | Surname |
 | Total number of people (including kids) |
