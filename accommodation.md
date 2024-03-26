@@ -2,7 +2,7 @@
 title: How to Book to Tanka Village Villasimius (SEBD 2024 Venue)
 ---
 
-SEBD 2024 will take place at Tanka Village Villasimius. In order to access to the conference venue, all participants are required to book at Tanka Village using the following procedure. Please note that this is for the accommodation only, conference registration payment details will be given later.
+SEBD 2024 will take place at Tanka Village Villasimius. In order to access to the conference venue, **all participants are required to book at Tanka Village** using the following procedure. Please note that this is for the accommodation only, conference registration payment details will be given later.
 We suggest to book at your earliest convenience, in order to guarantee a reserved room with a special price (see below).
 
 In order to book it, please send an email TO: **tanka.mice@voihotels.com** including in CC: **webfoldr+sebd2024@gmail.com** with subject **Room reservation SEBD 2024**, providing the following information:
@@ -13,8 +13,8 @@ In order to book it, please send an email TO: **tanka.mice@voihotels.com** inclu
 | Surname |
 | Total number of people (including kids) |
 | Ages of guests younger than 18 |
-| Check-in date |
-| Check-out date |
+| Check-in date: *June 23 or later* |
+| Check-out date: *should be 3 nights or more* |
 | Additional Notes: *please specify your invoice requirements (e.g. split billing to split costs in different invoices)* |
 
 
