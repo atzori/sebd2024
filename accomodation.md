@@ -18,7 +18,7 @@ In order to book it, please send an email TO: **tanka.mice@voihotels.com** inclu
 | Additional Notes: *please specify your invoice requirements (e.g. split billing to split costs in different invoices)* |
 
 
-## Accomodation Special Prices for SEBD 2024
+##### Accomodation Special Prices for SEBD 2024
 The followings are the limited special rates for SEBD 2024 (prices include Full Board and beverages):
 
 - € 142,00 per night, per person, in double room
