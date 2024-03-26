@@ -28,7 +28,7 @@ For triple rooms, there is a 60% reduction on the third bed for adults and child
 
 For quadruple rooms, standard communicating Casbah rooms are provided, with a supplement of €6.00 per person per day. The following reductions apply: no reduction for adults, a 25% reduction on the double room base rate for children aged 3 to 11.99 years old, and infants aged 0-2.99 years old have a fee of €17.50 per day.
 
-Confirmation and cancellation policies are as follows:
+##### Confirmation and cancellation policies 
 
 At the time of booking, a 30% deposit of the booked stay will be charged and is non-refundable.
 
