@@ -1,5 +1,5 @@
 ---
-title: SEBD 2024 PRELIMINARY Conference Program
+title: SEBD 2024 Preliminary Conference Program
 ---
 
 <!--### Sunday June 23, 2024 -->
@@ -48,12 +48,13 @@ title: SEBD 2024 PRELIMINARY Conference Program
 <div style="padding-top:50px"></div>
 
 
-|          Tuesday June 25, 2020 - Afternoon Sessions  [**(Zoom link)**](/session/tuesday-afternoon)             |
+|          Tuesday June 25, 2020 - Afternoon Sessions          |
 | ------------------------ |
-| Keynote Speaker #2    |
+| Research Sessions   |
 |      <small class="text-muted">break</small>   |
 | Research Sessions   |
-
+|      <small class="text-muted">break</small>   |
+| Social Dinner   |
 
 
 <div style="padding-top:50px"></div>
@@ -65,7 +66,6 @@ title: SEBD 2024 PRELIMINARY Conference Program
 |            Wednesday June 26, 2024            |
 | ----------------------- |
 | Keynote Speaker #3    |
-| Research Sessions |
 |      <small class="text-muted">break</small>   |
 | Research Sessions |
 | **Closing SEBD 2024 and announcements** |
