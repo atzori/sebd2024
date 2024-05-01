@@ -15,7 +15,7 @@ title: SEBD 2024 Preliminary Conference Program
 
 <div style="padding-top:50px"></div>
 
-|            Monday June 24, 2020 - Morning Sessions      |
+|            Monday June 24, 2024 - Morning Sessions      |
 | ------------------------- |
 |  Opening       |
 | Keynote Speaker #1    |
@@ -26,7 +26,7 @@ title: SEBD 2024 Preliminary Conference Program
 <div style="padding-top:50px"></div>
 
 
-|        Monday June 24, 2020 - Afternoon Sessions       |
+|        Monday June 24, 2024 - Afternoon Sessions       |
 | ------------------------ |
 | Research Sessions |
 |      <small class="text-muted">break</small>   |
@@ -38,7 +38,7 @@ title: SEBD 2024 Preliminary Conference Program
 <div style="padding-top:50px"></div>
 
 
-|   Tuesday June 25, 2020 - Morning Sessions            |
+|   Tuesday June 25, 2024 - Morning Sessions            |
 | ------------------------- |
 | Keynote Speaker #2    |
 |      <small class="text-muted">break</small>   |
@@ -48,7 +48,7 @@ title: SEBD 2024 Preliminary Conference Program
 <div style="padding-top:50px"></div>
 
 
-|          Tuesday June 25, 2020 - Afternoon Sessions          |
+|          Tuesday June 25, 2024 - Afternoon Sessions          |
 | ------------------------ |
 | Research Sessions   |
 |      <small class="text-muted">break</small>   |
