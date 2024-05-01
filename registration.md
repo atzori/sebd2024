@@ -22,7 +22,7 @@ Whenever not specified, the following prices are VAT excluded (if applicable, se
 | Student (in presence)   | 250€ | 400€ |
 | Accompanying person (VAT INCLUDED)    &nbsp;&nbsp;&nbsp;&nbsp; | 90€ | 90€ (based on availability) |
 
-
+<br/>
 The *Full registration* will include:
  - Access to the conference
  - Conference materials (usb pen)
