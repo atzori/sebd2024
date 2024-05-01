@@ -14,13 +14,13 @@ At least one of the authors for each accepted paper is expected to register and 
 
 #### Type of registration
 
-The following prices are VAT excluded (if applicable).
+Whenever not specified, the following prices are VAT excluded (if applicable).
 
 |                         | Early registration (up to May, 15) &nbsp;&nbsp;&nbsp;&nbsp;| Late registration (from May, 16) |
 |-------------------------|------------------------------------|----------------------------------|
 | Full (in presence)      | 500€ | 650€ |
 | Student (in presence)   | 250€ | 400€ |
-| Accompanying person    &nbsp;&nbsp;&nbsp;&nbsp; | 90€ | 90€ (based on availability) |
+| Accompanying person (VAT INCLUDED)    &nbsp;&nbsp;&nbsp;&nbsp; | 90€ | 90€ (based on availability) |
 
 
 The *Full registration* will include:
