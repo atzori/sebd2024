@@ -20,7 +20,7 @@ The following prices are VAT excluded (if applicable).
 |-------------------------|------------------------------------|----------------------------------|
 | Full (in presence)      | 500€ | 650€ |
 | Student (in presence)   | 250€ | 400€ |
-| Accompanying person    &nbsp;&nbsp;&nbsp;&nbsp; | 100€ | 100€ (based on availability) |
+| Accompanying person    &nbsp;&nbsp;&nbsp;&nbsp; | 90€ | 90€ (based on availability) |
 
 
 The *Full registration* will include:
