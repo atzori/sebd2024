@@ -14,7 +14,7 @@ At least one of the authors for each accepted paper is expected to register and 
 
 #### Type of registration
 
-Whenever not specified, the following prices are VAT excluded (if applicable).
+Whenever not specified, the following prices are VAT excluded (if applicable, see below for exemption).
 
 |                         | Early registration (up to May, 15) &nbsp;&nbsp;&nbsp;&nbsp;| Late registration (from May, 16) |
 |-------------------------|------------------------------------|----------------------------------|
@@ -65,16 +65,16 @@ In the following the details to make the wire transfer (please note it differs d
  - owner (intestatario): Centro di Competenza ICT SUD
  - bank: MPS
  - bank agency (filiale): Rende (CS), Italy
- - purpose of the payment (causale) need to have the following format: <b>SEBD2020, *participant name*, *participant institution* </b>
+ - purpose of the payment (causale) need to have the following format: <b>SEBD2024, *participant name*, *participant institution* </b>
 
 
 ##### VAT (IVA) Exemption
 
-Some registrants are eligible to skip invoicing and avoid VAT payment.
-This will be possible for public employees that fill in and sign the [VAT exemption module](https://sebd2020.unica.it/registration/vat-exemption.docx). This must be sent
+Some registrants may be eligible to skip invoicing and avoid VAT payment.
+This mey be possible for public employees that fill in and sign the [VAT exemption module](https://sebd2024.unica.it/registration/vat-exemption.docx). This must be sent
 by email to: Mr. Gabriele Gigliotti  (ICT-SUD) at *l.gigliotti@cc-ict-sud.it*
 
 Others (non public employees) will need to include VAT (22%) in the payment (e.g., for authors: €500+22% = €610 total payment) and will receive an invoice including VAT.
 
-For further assistant you can contact  Mr. Gabriele Gigliotti (ICT-SUD) at the email address above.
+Please contact Mr. Gabriele Gigliotti (ICT-SUD) at the email address above for further assistance.
 
