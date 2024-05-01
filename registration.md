@@ -1,31 +1,59 @@
 ---
-title: SEBD 2020 Registration Details and Deadlines
+title: SEBD 2024 Registration Details and Deadlines
 ---
 
 
-Due to COVID-19 pandemia, as many other conferences worldwide, 
-SEBD 2020 will take place as a virtual (online) conference on the original dates, June 21-24, 2020.
-The complete program is [available on the website](https://sebd2020.unica.it/program).  
+SEBD 2024 will take place in presence at VOI Tanka Village Resort, in June 23-26, 2024.
+The preliminary program is [available on the website](/program).
+Before registering to the conference, it is important to verify availability and book your full-board accommodation **at Tanka Village** (Conference Venue, other accommodations will not give access to Tanka Resort and Conference facilities) in advance using one of the following contacts:
+ -  e-mail: Tanka.booking@voihotels.com
+ -  phone: +39 070 79 351  (Mon-Fri 9am-7pm, Sat 9am-6pm).
 
-The official author registration will amount to 100 euros (plus VAT if  
-applicable) and it includes payment receipt and certificate of attendance 
- and small gadget if registers. We kindly require that at least one of the authors  
-officially registers for each accepted paper. The deadline for author  
-registration is **June 10th**.
 
-Other participants have the following options:
+At least one of the authors for each accepted paper is expected to register and present, using the form sent via email to contact authors. The deadline for author (speaker) registration via form is **May 2nd**.
 
- - Regular registration (*SEBD supporter*): 50 euros (plus VAT if applicable), appropriate payment receipt and certificate of attendance 
- and small gadget if registers by June 10th 
- - Student registration (*SEBD supporter*): 20 euros (plus VAT if applicable), appropriate payment receipt and certificate of attendance 
- and small gadget if registers by June 10th 
- - Free partecipation (certificate and gadget are not included)
-  
+#### Type of registration
+
+The following prices are VAT excluded (if applicable).
+
+|                         | Early registration (up to May, 15) | Late registration (from May, 16) |
+|-------------------------|------------------------------------|----------------------------------|
+| Full (in presence)      | 500€ | 650€ |
+| Student (in presence)   | 250€ | 400€ |
+| Accompanying person     | 100€ | 100€ (based on availability) |
+
+
+The *Full registration* will include:
+ - Access to the conference
+ - Conference materials (usb pen)
+ - Coffee breaks at the conference venue
+ - Welcome Cocktail (June 23, 2023)
+ - Social Dinner (June 25, 2023) 
+ - Access to SEBD reserved Palmettes -- beach zone with shared beach loungers and sun umbrellas
+ - Special gadget
+ - Certificate of attendance
+ 
+The *Student registration* will include:
+ - Access to the conference
+ - Conference materials (online)
+ - Coffee breaks at the conference venue
+ - Welcome Cocktail (June 23, 2023)
+ - Social Dinner (June 25, 2023) 
+ - Access to SEBD reserved Palmettes -- beach zone with shared beach loungers and sun umbrellas
+ - Certificate of attendance
+
+The *Accompanying person* will include:
+ - Welcome Cocktail (June 23, 2023)
+ - Social Dinner (June 25, 2023) 
+ - Access to SEBD reserved Palmettes -- beach zone with shared beach loungers and sun umbrellas
+ 
 In the following the details to register.
 
-### How to register to SEBD2020
 
-![](https://sebd2020.unica.it/registration/ict-sud-logo.jpg)
+
+### How to register to SEBD2024
+
+![](https://sebd2024.unica.it/registration/ict-sud-logo.jpg)
 
 
 
@@ -39,25 +67,14 @@ In the following the details to make the wire transfer (please note it differs d
  - bank agency (filiale): Rende (CS), Italy
  - purpose of the payment (causale) need to have the following format: <b>SEBD2020, *participant name*, *participant institution* </b>
 
-#### Type of registration
-
-| Registration Type | Deadline | Amount    | Includes Certificate of Attendance | Includes Gadget | Notes |
-| ----------------- | -------- |---------- |----------------------------------- | --------------- | ----- | 
-| Author  | June 10, 2020 | €100 + VAT  | Yes | Yes | At least one author per paper need to register | 
-| Regular participant (SEBD supporter) - early  | June 10, 2020 | €50 + VAT  | Yes | Yes | |
-| Student participant (SEBD supporter) - early  | June 10, 2020 | €20 + VAT  | Yes | Yes | |
-| Regular participant (SEBD supporter) - late  |  June 21, 2020 | €50 + VAT  | Yes | No | |
-| Student participant (SEBD supporter) - late  |  June 21, 2020 | €20 + VAT  | Yes | No | |
-
-
 
 ##### VAT (IVA) Exemption
 
 Some registrants are eligible to skip invoicing and avoid VAT payment.
 This will be possible for public employees that fill in and sign the [VAT exemption module](https://sebd2020.unica.it/registration/vat-exemption.docx). This must be sent
-by email to: Mrs. Concetta De Paola (ICT-SUD) at *concetta.depaola@cc-ict-sud.it*
+by email to: Mr. Gabriele Gigliotti  (ICT-SUD) at *l.gigliotti@cc-ict-sud.it*
 
-Others (non public employees) will need to include VAT (22%) in the payment (e.g., for authors: €100+22% = €122 total payment) and will receive an invoice including VAT.
+Others (non public employees) will need to include VAT (22%) in the payment (e.g., for authors: €500+22% = €610 total payment) and will receive an invoice including VAT.
 
-For further assistant you can contact Mrs. Concetta De Paola (ICT-SUD) at the email address above.
+For further assistant you can contact  Mr. Gabriele Gigliotti (ICT-SUD) at the email address above.
 
