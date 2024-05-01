@@ -7,14 +7,16 @@ toc:
         url: ./#dates
       - page: Submission Instructions
         url: ./#submission
+      - page: Taste of Time Award Nominations
+        url: ./tta        
   - title: Attending
     submenu:
-      - page: Registration
-      #  url: ./registration
+      - page: Registration and Accommodation
+        url: ./registration
       #- page: Online Participation
       - page: Venue 
         url: https://www.voitankavillage.com/
-      - page: Accommodation
+      #- page: Accommodation
       - page: Travel info
       #  url: http://www.cagliariturismo.it/en/get-to-cagliari
       - page: About Villasimius
@@ -24,15 +26,16 @@ toc:
   - title: Program
     submenu:
       - page: Conference Program
-      #  url: ./program
+        url: ./program
       - page: Keynote Speakers
         url:  ./#keynotes
       #./invited
-      - page: Tutorial and Panels
+      #- page: Tutorial and Panels
       #  url: ./openscience
       #- page: Accepted Papers
       #  url: ./accepted
       - page: Research Project Dissemination
+
       #  url: ./projects
       #- page: Timetable (tba)
       #- page: Special Events (tba)
