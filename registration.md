@@ -7,7 +7,7 @@ SEBD 2024 will take place in presence at VOI Tanka Village Resort, in June 23-26
 The preliminary program is [available on the website](/program).
 Before registering to the conference, it is important to verify availability and book your full-board accommodation **at Tanka Village** (Conference Venue, other accommodations will not give access to Tanka Resort and Conference facilities) in advance using one of the following contacts:
  -  e-mail: Tanka.booking@voihotels.com
- -  phone: +39 070 79 351  (Mon-Fri 9am-7pm, Sat 9am-6pm).
+ -  phone: +3907079351  (Mon-Fri 9am-7pm, Sat 9am-6pm).
 
 
 At least one of the authors for each accepted paper is expected to register and present, using the form sent via email to contact authors. The deadline for author (speaker) registration via form is **May 2nd**.
@@ -16,11 +16,11 @@ At least one of the authors for each accepted paper is expected to register and 
 
 The following prices are VAT excluded (if applicable).
 
-|                         | Early registration (up to May, 15) | Late registration (from May, 16) |
+|                         | Early registration (up to May, 15) &nbsp;&nbsp;&nbsp;&nbsp;| Late registration (from May, 16) |
 |-------------------------|------------------------------------|----------------------------------|
 | Full (in presence)      | 500€ | 650€ |
 | Student (in presence)   | 250€ | 400€ |
-| Accompanying person     | 100€ | 100€ (based on availability) |
+| Accompanying person    &nbsp;&nbsp;&nbsp;&nbsp; | 100€ | 100€ (based on availability) |
 
 
 The *Full registration* will include:
