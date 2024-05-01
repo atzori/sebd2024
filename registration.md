@@ -27,8 +27,8 @@ The *Full registration* will include:
  - Access to the conference
  - Conference materials (usb pen)
  - Coffee breaks at the conference venue
- - Welcome Cocktail (June 23, 2023)
- - Social Dinner (June 25, 2023) 
+ - Welcome Cocktail (June 23, 2024)
+ - Social Dinner (June 25, 2024) 
  - Access to SEBD reserved Palmettes -- beach zone with shared beach loungers and sun umbrellas
  - Special gadget
  - Certificate of attendance
@@ -37,14 +37,14 @@ The *Student registration* will include:
  - Access to the conference
  - Conference materials (online)
  - Coffee breaks at the conference venue
- - Welcome Cocktail (June 23, 2023)
- - Social Dinner (June 25, 2023) 
+ - Welcome Cocktail (June 23, 2024)
+ - Social Dinner (June 25, 2024) 
  - Access to SEBD reserved Palmettes -- beach zone with shared beach loungers and sun umbrellas
  - Certificate of attendance
 
 The *Accompanying person* will include:
- - Welcome Cocktail (June 23, 2023)
- - Social Dinner (June 25, 2023) 
+ - Welcome Cocktail (June 23, 2024)
+ - Social Dinner (June 25, 2024) 
  - Access to SEBD reserved Palmettes -- beach zone with shared beach loungers and sun umbrellas
  
 In the following the details to register.
