@@ -8,7 +8,7 @@ title: Taste of Time Award (TTA) - Call for Nominations
 
 ---
 
-## THE AWARD ##
+## The Award
 
 SEBD (Symposium on Advanced Database System) is the major annual event of the Italian database research community. It is thought of as a gathering forum to meet, discuss, and exchange experiences among all people from academia and industry who are interested in database systems and in all their broad range of applications.
 SEBD 2022 marked the 30th edition, a remarkable achievement, representing a tangible trace of the scientific contributions of the Italian database community, its evolution over a long period of time, and its liveliness. To celebrate this achievement, SEBD 2022 introduced the “Taste of Time” Award (TTA) whose purpose is to recognize seminal contributions and to retrace the history of the Italian database community by selecting significant (AND TASTY 😁) papers from past editions of SEBD.
@@ -18,7 +18,7 @@ SEBD 2024 continues this brand new tradition and calls for nominations for the T
 The ultimate goal of the TTA is to keep the tradition of the SEBD community alive, to contextualize the most important research lines and make sense of their evolution, and to inspire new generations of researchers by discussing how key challenges have been addressed, which ones are still open, and what can follow-up from them.
 
 
-## CRITERIA ##
+## Criteria
 
 The SEBD Steering Committee will select papers based on the following impact criteria:
  - impact within (a subarea of) the database research community
@@ -40,7 +40,7 @@ The SEBD community is very welcome to nominate papers deemed deserving of the TT
 
 
 
-## NOMINATION PROCEDURE ##
+## Nomination Procedure
 
 Nominators are asked to fill in the [nomination form](https://forms.gle/a13zLgz7kgwCCWwo7) by **27 May 2024** at the latest.
 
@@ -48,7 +48,7 @@ The form asks for contact details of the nominator, plus the title and authors o
 
 Each nominator can nominate more than one paper, filling in the form once for each nominated paper. Similarly, the same paper can be nominated by more than one nominator. Nominators cannot belong to the same research group as nominated papers, which also excludes self-nominations.
 
-## COMMITTEE ##
+## Committee
 
  - Elena Baralis (Politecnico di Torino)
  - Sonia Bermamaschi (Università di Modena e Reggio Emilia)
@@ -57,6 +57,6 @@ Each nominator can nominate more than one paper, filling in the form once for ea
  - Letizia Tanca (Politecnico di Milano)
  - Riccardo Torlone (Università Roma Tre) - **Chair**
 
-## QUESTIONS AND FURTHER INFORMATION ##
+## Questions and further information
 
 For any questions and/or additional information, please contact **Nicola Ferro** at *nicola.ferro@unipd.it*
