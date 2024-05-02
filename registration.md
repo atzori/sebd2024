@@ -72,7 +72,7 @@ In the following the details to make the wire transfer (please note it differs d
 ##### VAT (IVA) Exemption
 
 Some registrants may be eligible to skip invoicing and avoid VAT payment.
-This mey be possible for public employees that fill in and sign the [VAT exemption module](https://sebd2024.unica.it/registration/vat-exemption.docx). This must be sent
+This may be possible for public employees that fill in and sign the [VAT exemption module](https://sebd2024.unica.it/registration/vat-exemption.docx). This must be sent
 by email to: Mr. Gabriele Gigliotti  (ICT-SUD) at *l.gigliotti@cc-ict-sud.it*
 
 Others (non public employees) will need to include VAT (22%) in the payment (e.g., for authors: €500+22% = €610 total payment) and will receive an invoice including VAT.
