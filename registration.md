@@ -18,8 +18,8 @@ Whenever not specified, the following prices are VAT excluded (if applicable, se
 
 |                         | Early registration (up to May, 15) &nbsp;&nbsp;&nbsp;&nbsp;| Late registration (from May, 16) |
 |-------------------------|------------------------------------|----------------------------------|
-| Full (in presence)      | 500€ | 650€ |
-| Student (in presence)   | 250€ | 400€ |
+| Full                    | 500€ | 650€ |
+| Student                 | 250€ | 400€ |
 | Accompanying person (VAT INCLUDED)    &nbsp;&nbsp;&nbsp;&nbsp; | 90€ | 90€ (based on availability) |
 
 <br/>
@@ -62,9 +62,9 @@ You can then proceed to make the payment via wire transfer to [Centro di Compete
 In the following the details to make the wire transfer (please note it differs depending who make the payment):
 
  - bank account for payments **made by privates** (IBAN): `IT21H0103080881000061760672`
- - bank account for payments **made directly by Public Administrations** such as Universities and Departments (IBAN): `IT82H0103080881000061763842`
+ - BIC/SWIFT: PASCITM1492
  - owner (intestatario): Centro di Competenza ICT SUD
- - bank: MPS
+ - bank: Banca MPS
  - bank agency (filiale): Rende (CS), Italy
  - purpose of the payment (causale) need to have the following format: <b>SEBD2024, *participant name*, *participant institution* </b>
 
