@@ -18,6 +18,7 @@ toc:
         url: https://www.voitankavillage.com/
       #- page: Accommodation
       - page: Travel info
+        url: ./travel
       #  url: http://www.cagliariturismo.it/en/get-to-cagliari
       - page: About Villasimius
         url: https://www.sardegnaturismo.it/en/places/sud/villasimius
