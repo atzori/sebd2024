@@ -2,6 +2,17 @@
 title: SEBD 2024 Accepted Papers
 ---
 
+
+## Doctoral Consortium Papers
+
+- **#7** *Understanding Emerging Cyber Attacks and Vulnerabilities Targeting Maritime Systems.* Giacomo Longo (University of Genova)*
+- **#19** *Data/Process Analysis for Advanced Interoperable Cyber Ranges.* Giuseppe Salerno (Università della Calabria)*
+- **#66** *Large Language Models integration in Digital Humanities.* Giovanni Sullutrone (University of Modena and Reggio Emilia)*
+- **#82** *Symbolic Regression for Medical Scoring Systems: a Bayesian and Multi-Objective Approach.* Mattia Billa (University of Modena and Reggio Emilia)*
+- **#83** *A Lakehouse-based platform for Data-driven Sustainability Monitoring in Energy-Intensive Production.* Paola Magrino (University of Brescia)*
+
+
+
 ## Papers Accepted for Oral Presentations
 
 - **#1** *Emotional Data Querying: The BI Scenario.* sandro bimonte (inrae); Patrick Marcel (University of Orléans); Stefano Rizzi (DISI - University of Bologna)*
