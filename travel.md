@@ -21,8 +21,10 @@ The bus trip takes approximately 1 hour and 30 minutes, with a ticket cost of �
 
 2. WITH PRIVATE SHUTTLE:
 There is also a private shuttle service, Villasimius Express, connecting Cagliari-Elmas Airport to Villasimius. This service is available by reservation only. The shuttle schedule from March 25th to September 30th, 2024, is as follows:
-Cagliari-Elmas Airport: 08:00 - 10:45 - 15:30 - 19:00 - *23:00
-Villasimius stops at Via Aldo Moro and Via Roma: *05:30 - 09:30 - 12:45 - 17:00 - 20:30
+
+ - Cagliari-Elmas Airport: 08:00 - 10:45 - 15:30 - 19:00 - *23:00
+ - Villasimius stops at Via Aldo Moro and Via Roma: *05:30 - 09:30 - 12:45 - 17:00 - 20:30
+
 The ticket price is €45 for the trips at 5:30 and 23:00, and €25 for the others. The ticket cost is per trip per person, with a minimum of two paying passengers. Single travelers will pay the full ticket price (€90 or €50, depending on the chosen schedule). Ticket fares do not combine with other passengers on board.
 For further details and bookings, visit the [Villasimius Express website](https://www.villasimiusexpress.it/).
 
