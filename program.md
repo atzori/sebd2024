@@ -39,10 +39,10 @@ title: SEBD 2024 Conference Program
 | 9:00 - 10:00 | Keynote Speaker #2    |
 |10:00 - 10:30| Session 5: Process Mining |
 | 10:30 - 11:00 |    <small class="text-muted">coffee break</small>   |
-|11:00 - 12:20 | Session 8: Applications |
+|11:00 - 12:20 | Session 6: Applications |
 |              |Session 7: Data Quality, Preprocessing and Data Analysis |
 | 12.30 - 14.00 | <small class="text-muted">break</small>   |
-|14:00 - 14:30 |Session 6: Interpretable AI|
+|14:00 - 14:30 |Session 8: Interpretable AI|
 |14:30 - 15:30 |	Poster Booster  session II |
 |15:30 - 16:30 |	Poster session II (with coffee break) |
 | |	 |
