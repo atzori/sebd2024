@@ -46,7 +46,7 @@ title: SEBD 2024 Conference Program
 |14:30 - 15:30 |	Poster Booster  session II |
 |15:30 - 16:30 |	Poster session II (with coffee break) |
 | |	 |
-| |	 |
+| | \[...\]	 |
 || Social Dinner   |
 
 
