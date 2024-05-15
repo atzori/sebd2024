@@ -15,13 +15,16 @@ title: SEBD 2024 Preliminary Conference Program
 
 <div style="padding-top:50px"></div>
 
-|            Monday June 24, 2024 - Morning Sessions      |
+|           Monday June 24, 2024       |
 | ------------------------- |
-|  Opening       |
-| Keynote Speaker #1    |
-|     <small class="text-muted">break</small>   |
-| Research Sessions   |
-
+| 9.10-9.30 | Opening       |
+| 9:30 - 10:30 | Keynote Speaker #1    |
+| 10:30 - 11:00 |    <small class="text-muted">coffee break</small>   |
+| 11.00 -12.30 | Session 1: Knowledge Graphs and Semantic Analysis  |
+| 11.00 -12.30 | Session 2: Data Mining and BI |
+| 12.30 - 14.00 | <small class="text-muted">break</small>   
+|14:00 - 15:30 | Session 3: Advanced AI Techniques in Databases |
+|   |Session 4: Natural Language Processing in Databases I|
 
 <div style="padding-top:50px"></div>
 
