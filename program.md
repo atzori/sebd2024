@@ -110,7 +110,7 @@ title: SEBD 2024 Conference Program
 
 <a onclick="goBack()">back to program</a>
 
-#### Session 1: Knowledge Graphs and Semantic Analysis *(55)*
+#### Session 1: Knowledge Graphs and Semantic Analysis *(55mins)*
  - #5   **Building Taxonomies with Triplet Queries** *(10mins)*
  - #15   **Mining Validating Shape for Large Knowledge Graphs via Dynamic Reservoir Sampling** *(10mins)*
  - #8   **A Provenance-Based Caching System to Speed-up SPARQL Query Answering** *(15mins)*
@@ -118,57 +118,57 @@ title: SEBD 2024 Conference Program
  - #53   **Towards the Development of SPIREX for Relation Extraction from RNA-focused Scientific Papers** *(10mins)*
 
 
-#### Session 2: Data Mining and BI *(35)*
+#### Session 2: Data Mining and BI *(35mins)*
  - #64   **Assessing Speech Model Performance: A Subgroup Perspective** *(10mins)*
  - #62   **An Innovative Big Temporal Data Analytics Technique over Real- Life Healthcare Datasets: The F-TBDA Approach** *(15mins)*
  - #1   **Emotional Data Querying: The BI Scenario** *(10mins)*
 
 
-#### Session 3: Advanced AI Techniques in Databases *(55)*
+#### Session 3: Advanced AI Techniques in Databases *(55mins)*
  - #10   **Bootstrapping Gene Expression-Cancer Knowledge Bases with Limited Human Annotations** *(10mins)*
  - #43   **Speeding up Vision Transformers Through Reinforcement Learning** *(10mins)*
  - #81   **Verification of Unary Communicating Datalog Programs** *(10mins)*
  - #30   **Nowcasting of the energy production of wind power plants through spatially-aware model trees** *(10mins)*
  - #26   **Data Filtering for a Sustainable Model Training** *(15mins)*
 
-#### Session 4: Natural Language Processing in Databases I *(30)*
+#### Session 4: Natural Language Processing in Databases I *(30mins)*
  - #65   **Text-to-SQL with Large Language Models: Exploring the Promise and Pitfalls** *(10mins)*
  - #68   **From Product Sheet to Text and Video: A NLG Pipeline to Transform Structured Data into Comprehensive Descriptions** *(10mins)*
  - #13   **Efficient and Effective Multi-Vector Dense Retrieval with EMVB** *(10mins)*
 
-#### Session 5: Process Mining *(30)*
+#### Session 5: Process Mining *(30mins)*
  - #18   **Attacking Maritime Control Systems Through Process Mining** *(10mins)*
  - #17   **Enhancing Next Activity Prediction with Adversarial Training of Vision Transformers** *(10mins)*
  - #84   **Process-level Model Repair through Instance Graphs Representations** *(10mins)*
 
-#### Session 6: Applications *(50)*
+#### Session 6: Applications *(50mins)*
  - #41   **Evaluating status and value assortativity in Threads** *(10mins)*
  - #49   **Development of a Telemedicine Platform for the Mountainous Region of Calabria** *(10mins)*
  - #70   **Food Certification through Collaborative Sensory Analysis Methods and Tools** *(10mins)*
  - #69   **"Dead or Alive, we can deny it". A Differentially Private Approach to Survival Analysis.** *(10mins)*
  - #40   **ASYDE: An Argumentation-based System for classifYing Driving bEhaviors** *(10mins)*
 
-#### Session 7: Data Quality, Preprocessing and Data Analysis *(30)*
+#### Session 7: Data Quality, Preprocessing and Data Analysis *(30mins)*
  - #75   **Witness Generation for JSON Schema** *(10mins)*
  - #27   **The Future of Sustainable Data Preparation** *(10mins)*
  - #51   **Comparing Incomplete Database Instances** *(10mins)*
  - #11   **From why-provenance to why+provenance: Towards addressing deep data explanations in Data-Centric AI** *(10mins)*
 
-#### Session 8: Interpretable AI  *(30)*
+#### Session 8: Interpretable AI  *(30mins)*
  - #21   **A Comparative Assessment of eXplainable AI Tools in Predicting Hard Disk Drive Health** *(10mins)*
  - #39   **Causal Mediation Analysis for Interpreting Large Language Models** *(10mins)*
  - #48   **A Clustering-based Approach for Interpreting Black-box Models** *(10mins)*
 
 
 
-#### Session 9: Entity Resolution and Data Integration *(50)*
+#### Session 9: Entity Resolution and Data Integration *(50mins)*
  - #9   **FDup framework: A General-purpose solution for Efficient Entity Deduplication of Record Collections** *(10mins)*
  - #38   **Combining Entity Resolution and Query Answering in Ontologies: A Formal Conceptual Framework** *(10mins)*
  - #24   **Overlap-Based Duplicate Table Detection** *(10mins)*
  - #50   **Personalised Exploration Graphs on top of Data Lakes** *(10mins)*
  - #55   **How Transformers Are Revolutionizing Entity Matching** *(10mins)*
 
-#### Session 10: Natural Language Processing in Databases II *(30)*
+#### Session 10: Natural Language Processing in Databases II *(30mins)*
  - #33   **CAMEO: Fostering Joint Conversational Search and Recommendation** *(10mins)*
  - #52   **A Framework for the Generation of Training Examples from Tabular Data** *(10mins)*
  - #58   **Clustering Amendments with Semantic Embeddings** *(10mins)*
