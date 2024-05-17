@@ -6,10 +6,15 @@ title: SEBD 2024 Conference Program
 
 <div></div>
 
-|    Sunday June 23, 2024 - Afternoon/Evening Special Session               |
+|    Sunday June 23, 2024 - Doctoral Consortium Session               |
 | ----------------------------- |
 | Doctoral Consortium Session   |
-| Welcome cocktail  |
+| 16.00 - 16.05 | Opening of the DC Session |
+| 16.05 - 17.45 | Student Presentations |
+|  17.45 - 18.25 | Panel with Mentors |
+| 18.25-18.30 | Wrap up |
+| | |
+| | Welcome cocktail  |
 
 <!--### Monday June 24, 2024 -->
 
@@ -17,7 +22,7 @@ title: SEBD 2024 Conference Program
 
 |           Monday June 24, 2024       |
 | ------------------------- |
-| 9.10-9.30 | Opening       |
+| 9.10 - 9.30 | Opening       |
 | 9:30 - 10:30 | Keynote Speaker #1    |
 | 10:30 - 11:00 |    <small class="text-muted">coffee break</small>   |
 | 11.00 -12.30 | Session 1: Knowledge Graphs and Semantic Analysis  |
@@ -68,6 +73,18 @@ title: SEBD 2024 Conference Program
 
 
 ## Sessions
+
+**Note:** for further info on each paper, please consult the list of [SEBD 2024 accepted papers](/accepted).
+
+#### Doctoral Consortium Session *(1h40mins)*
+
+ - #7 **Understanding Emerging Cyber Attacks and Vulnerabilities Targeting Maritime Systems** *(20mins)*
+ - #19 **Data/Process Analysis for Advanced Interoperable Cyber Ranges** *(20mins)*
+ - #66 **Large Language Models integration in Digital Humanities** *(20mins)*
+ - #82 **Symbolic Regression for Medical Scoring Systems** *(20mins)*
+ - #83 **A Lakehouse-based platform for Data-driven Sustainability Monitoring in Energy-Intensive Production** *(20mins)*
+
+
 
 <div id="poster1" class="anchor"></div>
 
