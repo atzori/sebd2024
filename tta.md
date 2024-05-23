@@ -52,6 +52,7 @@ Each nominator can nominate more than one paper, filling in the form once for ea
 
  - Elena Baralis (Politecnico di Torino)
  - Sonia Bermamaschi (Università di Modena e Reggio Emilia)
+ - Silvana Castano (Università di Milano)
  - Nicola Ferro (Università di Padova)
  - Domenico Saccà (Università della Calabria)
  - Letizia Tanca (Politecnico di Milano)
