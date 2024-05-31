@@ -28,7 +28,11 @@ There is also a private shuttle service, Villasimius Express, connecting Cagliar
 The ticket price is €45 for the trips at 5:30 and 23:00, and €25 for the others. The ticket cost is per trip per person, with a minimum of two paying passengers. Single travelers will pay the full ticket price (€90 or €50, depending on the chosen schedule). Ticket fares do not combine with other passengers on board.
 For further details and bookings, visit the [Villasimius Express website](https://www.villasimiusexpress.it/).
 
-## How to Reach the VOI Tanka Village
+### 3. VOI Concierge
+An option made available by Tanka Village is their Concierge service, with direct transfer from Cagliari Airport to Tanka Village 
+You can visit [their website with prices](https://www.ergatourism.it/voiconcierge/services/95/category/transfer) and contact them at: *tanka@voiconcierge.com*
+
+## How to Reach the VOI Tanka Village from Villasimius
 To reach the VOI Tanka Village from the town center, the Municipality of Villasimius offers an hourly bus service starting from June 1st, with a fare of €2 for a single trip and €5 for a daily ticket (please note, however, that this information regards last year’s prices and may be subject to change once the service is reactivated in June). 
 See last year’s [dedicated page](https://www.comune.villasimius.ca.it/villasimius/po/mostra_news.php?id=746&area=H) for further information on the bus stops and contacts. 
 The more convenient stop to easily reach the resort is the one in “Via dei Ginepri - via Notteri - Timi Ama” (Stop Q).
