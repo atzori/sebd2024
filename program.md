@@ -50,9 +50,9 @@ title: SEBD 2024 Conference Program
 |14:00 - 14:30 |Session 8: Interpretable AI|
 |14:30 - 15:30 |	Poster Booster  session II |
 |15:30 - 16:30 |	Poster session II (with coffee break) |
-| |	 |
-| | \[...\]	 |
-|| Social Dinner   |
+| | |
+| 16.30 - 20.30 |	Archaeological tour |
+| 20.30 | Social Dinner at Tanka Village   |
 
 
 <div style="padding-top:50px"></div>
