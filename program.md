@@ -14,7 +14,7 @@ title: SEBD 2024 Conference Program
 |  17.45 - 18.25 | Panel with Mentors |
 | 18.25-18.30 | Wrap up |
 | | |
-| | Welcome cocktail  |
+| about 19.00 | Welcome cocktail  |
 
 <!--### Monday June 24, 2024 -->
 
@@ -23,7 +23,7 @@ title: SEBD 2024 Conference Program
 |           Monday June 24, 2024       |
 | ------------------------- |
 | 9.10 - 9.30 | Opening       |
-| 9:30 - 10:30 | Keynote Speaker #1    |
+| 9:30 - 10:30 | Keynote Speaker: Themis Palpanas    |
 | 10:30 - 11:00 |    <small class="text-muted">coffee break</small>   |
 | 11.00 -12.30 | Session 1: Knowledge Graphs and Semantic Analysis  |
 |              | Session 2: Data Mining and BI |
@@ -41,7 +41,7 @@ title: SEBD 2024 Conference Program
 
 |   Tuesday June 25, 2024          |
 | ------------------------- |
-| 9:00 - 10:00 | Keynote Speaker #2    |
+| 9:00 - 10:00 | Keynote Speaker: Georg Gottlob    |
 |10:00 - 10:30| Session 5: Process Mining |
 | 10:30 - 11:00 |    <small class="text-muted">coffee break</small>   |
 |11:00 - 12:20 | Session 6: Applications |
@@ -63,7 +63,7 @@ title: SEBD 2024 Conference Program
 
 |            Wednesday June 26, 2024            |
 | ----------------------- |
-| 9:30-10:30 |Keynote Speaker #3    |
+| 9:30-10:30 |Keynote Speaker: H. V. Jagadish    |
 | 10:30 - 11:00 |    <small class="text-muted">coffee break</small>   |
 | 11:00 - 12:20 | Session 9: Entity Resolution and Data Integration  |
 |         | Session 10: Natural Language Processing in Databases II |
