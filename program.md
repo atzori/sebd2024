@@ -14,7 +14,7 @@ title: SEBD 2024 Conference Program
 |  17.45 - 18.25 | Panel with Mentors |
 | 18.25-18.30 | Wrap up |
 | | |
-| about 19.00 | Welcome cocktail  |
+| 19.00 | Welcome cocktail  |
 
 <!--### Monday June 24, 2024 -->
 
@@ -51,8 +51,8 @@ title: SEBD 2024 Conference Program
 |14:30 - 15:30 |	Poster Booster  session II |
 |15:30 - 16:30 |	Poster session II (with coffee break) |
 | | |
-| 16.30 - 20.30 |	Archaeological tour |
-| 20.30 | Social Dinner at Tanka Village   |
+| 16.45 - 20.30 |	Archaeological tour |
+| 20.45 | Social Dinner at Tanka Village   |
 
 
 <div style="padding-top:50px"></div>
