@@ -40,11 +40,13 @@ title: SEBD 2024 Keynotes Talks
 
 
 
-## TBA
+## Detecting and Fixing Unfairness in Data-Driven Decision Making
 #### H. V. Jagadish - University of Michigan, U.S.A.
 
 
-**Abstract:** TBA
+**Abstract:** Algorithmic decision-makers can be unfairly biased for many reasons.  Most of these have to do with the data.  We consider challenges in the data used as well as in the results produced.  We will look at multiple examples of how to detect unfairness and how to mitigate it when found.
+
+
 
 **About the Speaker:** H. V. Jagadish	is Edgar F. Codd Distinguished University Professor and Bernard A Galler Collegiate Professor of Electrical Engineering and Computer Science at the University of Michigan in Ann Arbor, and Director of the Michigan Institute for Data Science. Prior to 1999, he was Head of the Database Research Department at AT&T Labs, Florham Park, NJ. Professor Jagadish is well known for his broad-ranging research on information management, and has over 200 major papers and 38 patents, with an H-index of 101. He is a fellow of the ACM since 2003 and of AAAS since 2018. He currently chairs the board of the Academic Data Science Alliance and previously served on the board of the Computing Research Association (2009-2018). He has been an Associate Editor for the ACM Transactions on Database Systems (1992-1995), Program Chair of the ACM SIGMOD annual conference (1996), Program Chair of the ISMB conference (2005), a trustee of the VLDB (Very Large DataBase) foundation (2004-2009), Founding Editor-in-Chief of the Proceedings of the VLDB Endowment (2008-2014), and Program Chair of the VLDB Conference (2014). Since 2016, he is Editor of the Springer (previously Morgan & Claypool) Synthesis Lecture Series on Data Management. Among his many awards, he won the David E Liddle Research Excellence Award (at the University of Michigan) in 2008, the ACM SIGMOD Contributions Award in 2013, and the Distinguished Faculty Achievement Award (at the University of Michigan) in 2019. His popular MOOC on Data Science Ethics is available on both EdX and Coursera.
 
