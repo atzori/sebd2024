@@ -117,7 +117,7 @@ title: SEBD 2024 Conference Program
  - #47   **A Minimum Metadataset for Data Lakes Supporting Healthcare Research** *(4mins)*
  - #57   **Symbolic Regression for Transparent Clinical Decision Support: A Data-Centric Framework for Scoring System Development** *(4mins)*
  - #60   **Biases in Toxicity Detection Models** *(4mins)*
- - #71   **Exploring Large Language Models for Procedure Extraction from Unstructured Text** *(4mins)*
+ - #71   **Exploring Large Language Models for Procedure Extraction from Documents** *(4mins)*
  - #72   **Max Flow Vulnerability of Undirected Planar Networks** *(4mins)*
  - #73   **PNRRorienta: A Web Application for Managing Schools, Courses, and Students Involved in the PNRR Orientation Initiative** *(4mins)*
  - #76   **Improving Malicious Accounts Discrimination through a New Feature Engineering Approach Using Relaxed Functional Dependencies** *(4mins)*
@@ -132,7 +132,7 @@ title: SEBD 2024 Conference Program
  - #15   **Mining Validating Shape for Large Knowledge Graphs via Dynamic Reservoir Sampling** *(10mins)*
  - #8   **A Provenance-Based Caching System to Speed-up SPARQL Query Answering** *(15mins)*
  - #34   **Computing the Why-Provenance for Datalog Queries via SAT Solvers** *(10mins)*
- - #53   **Towards the Development of SPIREX for Relation Extraction from RNA-focused Scientific Papers** *(10mins)*
+ - #53   **Initial Achievements in Relation Extraction from RNA-focused Scientific Papers** *(10mins)*
 
 
 #### Session 2: Data Mining and BI *(35mins)*
@@ -160,7 +160,7 @@ title: SEBD 2024 Conference Program
 
 #### Session 6: Applications *(50mins)*
  - #41   **Evaluating status and value assortativity in Threads** *(10mins)*
- - #49   **Development of a Telemedicine Platform for the Mountainous Region of Calabria** *(10mins)*
+ - #49   **Design of a Telemedicine Infrastructure for Rural and Remote Areas** *(10mins)*
  - #70   **Food Certification through Collaborative Sensory Analysis Methods and Tools** *(10mins)*
  - #69   **"Dead or Alive, we can deny it". A Differentially Private Approach to Survival Analysis.** *(10mins)*
  - #40   **ASYDE: An Argumentation-based System for classifYing Driving bEhaviors** *(10mins)*
