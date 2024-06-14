@@ -32,7 +32,8 @@ title: SEBD 2024 Conference Program
 |              |Session 4: Natural Language Processing in Databases I|
 |15:30 - 16:40 |Poster Booster session I|
 |16:40 - 17:40 | Poster session I (with coffee break)|
-
+|||
+|17:45 - | SEBD2024 Soccer Match|
 
 <!--### Tuesday June 25, 2024 -->
 
