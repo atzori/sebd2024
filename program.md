@@ -51,7 +51,7 @@ title: SEBD 2024 Conference Program
 |14:30 - 15:30 |	Poster Booster  session II |
 |15:30 - 16:30 |	Poster session II (with coffee break) |
 | | |
-| 16.45 - 20.30 |	Archaeological tour |
+| 16.30 - 20.45 |	Archaeological tour |
 | 20.45 | Social Dinner at Tanka Village   |
 
 
