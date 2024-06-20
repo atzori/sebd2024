@@ -22,6 +22,7 @@ title: SEBD 2024 Conference Program
 
 | Monday June 24, 2024 |                                                       |
 | -------------------- | ----------------------------------------------------- |
+| 8.30 -               | Registration                                          |
 | 9.10 - 9.30          | Opening                                               |
 | 9:30 - 10:30         | Keynote Speaker: Themis Palpanas                      |
 | 10:30 - 11:00        | <small class="text-muted">coffee break</small>        |
@@ -31,9 +32,9 @@ title: SEBD 2024 Conference Program
 | 14:00 - 15:30        | Session 3: Advanced AI Techniques in Databases        |
 |                      | Session 4: Natural Language Processing in Databases I |
 | 15:30 - 16:40        | Poster Booster session I                              |
-| 16:40 - 17:40        | Poster session I (with coffee break)                  |
+| 16:40 - 17:30        | Poster session I <small class="text-muted">(with coffee break)</small>                  |
 |                      |                                                       |
-| 17.45 -              | SEBD 2024 Football match                              |        
+| 17.45                | Team building: SEBD 2024 Football match               |        
 
 <!--### Tuesday June 25, 2024 -->
 
@@ -49,9 +50,9 @@ title: SEBD 2024 Conference Program
 | 12.30 - 14.00         | <small class="text-muted">break</small>                  |
 | 14:00 - 14:30         | Session 8: Interpretable AI                              |
 | 14:30 - 15:30         | Poster Booster session II                                |
-| 15:30 - 16:30         | Poster session II (with coffee break)                    |
+| 15:30 - 16:20         | Poster session II <small class="text-muted">(with coffee break)</small>                    |
 |                       |                                                          |
-| 16.30 - 20.45         | Archaeological tour                                      |
+| 16.30 - 20.30         | Archaeological tour                                      |
 | 20.45                 | Social Dinner at Tanka Village                           |
 
 <div style="padding-top:50px"></div>
@@ -71,6 +72,8 @@ title: SEBD 2024 Conference Program
 ## Sessions
 
 <!-- **Note:** for further info on each paper, please consult the list of [SEBD 2024 accepted papers](/accepted).  -->
+
+<div id="dc" class="anchor"></div>
 
 #### Doctoral Consortium Session _(1h40mins)_
 
@@ -95,7 +98,9 @@ title: SEBD 2024 Conference Program
   **A Lakehouse-based platform for Data-driven Sustainability Monitoring in Energy-Intensive Production**
   _(20mins)_ \[[pdf](papers/paper83.pdf)\]
 
-<div id="poster1" class="anchor"></div>
+<a href="" onclick="goBack()">back to program</a>
+
+<div id="booster1" class="anchor"></div>
 
 #### Poster Booster session I _(64mins)_
 
@@ -219,9 +224,10 @@ title: SEBD 2024 Conference Program
   **Compressing Big OLAP Data Cubes over Mobile Clouds: A Hierarchy-Based Data Partitioning Approach**
   _(4mins)_ \[[pdf](papers/paper61.pdf)\]
 
-<a onclick="goBack()">back to program</a>
+<a href="" onclick="goBack()">back to program</a>
 
-<div id="poster2" class="anchor"></div>
+<div id="booster2" class="anchor"></div>
+
 
 #### Poster Booster session II _(52mins)_
 
@@ -326,7 +332,10 @@ title: SEBD 2024 Conference Program
   **Identifying key factors in designing data spaces for Urban Digital Twin Platforms: a data driven approach**
   _(4mins)_ \[[pdf](papers/paper86.pdf)\]
 
-<a onclick="goBack()">back to program</a>
+<a href="" onclick="goBack()">back to program</a>
+
+<div id="s1" class="anchor"></div>
+
 
 #### Session 1: Knowledge Graphs and Semantic Analysis _(55mins)_
 
@@ -369,6 +378,11 @@ title: SEBD 2024 Conference Program
   **Initial Achievements in Relation Extraction from RNA-focused Scientific Papers**
   _(10mins)_ \[[pdf](papers/paper53.pdf)\]
 
+<a href="" onclick="goBack()">back to program</a>
+
+<div id="s2" class="anchor"></div>
+
+
 #### Session 2: Data Mining and BI _(35mins)_
 
 - #64 -
@@ -391,6 +405,10 @@ title: SEBD 2024 Conference Program
   Stefano Rizzi (DISI - University of Bologna)\* -
   **Emotional Data Querying: The BI Scenario**
   _(10mins)_ \[[pdf](papers/paper01.pdf)\]
+
+<a href="" onclick="goBack()">back to program</a>
+
+<div id="s3" class="anchor"></div>
 
 #### Session 3: Advanced AI Techniques in Databases _(55mins)_
 
@@ -429,6 +447,11 @@ title: SEBD 2024 Conference Program
   **Data Filtering for a Sustainable Model Training**
   _(15mins)_ \[[pdf](papers/paper26.pdf)\]
 
+<a href="" onclick="goBack()">back to program</a>
+
+<div id="s4" class="anchor"></div>
+
+
 #### Session 4: Natural Language Processing in Databases I _(30mins)_
 
 - #65 -
@@ -450,6 +473,11 @@ title: SEBD 2024 Conference Program
   Rossano Venturini (University of Pisa) -
   **Efficient and Effective Multi-Vector Dense Retrieval with EMVB**
   _(10mins)_ \[[pdf](papers/paper13.pdf)\]
+
+<a href="" onclick="goBack()">back to program</a>
+
+<div id="s5" class="anchor"></div>
+
 
 #### Session 5: Process Mining _(30mins)_
 
@@ -474,6 +502,10 @@ title: SEBD 2024 Conference Program
   Domenico Potena (Universita’ Poltiecnica delle Marche) -
   **Process-level Model Repair through Instance Graphs Representations**
   _(10mins)_ \[[pdf](papers/paper84.pdf)\]
+
+<a href="" onclick="goBack()">back to program</a>
+
+<div id="s6" class="anchor"></div>
 
 #### Session 6: Applications _(50mins)_
 
@@ -511,6 +543,11 @@ title: SEBD 2024 Conference Program
   **ASYDE: An Argumentation-based System for classifYing Driving bEhaviors**
   _(10mins)_ \[[pdf](papers/paper40.pdf)\]
 
+
+<a href="" onclick="goBack()">back to program</a>
+
+<div id="s7" class="anchor"></div>
+
 #### Session 7: Data Quality, Preprocessing and Data Analysis _(30mins)_
 
 - #27 -
@@ -545,6 +582,10 @@ title: SEBD 2024 Conference Program
   **From why-provenance to why+provenance: Towards addressing deep data explanations in Data-Centric AI**
   _(10mins)_ \[[pdf](papers/paper11.pdf)\]
 
+<a href="" onclick="goBack()">back to program</a>
+
+<div id="s8" class="anchor"></div>
+
 #### Session 8: Interpretable AI _(30mins)_
 
 - #21 -
@@ -568,6 +609,10 @@ title: SEBD 2024 Conference Program
   Simona Nisticò (University of Calabria)\* -
   **A Clustering-based Approach for Interpreting Black-box Models**
   _(10mins)_ \[[pdf](papers/paper48.pdf)\]
+
+<a href="" onclick="goBack()">back to program</a>
+
+<div id="s9" class="anchor"></div>
 
 #### Session 9: Entity Resolution and Data Integration _(50mins)_
 
@@ -611,7 +656,10 @@ title: SEBD 2024 Conference Program
   Francesco Guerra (University of Modena e Reggio Emilia)\* -
   **How Transformers Are Revolutionizing Entity Matching**
   _(10mins)_ \[[pdf](papers/paper55.pdf)\]
--
+
+<a href="" onclick="goBack()">back to program</a>
+
+<div id="s10" class="anchor"></div>
 
 #### Session 10: Natural Language Processing in Databases II _(30mins)_
 
