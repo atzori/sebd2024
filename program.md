@@ -8,6 +8,7 @@ title: SEBD 2024 Conference Program
 
 | Sunday June 23, 2024 - Doctoral Consortium Session |                           |
 | -------------------------------------------------- | ------------------------- |
+| 15.00 - 18.00                                      | Registration              |
 | Doctoral Consortium Session                        |                           |
 | 16.00 - 16.05                                      | Opening of the DC Session |
 | 16.05 - 17.45                                      | Student Presentations     |
@@ -22,7 +23,7 @@ title: SEBD 2024 Conference Program
 
 | Monday June 24, 2024 |                                                       |
 | -------------------- | ----------------------------------------------------- |
-| 8.30 -               | Registration                                          |
+| 8.30 - 16.00         | Registration                                          |
 | 9.10 - 9.30          | Opening                                               |
 | 9:30 - 10:30         | Keynote Speaker: Themis Palpanas                      |
 | 10:30 - 11:00        | <small class="text-muted">coffee break</small>        |
@@ -42,6 +43,7 @@ title: SEBD 2024 Conference Program
 
 | Tuesday June 25, 2024 |                                                          |
 | --------------------- | -------------------------------------------------------- |
+| 8.30 - 16.00          | Registration                                          |
 | 9:00 - 10:00          | Keynote Speaker: Georg Gottlob                           |
 | 10:00 - 10:30         | Session 5: Process Mining                                |
 | 10:30 - 11:00         | <small class="text-muted">coffee break</small>           |
