@@ -3,6 +3,9 @@ title: SEBD 2024 Registration Details and Deadlines
 ---
 
 
+#### REGISTRATIONS ARE CLOSED!
+
+<strike>
 SEBD 2024 will take place in presence at VOI Tanka Village Resort, in June 23-26, 2024.
 The preliminary program is [available on the website](/program).
 Before registering to the conference, it is important to verify availability and book your full-board accommodation **at Tanka Village** (Conference Venue, other accommodations will not give access to Tanka Resort and Conference facilities) in advance using one of the following contacts:
@@ -78,4 +81,6 @@ by email to: Mr. Gabriele Gigliotti  (ICT-SUD) at *l.gigliotti@cc-ict-sud.it*
 Others (non public employees) will need to include VAT (22%) in the payment (e.g., for authors: €500+22% = €610 total payment) and will receive an invoice including VAT.
 
 Please contact Mr. Gabriele Gigliotti (ICT-SUD) at the email address above for further assistance.
+
+</strike>
 
