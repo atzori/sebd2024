@@ -11,7 +11,7 @@ title: SEBD 2024 Conference Program
 | 15.00 - 18.00                                      | Registration              |
 | Doctoral Consortium Session                        |                           |
 | 16.00 - 16.05                                      | Opening of the DC Session |
-| 16.05 - 17.45                                      | [Student Presentations](./#dc)     |
+| 16.05 - 17.45                                      | [Student Presentations](#dc)     |
 | 17.45 - 18.25                                      | Panel with Mentors        |
 | 18.25 - 18.30                                      | Wrap up                   |
 |                                                    |                           |
