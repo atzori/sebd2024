@@ -25,7 +25,7 @@ title: SEBD 2024 Conference Program
 | -------------------- | ----------------------------------------------------- |
 | 8.30 - 16.00         | Registration                                          |
 | 9.10 - 9.30          | Opening                                               |
-| 9:30 - 10:30         | Keynote Speaker: Themis Palpanas                      |
+| 9:30 - 10:30         | Keynote Speaker: [Themis Palpanas](/invited#palpanas)                      |
 | 10:30 - 11:00        | <small class="text-muted">coffee break</small>        |
 | 11.00 - 12.30        | Session 1: Knowledge Graphs and Semantic Analysis     |
 |                      | Session 2: Data Mining and BI                         |
@@ -44,7 +44,7 @@ title: SEBD 2024 Conference Program
 | Tuesday June 25, 2024 |                                                          |
 | --------------------- | -------------------------------------------------------- |
 | 8.30 - 16.00          | Registration                                          |
-| 9:00 - 10:00          | Keynote Speaker: Georg Gottlob                           |
+| 9:00 - 10:00          | Keynote Speaker: [Georg Gottlob](/invited#gottlob)                           |
 | 10:00 - 10:30         | Session 5: Process Mining                                |
 | 10:30 - 11:00         | <small class="text-muted">coffee break</small>           |
 | 11:00 - 12:20         | Session 6: Applications                                  |
@@ -63,7 +63,7 @@ title: SEBD 2024 Conference Program
 
 | Wednesday June 26, 2024 |                                                         |
 | ----------------------- | ------------------------------------------------------- |
-| 9:30 - 10:30            | Keynote Speaker: H. V. Jagadish                         |
+| 9:30 - 10:30            | Keynote Speaker: [H. V. Jagadish](/invited#jagadish)                         |
 | 10:30 - 11:00           | <small class="text-muted">coffee break</small>          |
 | 11:00 - 12:20           | Session 9: Entity Resolution and Data Integration       |
 |                         | Session 10: Natural Language Processing in Databases II |
