@@ -78,6 +78,7 @@ title: SEBD 2024 Conference Program
 <div id="dc" class="anchor"></div>
 
 #### Doctoral Consortium Session _(1h40mins)_
+**Session chairs:** _Donato Malerba, Manuela Sanguinetti_
 
 - #7 -
   Giacomo Longo (University of Genova)\* -
@@ -105,6 +106,7 @@ title: SEBD 2024 Conference Program
 <div id="p1" class="anchor"></div>
 
 #### Poster Booster session I _(64mins)_
+**Session chair:** _Letizia Tanca_
 
 - #2 -
   Luigi Bellomarini (Banca d’Italia);
@@ -232,6 +234,7 @@ title: SEBD 2024 Conference Program
 
 
 #### Poster Booster session II _(52mins)_
+**Session chairs:** 
 
 - #44 -
   Claudio A. Ardagna (Università degli Studi di Milano)\*;
@@ -340,7 +343,7 @@ title: SEBD 2024 Conference Program
 
 
 #### Session 1: Knowledge Graphs and Semantic Analysis _(55mins)_
-
+**Session chair:** _Vincenzo Moscato_
 
 - #5 -
   Donatella Firmani (Sapienza University)\*;
@@ -387,6 +390,7 @@ title: SEBD 2024 Conference Program
 
 
 #### Session 2: Data Mining and BI _(35mins)_
+**Session chair:** _Donatella Firmani_
 
 - #64 -
   Alkis Koudounas (Politecnico di Torino)\*;
@@ -414,6 +418,7 @@ title: SEBD 2024 Conference Program
 <div id="s3" class="anchor"></div>
 
 #### Session 3: Advanced AI Techniques in Databases _(55mins)_
+**Session chair:** _Elio Masciari_
 
 - #10 -
   Stefano Marchesin (Università di Padova)\*;
@@ -456,6 +461,7 @@ title: SEBD 2024 Conference Program
 
 
 #### Session 4: Natural Language Processing in Databases I _(30mins)_
+**Session chair:** _Riccardo Torlone_
 
 - #65 -
   Luca Sala (University of Modena and Reggio Emilia)\*;
@@ -483,6 +489,7 @@ title: SEBD 2024 Conference Program
 
 
 #### Session 5: Process Mining _(30mins)_
+**Session chair:** 
 
 - #18 -
   Giacomo Longo (University of Genova);
@@ -511,6 +518,7 @@ title: SEBD 2024 Conference Program
 <div id="s6" class="anchor"></div>
 
 #### Session 6: Applications _(50mins)_
+**Session chair:** _Francesco Buccafurri_
 
 - #41 -
   Gianluca Bonifazi (Università Politecnica delle Marche);
@@ -552,6 +560,7 @@ title: SEBD 2024 Conference Program
 <div id="s7" class="anchor"></div>
 
 #### Session 7: Data Quality, Preprocessing and Data Analysis _(30mins)_
+**Session chair:** _Enrico Franconi_
 
 - #27 -
   Barbara Pernici (Politecnico di Milano)\*;
@@ -590,6 +599,7 @@ title: SEBD 2024 Conference Program
 <div id="s8" class="anchor"></div>
 
 #### Session 8: Interpretable AI _(30mins)_
+**Session chair:** _Stefano Montanelli_
 
 - #21 -
   Flora Amato (University of Naples “Federico II”);
@@ -618,6 +628,7 @@ title: SEBD 2024 Conference Program
 <div id="s9" class="anchor"></div>
 
 #### Session 9: Entity Resolution and Data Integration _(50mins)_
+**Session chair:** _Maurizio Atzori_
 
 - #9 -
   Michele De Bonis (Istituto di Scienza e Tecnologie dell’Informazione “A. Faedo” -
@@ -665,6 +676,7 @@ title: SEBD 2024 Conference Program
 <div id="s10" class="anchor"></div>
 
 #### Session 10: Natural Language Processing in Databases II _(30mins)_
+**Session chair:** _Paolo Missier_
 
 - #33 -
   Tommaso Di Noia (Politecnico di Bari);
