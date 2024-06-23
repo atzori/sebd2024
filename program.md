@@ -21,7 +21,7 @@ title: SEBD 2024 Conference Program
 
 <div style="padding-top:50px"></div>
 
-| Monday June 24, 2024 |       Sala Begonia&Azalea                                    | Sala Gardenia  |
+| Monday June 24, 2024 |       Sala Begonia                                   | Sala Gardenia  |
 | -------------------- | ----------------------------------------------------- ||
 | 8.30 - 16.00         | Registration                                          ||
 | 9.10 - 9.30          | Opening                                               ||
@@ -94,8 +94,8 @@ title: SEBD 2024 Conference Program
   _(20mins)_ \[[pdf](papers/paper66.pdf)\]
 - #82 -
   Mattia Billa (University of Modena and Reggio Emilia)\* -
-  **Symbolic Regression for Medical Scoring Systems**
-  _(20mins)_ \[[pdf](papers/paper82.pdf)\]
+  **Symbolic Regression for Medical Scoring Systems: a Bayesian and Multi-Objective Approach**
+  _(20mins)_ [pdf](papers/paper82.pdf)
 - #83 -
   Paola Magrino (University of Brescia)\* -
   **A Lakehouse-based platform for Data-driven Sustainability Monitoring in Energy-Intensive Production**
@@ -224,9 +224,12 @@ title: SEBD 2024 Conference Program
   **Integrating Brain Networks and Multi-Modal Data for Early Detection of Alzheimer’s Disease**
   _(4mins)_ \[[pdf](papers/paper42.pdf)\]
 - #61 -
-  Alfredo Cuzzocrea (Universitá della Calabria)\* -
+  Alfredo Cuzzocrea (Università della Calabria)\*;
+  Mojtaba Hajian (Università della Calabria);
+  Abderraouf Hafsaoui (Università della Calabria) -
   **Compressing Big OLAP Data Cubes over Mobile Clouds: A Hierarchy-Based Data Partitioning Approach**
-  _(4mins)_ \[[pdf](papers/paper61.pdf)\]
+  _(4mins)_ [pdf](papers/paper61.pdf)
+
 
 <a href="" onclick="goBack()">back to program</a>
 
