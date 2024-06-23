@@ -228,7 +228,7 @@ title: SEBD 2024 Conference Program
   Mojtaba Hajian (Università della Calabria);
   Abderraouf Hafsaoui (Università della Calabria) -
   **Compressing Big OLAP Data Cubes over Mobile Clouds: A Hierarchy-Based Data Partitioning Approach**
-  _(4mins)_ [pdf](papers/paper61.pdf)
+  _(4mins)_ \[[pdf](papers/paper61.pdf)\]
 
 
 <a href="" onclick="goBack()">back to program</a>
