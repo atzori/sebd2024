@@ -15,13 +15,13 @@ title: SEBD 2024 Conference Program
 | 17.45 - 18.25                                      | Panel with Mentors        |
 | 18.25 - 18.30                                      | Wrap up                   |
 |                                                    |                           |
-| 19.00                                              | Welcome cocktail          |
+| 19.00                                              | **Welcome cocktail** (Giardino dei Sapori)          |
 
 <!--### Monday June 24, 2024 -->
 
 <div style="padding-top:50px"></div>
 
-| Monday June 24, 2024 |       Sala Begonia                                    | Saletta Meeting |
+| Monday June 24, 2024 |       Sala Begonia&Azalea                                    | Sala Gardenia  |
 | -------------------- | ----------------------------------------------------- ||
 | 8.30 - 16.00         | Registration                                          ||
 | 9.10 - 9.30          | Opening                                               ||
