@@ -26,6 +26,9 @@ title: SEBD 2024 Keynotes Talks
  - [Georg Gottlob website](https://demacs.unical.it/storage/addressbook/gAAAAABly4trzs80Fic4fgFmoEBDPSIrT7K5MFJHYavxyev7Ho6vH9zkRgCGNwM9NaMlFPpvknaaFy7eA_LC4EmnBPr_L3t1DA==/)
 
 
+<a href="" onclick="goBack()">back</a>
+
+
 
 <hr id="jagadish"> <!-- ------------------------------- -->
 
@@ -51,6 +54,9 @@ title: SEBD 2024 Keynotes Talks
 **About the Speaker:** H. V. Jagadish	is Edgar F. Codd Distinguished University Professor and Bernard A Galler Collegiate Professor of Electrical Engineering and Computer Science at the University of Michigan in Ann Arbor, and Director of the Michigan Institute for Data Science. Prior to 1999, he was Head of the Database Research Department at AT&T Labs, Florham Park, NJ. Professor Jagadish is well known for his broad-ranging research on information management, and has over 200 major papers and 38 patents, with an H-index of 101. He is a fellow of the ACM since 2003 and of AAAS since 2018. He currently chairs the board of the Academic Data Science Alliance and previously served on the board of the Computing Research Association (2009-2018). He has been an Associate Editor for the ACM Transactions on Database Systems (1992-1995), Program Chair of the ACM SIGMOD annual conference (1996), Program Chair of the ISMB conference (2005), a trustee of the VLDB (Very Large DataBase) foundation (2004-2009), Founding Editor-in-Chief of the Proceedings of the VLDB Endowment (2008-2014), and Program Chair of the VLDB Conference (2014). Since 2016, he is Editor of the Springer (previously Morgan & Claypool) Synthesis Lecture Series on Data Management. Among his many awards, he won the David E Liddle Research Excellence Award (at the University of Michigan) in 2008, the ACM SIGMOD Contributions Award in 2013, and the Distinguished Faculty Achievement Award (at the University of Michigan) in 2019. His popular MOOC on Data Science Ethics is available on both EdX and Coursera.
 
 [H V Jagadish website](https://web.eecs.umich.edu/~jag/)
+
+<a href="" onclick="goBack()">back</a>
+
 
 
 <hr id="palpanas"> <!-- ------------------------------- -->
@@ -114,6 +120,9 @@ Applications Track, General Chair for VLDB 2013, Associate Editor for
 the TKDE Journal (2014-2020), and Research PC Vice Chair for ICDE 2020.
 
 [Themis Palpanas website](https://helios2.mi.parisdescartes.fr/~themisp/)
+
+
+<a href="" onclick="goBack()">back</a>
 
 
 
