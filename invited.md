@@ -129,5 +129,21 @@ the TKDE Journal (2014-2020), and Research PC Vice Chair for ICDE 2020.
 <hr> <!-- ------------------------------- -->
 
 
+<style>
+.anchor {
+	display: block;
+	position: relative;
+	top: -50px;
+	visibility: hidden;
+}
+</style>
 
+<script type="text/javascript">
+function goBack() {
+  window.history.back();
+}
+  window.addEventListener('load', function () {
+	 $('table').addClass('table').addClass('table-bordered')
+  })
+</script>
 
