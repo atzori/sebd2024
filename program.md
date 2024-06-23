@@ -27,13 +27,13 @@ title: SEBD 2024 Conference Program
 | 9.10 - 9.30          | Opening                                               |
 | 9:30 - 10:30         | Keynote Speaker: [Themis Palpanas](/invited#palpanas)                      |
 | 10:30 - 11:00        | <small class="text-muted">coffee break</small>        |
-| 11.00 - 12.30        | Session 1: Knowledge Graphs and Semantic Analysis     |
-|                      | Session 2: Data Mining and BI                         |
+| 11.00 - 12.30        | Session 1: [Knowledge Graphs and Semantic Analysis](#s1)     |
+|                      | Session 2: [Data Mining and BI](#s2)                         |
 | 12.30 - 14.00        | <small class="text-muted">break</small>               |
-| 14:00 - 15:30        | Session 3: Advanced AI Techniques in Databases        |
-|                      | Session 4: Natural Language Processing in Databases I |
-| 15:30 - 16:40        | Poster Booster session I                              |
-| 16:40 - 17:30        | Poster session I <small class="text-muted">(with coffee break)</small>                  |
+| 14:00 - 15:30        | Session 3: [Advanced AI Techniques in Databases](#s3)        |
+|                      | Session 4: [Natural Language Processing in Databases I](#s4) |
+| 15:30 - 16:40        | [Poster Booster session I](#p1)                              |
+| 16:40 - 17:30        | [Poster session I](#p1) <small class="text-muted">(with coffee break)</small>                  |
 |                      |                                                       |
 | 17.45                | Team building: SEBD 2024 Football match               |        
 
@@ -102,7 +102,7 @@ title: SEBD 2024 Conference Program
 
 <a href="" onclick="goBack()">back to program</a>
 
-<div id="booster1" class="anchor"></div>
+<div id="p1" class="anchor"></div>
 
 #### Poster Booster session I _(64mins)_
 
@@ -228,7 +228,7 @@ title: SEBD 2024 Conference Program
 
 <a href="" onclick="goBack()">back to program</a>
 
-<div id="booster2" class="anchor"></div>
+<div id="p2" class="anchor"></div>
 
 
 #### Poster Booster session II _(52mins)_
@@ -340,6 +340,7 @@ title: SEBD 2024 Conference Program
 
 
 #### Session 1: Knowledge Graphs and Semantic Analysis _(55mins)_
+
 
 - #5 -
   Donatella Firmani (Sapienza University)\*;
