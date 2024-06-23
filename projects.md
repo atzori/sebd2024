@@ -33,6 +33,8 @@ Duration: 10/2023-9/2025
 
 **[Project Website](https://demon.unica.it/)** 
 
+<a href="" onclick="goBack()">back</a>
+
 ---
 
 
@@ -61,5 +63,32 @@ Duration: 1/1/2023-31/12/2025
 
 **[Project Website](https://serics.eu/services/spoke-10-governance-protezione-dati/)** 
 
+<a href="" onclick="goBack()">back</a>
+
 
 ---
+
+
+
+
+
+
+<hr> <!-- ------------------------------- -->
+
+
+<style>
+.anchor {
+	display: block;
+	position: relative;
+	top: -50px;
+	visibility: hidden;
+}
+</style>
+
+<script type="text/javascript">
+function goBack() {
+  window.history.back();
+}
+  window.addEventListener('load', function () {
+	 $('table').addClass('table').addClass('table-bordered')
+  })
