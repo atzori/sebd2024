@@ -237,7 +237,8 @@ title: SEBD 2024 Conference Program
 
 
 #### Poster Booster session II _(52mins)_
-**Session chairs:** 
+**Session chairs:** _Gianmaria Silvello (Università degli Studi di Padova)_
+
 
 - #44 -
   Claudio A. Ardagna (Università degli Studi di Milano)\*;
@@ -492,7 +493,8 @@ title: SEBD 2024 Conference Program
 
 
 #### Session 5: Process Mining _(30mins)_
-**Session chair:** 
+**Session chair:** _Sergio Flesca (Università della Calabria)_
+
 
 - #18 -
   Giacomo Longo (University of Genova);
