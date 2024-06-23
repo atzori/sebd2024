@@ -32,10 +32,10 @@ title: SEBD 2024 Conference Program
 | 12.30 - 14.00        | <small class="text-muted">break</small>               ||
 | 14:00 - 15:30        | Session 3: [Advanced AI Techniques in Databases](#s3)        ||
 |                      | Session 4: [Natural Language Processing in Databases I](#s4) ||
-| 15:30 - 16:40        | [Poster Booster session I](#p1)                              | Project Meetings |
+| 15:30 - 16:40        | [Poster Booster session I](#p1)                              | [Project Meetings](/projects) |
 | 16:40 - 17:30        | [Poster session I](#p1) <small class="text-muted">(with coffee break)</small>               |*Steering Committee Meeting*   |
-|                      |                                                       | Project Meetings |
-| 17.45                | Team building: SEBD 2024 Football match               |  Project Meetings      |
+|                      |                                                       | [Project Meetings](/projects) |
+| 17.45                | Team building: SEBD 2024 Football match               |  [Project Meetings](/projects)      |
 
 <!--### Tuesday June 25, 2024 -->
 
