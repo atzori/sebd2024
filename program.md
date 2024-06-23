@@ -45,14 +45,14 @@ title: SEBD 2024 Conference Program
 | --------------------- | -------------------------------------------------------- |
 | 8.30 - 16.00          | Registration                                          |
 | 9:00 - 10:00          | Keynote Speaker: [Georg Gottlob](/invited#gottlob)                           |
-| 10:00 - 10:30         | Session 5: Process Mining                                |
+| 10:00 - 10:30         | Session 5: [Process Mining](#s5)                                |
 | 10:30 - 11:00         | <small class="text-muted">coffee break</small>           |
-| 11:00 - 12:20         | Session 6: Applications                                  |
-|                       | Session 7: Data Quality, Preprocessing and Data Analysis |
+| 11:00 - 12:20         | Session 6: [Applications](#s6)                                  |
+|                       | Session 7: [Data Quality, Preprocessing and Data Analysis](#s7) |
 | 12.30 - 14.00         | <small class="text-muted">break</small>                  |
-| 14:00 - 14:30         | Session 8: Interpretable AI                              |
-| 14:30 - 15:30         | Poster Booster session II                                |
-| 15:30 - 16:20         | Poster session II <small class="text-muted">(with coffee break)</small>                    |
+| 14:00 - 14:30         | Session 8: [Interpretable AI](#s8)                              |
+| 14:30 - 15:30         | [Poster Booster session II](#p2)                                |
+| 15:30 - 16:20         | [Poster session II](#p2) <small class="text-muted">(with coffee break)</small>                    |
 |                       |                                                          |
 | 16.30 - 20.30         | Archaeological tour                                      |
 | 20.45                 | Social Dinner at Tanka Village                           |
@@ -65,8 +65,8 @@ title: SEBD 2024 Conference Program
 | ----------------------- | ------------------------------------------------------- |
 | 9:30 - 10:30            | Keynote Speaker: [H. V. Jagadish](/invited#jagadish)                         |
 | 10:30 - 11:00           | <small class="text-muted">coffee break</small>          |
-| 11:00 - 12:20           | Session 9: Entity Resolution and Data Integration       |
-|                         | Session 10: Natural Language Processing in Databases II |
+| 11:00 - 12:20           | Session 9: [Entity Resolution and Data Integration](#s9)       |
+|                         | Session 10: [Natural Language Processing in Databases II](#s10) |
 | 12:20 - 12:40           | Closing                                                 |
 
 ---
