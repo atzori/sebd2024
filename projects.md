@@ -92,3 +92,4 @@ function goBack() {
   window.addEventListener('load', function () {
 	 $('table').addClass('table').addClass('table-bordered')
   })
+</script>
