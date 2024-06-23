@@ -6,7 +6,7 @@ title: SEBD 2024 Conference Program
 
 <div></div>
 
-| Sunday June 23, 2024 - Doctoral Consortium Session |                           |
+| Sunday June 23, 2024 - Doctoral Consortium Session |    Sala Begonia             |
 | -------------------------------------------------- | ------------------------- |
 | 15.00 - 18.00                                      | Registration              |
 | Doctoral Consortium Session                        |                           |
@@ -21,27 +21,27 @@ title: SEBD 2024 Conference Program
 
 <div style="padding-top:50px"></div>
 
-| Monday June 24, 2024 |                                                       |
-| -------------------- | ----------------------------------------------------- |
-| 8.30 - 16.00         | Registration                                          |
-| 9.10 - 9.30          | Opening                                               |
-| 9:30 - 10:30         | Keynote Speaker: [Themis Palpanas](/invited#palpanas)                      |
-| 10:30 - 11:00        | <small class="text-muted">coffee break</small>        |
-| 11.00 - 12.30        | Session 1: [Knowledge Graphs and Semantic Analysis](#s1)     |
-|                      | Session 2: [Data Mining and BI](#s2)                         |
-| 12.30 - 14.00        | <small class="text-muted">break</small>               |
-| 14:00 - 15:30        | Session 3: [Advanced AI Techniques in Databases](#s3)        |
-|                      | Session 4: [Natural Language Processing in Databases I](#s4) |
-| 15:30 - 16:40        | [Poster Booster session I](#p1)                              |
-| 16:40 - 17:30        | [Poster session I](#p1) <small class="text-muted">(with coffee break)</small>                  |
-|                      |                                                       |
-| 17.45                | Team building: SEBD 2024 Football match               |        
+| Monday June 24, 2024 |       Sala Begonia                                    | Saletta Meeting |
+| -------------------- | ----------------------------------------------------- ||
+| 8.30 - 16.00         | Registration                                          ||
+| 9.10 - 9.30          | Opening                                               ||
+| 9:30 - 10:30         | Keynote Speaker: [Themis Palpanas](/invited#palpanas)     |                 |
+| 10:30 - 11:00        | <small class="text-muted">coffee break</small>        ||
+| 11.00 - 12.30        | Session 1: [Knowledge Graphs and Semantic Analysis](#s1)     ||
+|                      | Session 2: [Data Mining and BI](#s2)                         ||
+| 12.30 - 14.00        | <small class="text-muted">break</small>               ||
+| 14:00 - 15:30        | Session 3: [Advanced AI Techniques in Databases](#s3)        ||
+|                      | Session 4: [Natural Language Processing in Databases I](#s4) ||
+| 15:30 - 16:40        | [Poster Booster session I](#p1)                              | Project Meetings |
+| 16:40 - 17:30        | [Poster session I](#p1) <small class="text-muted">(with coffee break)</small>               |*Steering Committee Meeting*   |
+|                      |                                                       | Project Meetings |
+| 17.45                | Team building: SEBD 2024 Football match               |  Project Meetings      |
 
 <!--### Tuesday June 25, 2024 -->
 
 <div style="padding-top:50px"></div>
 
-| Tuesday June 25, 2024 |                                                          |
+| Tuesday June 25, 2024 |          Sala Begonia                                                |
 | --------------------- | -------------------------------------------------------- |
 | 8.30 - 16.00          | Registration                                          |
 | 9:00 - 10:00          | Keynote Speaker: [Georg Gottlob](/invited#gottlob)                           |
@@ -61,7 +61,7 @@ title: SEBD 2024 Conference Program
 
 <!--### Wednesday June 26, 2024 -->
 
-| Wednesday June 26, 2024 |                                                         |
+| Wednesday June 26, 2024 |       Sala Begonia                                                  |
 | ----------------------- | ------------------------------------------------------- |
 | 9:30 - 10:30            | Keynote Speaker: [H. V. Jagadish](/invited#jagadish)                         |
 | 10:30 - 11:00           | <small class="text-muted">coffee break</small>          |
