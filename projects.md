@@ -6,6 +6,7 @@ title: Research Projects dissemination related to SEBD 2024
  - PRIN 2022  [NEXTCART – Nutritional- and EXTernalities- driven food shopping CART](#cart)
  - PNRR [SERICS Security and Rights in CyberSpace Spoke 10: Governance e protezione dei dati](#serics10)
  - PNRR [SERICS Security and Rights in CyberSpace Spoke 5: Crittografia e sicurezza dei sistemi distribuiti](#serics5)
+ - [Summer School on Artificial Intelligence for a Secure Society](/summer_school_ai_security.pdf) - Capo Vaticano, Ricadi (VV) – Calabria, Italy (Sep 05, 2024 – Sep 10, 2024)
    
 ---
 
