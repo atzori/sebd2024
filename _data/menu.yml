@@ -35,6 +35,8 @@ toc:
       #  url: ./openscience
       - page: Accepted Papers
         url: ./accepted
+      - page: Awards
+        url: ./awards
       - page: Research Project Dissemination
         url: ./projects
 
