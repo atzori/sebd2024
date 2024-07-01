@@ -25,7 +25,8 @@ The winners of the Career Excellence Award are:
 - Letizia Tanca
 - Riccardo Torlone
 
-<div id="participation"></div>
+<div id="participation" class="anchor"></div>
+
 
 ### Outstanding Participation Awards
 The 32nd edition of the SEBD counted 120 registered participants. The Outstanding Participation Awards highlight the institutions with the highest number of members attending the SEBD conference. 
