@@ -27,12 +27,12 @@ The winners of the Career Excellence Award are:
 
 <div id="participation"></div>
 
-### Outstanding Participation Award
-The 32nd edition of the SEBD counted 120 registered participants. The Outstanding Participation Award highlights the institutions with the highest number of members attending the SEBD conference. 
+### Outstanding Participation Awards
+The 32nd edition of the SEBD counted 120 registered participants. The Outstanding Participation Awards highlight the institutions with the highest number of members attending the SEBD conference. 
 
 This year's podium features:
 
-1. With 13 members, the gold medal goes to _Università della Calabria_!
+1. With an impressive number of 13 members, the gold medal goes to _Università della Calabria_!
 2. Very close, with 10 members, the silver medal goes to _Università di Modena e Reggio Emilia_!
 3. With 9 members each, the bronze medal goes to _Università di Milano_ and _Sapienza Università di Roma_!
 
