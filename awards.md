@@ -37,3 +37,9 @@ This year's podium features:
 3. With 9 members each, the bronze medal goes to _Università di Milano_ and _Sapienza Università di Roma_!
 
 Thank you to these winners and all the institutions that have supported SEBD over the years through the participation of their members. 
+
+
+
+    <div style="display: flex; justify-content: center; align-items: center; height: 100vh; font-size: 5em; text-align: center;">
+        a si biri a Ischia!
+    </div>
