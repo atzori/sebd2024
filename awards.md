@@ -26,6 +26,7 @@ The winners of the Career Excellence Award are:
 - Riccardo Torlone
 
 <div id="participation"></div>
+
 ### Outstanding Participation Award
 The Outstanding Participation Award highlights the institutions with the highest number of members attending the SEBD conference. This year's podium features:
 
