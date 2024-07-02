@@ -33,11 +33,11 @@ The 32nd edition of the SEBD counted 120 registered participants. The Outstandin
 
 This year's podium features:
 
-1. With an impressive number of 13 members, the gold medal goes to _Università della Calabria_!
-2. Very close, with 10 members, the silver medal goes to _Università di Modena e Reggio Emilia_!
-3. With 9 members each, the bronze medal goes to _Università di Milano_ and _Sapienza Università di Roma_!
+1. With an impressive 14 members, the gold medal goes to _Università della Calabria_!
+2. Not far behind, with 10 members, the silver medal goes to _Università di Modena e Reggio Emilia_!
+3. Very close, with 9 members each, the bronze medal goes to _Università di Milano_ and _Sapienza Università di Roma_!
 
-Thank you to these winners and all the institutions that have supported SEBD over the years through the participation of their members. 
+Thank you to these winners and all the other institutions that have supported SEBD over the years through the participation of their members. 
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh; font-size: 5em; text-align: center;">
 a si biri a Ischia!
