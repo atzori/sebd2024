@@ -1,7 +1,7 @@
 ---
 title: SEBD 2024 Awards
 ---
-
+ 
 In this edition several Awards have conferred to outstanding members of the SEBD Community, and in particular the Career Excellence Awards, the Taste of Time Award, and the Taste of Time Honorable Mention.
 
 ### Career Excellence Award
