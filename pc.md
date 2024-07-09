@@ -40,6 +40,7 @@ title: SEBD 2024 Program Committee
  - *Andrea Maurino*, università degli studi di Milano Bicocca
  - *Michele Melchiori*, Università degli Studi di Brescia, Italy
  - *Laura Menotti*, University of Padua
+ - *Paolo Mignone*, Universitu of Bari
  - *Paolo Missier*, Newcastle University
  - *Cristian Molinaro*, University of Calabria
  - *Stefano Montanelli*, Università degli Studi di Milano
