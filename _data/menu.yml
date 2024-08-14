@@ -39,7 +39,8 @@ toc:
         url: ./awards
       - page: Research Project Dissemination
         url: ./projects
-
+      - page: Online Open Proceedings (CEUR-WS)
+        url: https://ceur-ws.org/Vol-3741/
       #  url: ./projects
       #- page: Timetable (tba)
       #- page: Special Events (tba)
