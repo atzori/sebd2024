@@ -9,6 +9,7 @@ title: SEBD 2024 Program Committee
  - *Ada Bagozi*, University of Brescia
  - *Ilaria Bartolini*, University of Bologna, Italy
  - *Luigi Bellomarini*, Banca d'Italia
+ - *Gianluca Bonifazi*, Università Politecnica delle Marche 
  - *Francesco Buccafurri*, Università Mediterranea di Reggio Calabria
  - *Luca Cabibbo*, Università Roma Tre
  - *Andrea Cali*, Birkbeck University of London
